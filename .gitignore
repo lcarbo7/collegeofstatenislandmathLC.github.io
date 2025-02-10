@@ -1,3 +1,7 @@
+.DS_Store
 /.quarto/
-/.quarto/*
-_site/
+/_site/
+/_*.local
+*_cache/
+
+requirements.txt
