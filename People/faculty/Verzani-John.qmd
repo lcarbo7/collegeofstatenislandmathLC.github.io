@@ -1,0 +1,22 @@
+---
+title: John Verzani
+image: https://www1.cuny.edu/sites/cunyufs/wp-content/uploads/sites/48/2018/06/Verzani_2018_edit_IMG_2687_leadership_W.jpg
+image-alt: John Verzani
+description: Professor
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+Probability Theory
+
+
+## Contacts
+
+**Office**    | 1S-220     <br/>
+**Telephone** | x3605                              <br/>
+**Email**     | `verzani at math.csi.cuny.edu`                            <br/>
+**url**       | [http://www.math.csi.cuny.edu/~verzani](http://www.math.csi.cuny.edu/~verzani)  <br/>
+
+

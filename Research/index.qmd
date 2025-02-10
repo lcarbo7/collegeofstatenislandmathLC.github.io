@@ -1,0 +1,27 @@
+---
+title: Research activities in the Department of Mathematics
+---
+
+Members of our department carry out research in a variety of fields
+of pure and applied math. Many faculty members are also active
+at the [CUNY Graduate Center](https://www.gc.cuny.edu/), where
+they teach classes, participate in seminars, and supervise
+graduate students in the [Mathematics](https://www.gc.cuny.edu/mathematics),
+[Physics](https://www.gc.cuny.edu/physics),
+[Computer Science](https://www.gc.cuny.edu/computer-science),
+and [Data Science](https://www.gc.cuny.edu/data-science) programs.
+
+## Professors by research area
+
+### Probability
+[Tobias Johnson](../people.html#Tobias%20Johnson), [Jay Rosen](../people.html#Jay%20Rosen)
+
+## Topology
+[Abhijit Champanerkar](../people.html#Abhijit%20Champanerkar)
+
+
+
+[TBD]
+
+
+* [Nearby colleges and universities](nearby-colleges.html)

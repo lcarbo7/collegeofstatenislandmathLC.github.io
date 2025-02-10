@@ -1,0 +1,22 @@
+---
+title: Prabudh Misra
+image: ./default.png
+image-alt: Prabudh Misra
+description: Professor
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+Topology, Semi-group Theory
+
+
+## Contacts
+
+**Office**    | 1S-227     <br/>
+**Telephone** | x3626                              <br/>
+**Email**     | `prabudhram.misra at csi.cuny.edu`                            <br/>
+**url**       | [http://www.math.csi.cuny.edu/~misra](http://www.math.csi.cuny.edu/~misra)  <br/>
+
+

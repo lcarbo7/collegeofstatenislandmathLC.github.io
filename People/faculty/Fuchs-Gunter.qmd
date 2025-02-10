@@ -1,0 +1,21 @@
+---
+title: Gunter Fuchs
+image: /images/people/gunter-headshot.jpg
+image-alt: Gunter Fuchs
+description: Professor
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+Set theory and logic
+
+## Contacts
+
+**Office**    | 1S-225     <br/>
+**Telephone** | x4182                              <br/>
+**Email**     | `gunter.fuchs at csi.cuny.edu`                            <br/>
+**url**       | [http://www.math.csi.cuny.edu/~fuchs](http://www.math.csi.cuny.edu/~fuchs)  <br/>
+
+

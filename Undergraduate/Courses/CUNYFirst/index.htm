@@ -1,0 +1,47 @@
+<div id="course-lists"></div>
+<script>
+    var tables_promise = d3.json("course_list.json");
+    tables_promise.then(dd => {
+	console.log(dd);
+
+	var course_div = d3.select("#course-lists")
+	    .selectAll("div")
+	    .data(Object.values(dd))
+	    .join("div")
+	    .classed("semester-schedule", true);
+	course_div.filter(d => parseInt(d.term_metadata.term_raw) < new Date().getFullYear()).remove();
+	course_div.append("h1").text(t => t.term_metadata.term_raw);
+	course_div.append("table")
+	    .attr("class", "schedule-table")
+	    .append("tbody")
+	    .selectAll("tr")
+	    .data(t => t.coursedata)
+	    .join("tr")
+		    .sort((s,t) => {
+			const coursecodeRE = /MTH\s+(MS)?(\d+)/;
+			const smatch = s.title.match(coursecodeRE);
+			const tmatch = t.title.match(coursecodeRE);
+			    console.log(s);
+			    console.log(t);
+			    console.log(smatch);
+			    console.log(tmatch);
+			    console.log(d3.ascending(parseInt(smatch[2]), parseInt(tmatch[2])));
+			return d3.ascending(parseInt(smatch[2]), parseInt(tmatch[2]));
+		    })
+	    .html(c => `<td>${c.title}</td>
+<td>${c.section}</td>
+<td>${c.instructor}</td>
+<td>${c.room}</td>
+<td>${c.meets}</td>
+<td>${c.dates}</td>
+<td>${c.mode}</td>`)
+	;
+
+	course_div.selectAll("table")
+	    .insert("thead")
+	    .append("tr")
+	    .html("<th>Course Name</th><th>Section</th><th>Instructor</th><th>Room</th><th>Times</th><th>Dates</th><th>Mode</th>");
+	
+	return dd;
+    });
+</script>

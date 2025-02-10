@@ -1,0 +1,22 @@
+---
+title: Tobias Johnson
+image: /images/people/johnson-headshot.jpg
+image-alt: Tobias Johnson
+description: Associate Professor
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+Probability
+
+
+## Contacts
+
+**Office**    | 1S-225     <br/>
+**Telephone** | x3694                              <br/>
+**Email**     | `tobias.johnson at csi.cuny.edu`                            <br/>
+**url**       | [http://www.math.csi.cuny.edu/~tobiasljohnson](http://www.math.csi.cuny.edu/~tobiasljohnson)  <br/>
+
+

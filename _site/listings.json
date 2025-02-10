@@ -1,0 +1,148 @@
+[
+  {
+    "listing": "/about.html",
+    "items": [
+      "/faculty/michelin-man.html",
+      "/faculty/steve-wollman.html"
+    ]
+  },
+  {
+    "listing": "/faculty/steve-wollman.html",
+    "items": []
+  },
+  {
+    "listing": "/faculty/michelin-man.html",
+    "items": []
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/faculty/Champanerkar-Abhijit.html",
+      "/faculty/Tesdall-Allen.html",
+      "/faculty/Poje-Andrew.html",
+      "/faculty/Foldes-Antonia.html",
+      "/faculty/Raychaudhuri-Arundhati.html",
+      "/faculty/Lancellotti-Carlo.html",
+      "/faculty/Conidis-Chris.html",
+      "/faculty/faculty.html",
+      "/faculty/Li-Freda.html",
+      "/faculty/Fuchs-Gunter.html",
+      "/faculty/Kofman-Ilya.html",
+      "/faculty/Rosen-Jay.html",
+      "/faculty/Vukadinovic-Jesenko.html",
+      "/faculty/Verzani-John.html",
+      "/faculty/Maher-Joseph.html",
+      "/faculty/Quinn-Joseph.html",
+      "/faculty/OBryant-Kevin.html",
+      "/faculty/Lucia-Marcello.html",
+      "/faculty/Vejdemo-Johansson-Mikael.html",
+      "/faculty/Talafha-Mohammad.html",
+      "/faculty/Misra-Prabudh.html",
+      "/faculty/Gunn-Sera.html",
+      "/faculty/Wollman-Stephen.html",
+      "/faculty/Johnson-Tobias.html",
+      "/faculty/Schaefer-Tobias.html",
+      "/faculty/Li-Wenjuan.html",
+      "/faculty/Pribitkin-Wladimir.html",
+      "/faculty/Huang-Zheng.html"
+    ]
+  },
+  {
+    "listing": "/faculty/faculty.html",
+    "items": [
+      "/faculty/Champanerkar-Abhijit.html",
+      "/faculty/Tesdall-Allen.html",
+      "/faculty/Poje-Andrew.html",
+      "/faculty/Foldes-Antonia.html",
+      "/faculty/Raychaudhuri-Arundhati.html",
+      "/faculty/Lancellotti-Carlo.html",
+      "/faculty/Conidis-Chris.html",
+      "/faculty/Li-Freda.html",
+      "/faculty/Fuchs-Gunter.html",
+      "/faculty/Kofman-Ilya.html",
+      "/faculty/Rosen-Jay.html",
+      "/faculty/Vukadinovic-Jesenko.html",
+      "/faculty/Verzani-John.html",
+      "/faculty/Maher-Joseph.html",
+      "/faculty/Quinn-Joseph.html",
+      "/faculty/OBryant-Kevin.html",
+      "/faculty/Lucia-Marcello.html",
+      "/faculty/Vejdemo-Johansson-Mikael.html",
+      "/faculty/Talafha-Mohammad.html",
+      "/faculty/Misra-Prabudh.html",
+      "/faculty/Gunn-Sera.html",
+      "/faculty/Wollman-Stephen.html",
+      "/faculty/Johnson-Tobias.html",
+      "/faculty/Schaefer-Tobias.html",
+      "/faculty/Li-Wenjuan.html",
+      "/faculty/Pribitkin-Wladimir.html",
+      "/faculty/Huang-Zheng.html"
+    ]
+  },
+  {
+    "listing": "/People/faculty.html",
+    "items": [
+      "/People/staff.html"
+    ]
+  },
+  {
+    "listing": "/classes/classes.html",
+    "items": [
+      "/classes/MTH123/mth123.html",
+      "/classes/MTH102/mth102.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news/news-item-test.html",
+      "/news/news-item.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/news/news-item-test.html",
+      "/news/news-item.html"
+    ]
+  },
+  {
+    "listing": "/staff/staff.html",
+    "items": [
+      "/staff/michelin-man.html"
+    ]
+  },
+  {
+    "listing": "/people/faculty/faculty.html",
+    "items": [
+      "/people/faculty/Champanerkar-Abhijit.html",
+      "/people/faculty/Tesdall-Allen.html",
+      "/people/faculty/Poje-Andrew.html",
+      "/people/faculty/Foldes-Antonia.html",
+      "/people/faculty/Raychaudhuri-Arundhati.html",
+      "/people/faculty/Lancellotti-Carlo.html",
+      "/people/faculty/Conidis-Chris.html",
+      "/people/faculty/finley-malloc.html",
+      "/people/faculty/Li-Freda.html",
+      "/people/faculty/Fuchs-Gunter.html",
+      "/people/faculty/Kofman-Ilya.html",
+      "/people/faculty/Rosen-Jay.html",
+      "/people/faculty/Vukadinovic-Jesenko.html",
+      "/people/faculty/Verzani-John.html",
+      "/people/faculty/Maher-Joseph.html",
+      "/people/faculty/Quinn-Joseph.html",
+      "/people/faculty/OBryant-Kevin.html",
+      "/people/faculty/Lucia-Marcello.html",
+      "/people/faculty/Vejdemo-Johansson-Mikael.html",
+      "/people/faculty/Talafha-Mohammad.html",
+      "/people/faculty/Misra-Prabudh.html",
+      "/people/faculty/Gunn-Sera.html",
+      "/people/faculty/Wollman-Stephen.html",
+      "/people/faculty/Johnson-Tobias.html",
+      "/people/faculty/Schaefer-Tobias.html",
+      "/people/faculty/Li-Wenjuan.html",
+      "/people/faculty/Pribitkin-Wladimir.html",
+      "/people/faculty/Huang-Zheng.html"
+    ]
+  }
+]

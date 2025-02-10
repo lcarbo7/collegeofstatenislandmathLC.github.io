@@ -1,0 +1,19 @@
+---
+title: Alumni
+---
+
+* [Rayan Ibrahim (2018)](https://raymaths.github.io/)
+    - [PhD 2024 Virginia Commonwealth University](https://scholarscompass.vcu.edu/etd/7780/)
+    - [Visiting Assistant Professor, Department of Mathematics, Lafayette College](https://math.lafayette.edu/faculty-staff/)
+
+* Ensela Mema (2011)
+    - [PhD 2017 NJIT](https://digitalcommons.njit.edu/dissertations/15/)
+    - [Assisant Professor, Kean university](https://www.kean.edu/directory/ensela-mema)
+
+* Karamatou Yacoubou Djima (2008)
+    - [PhD 2015 University of Maryland-College Park](https://drum.lib.umd.edu/items/db307117-7deb-4cfd-b2f0-fe9a134910a9)
+    - [Assistant Professor, Wellesley College](https://www.wellesley.edu/people/karamatou-yacoubou-djima)
+
+* Hervé Nganguia (2003)
+    - [PhD 2014 NJIT](https://digitalcommons.njit.edu/dissertations/161/)
+    - [Associate Professor, Towson University](https://www.towson.edu/fcsm/departments/mathematics/facultystaff/herve-nganguia.html)

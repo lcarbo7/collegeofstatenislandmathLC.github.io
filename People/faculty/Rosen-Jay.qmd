@@ -1,0 +1,22 @@
+---
+title: Jay Rosen
+image: ./default.png
+image-alt: Jay Rosen
+description: Distinguished Professor
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+Probability
+
+
+## Contacts
+
+**Office**    | 1S-204     <br/>
+**Telephone** | x3610                              <br/>
+**Email**     | `jay.rosen at csi.cuny.edu`                            <br/>
+**url**       | [http://www.math.csi.cuny.edu/~rosen](http://www.math.csi.cuny.edu/~rosen)  <br/>
+
+

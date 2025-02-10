@@ -1,0 +1,21 @@
+---
+title: Mohammad Talafha
+image: /images/people/talafha-headshot.png
+image-alt: Mohammad Talafha
+description: Doctoral Lecturer
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+
+
+## Contacts
+
+**Office**    | 1S-208     <br/>
+**Telephone** | x3627                              <br/>
+**Email**     | `mohammad.talafha at csi.cuny.edu`                            <br/>
+**url**       |   <br/>
+
+

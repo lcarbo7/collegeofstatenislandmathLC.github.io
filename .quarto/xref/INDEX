@@ -1,0 +1,602 @@
+{
+  "about.qmd": {
+    "about.html": "f96bef68"
+  },
+  "stuff.qmd": {
+    "stuff.html": "a494d86c"
+  },
+  "People/staff.qmd": {
+    "staff.html": "6aa51d68"
+  },
+  "People/faculty.qmd": {
+    "faculty.html": "a99006fc"
+  },
+  "faculty/steve-wollman.qmd": {
+    "steve-wollman.html": "4813271d"
+  },
+  "faculty/michelin-man.qmd": {
+    "michelin-man.html": "a840d11b"
+  },
+  "introduction.qmd": {
+    "introduction.html": "b0adaff1"
+  },
+  "people.qmd": {
+    "people.html": "77517dd4"
+  },
+  "index.qmd": {
+    "index.html": "5c884cef"
+  },
+  "sidebar-links.qmd": {
+    "sidebar-links.html": "93313076"
+  },
+  "classes/MTH123/mth123.qmd": {
+    "mth123.html": "57454992"
+  },
+  "classes/MTH102/mth102.qmd": {
+    "mth102.html": "c18c3ab4"
+  },
+  "news/news-item.qmd": {
+    "news-item.html": "bae4dd2a"
+  },
+  "news/news-item-test.qmd": {
+    "news-item-test.html": "72b4de3d"
+  },
+  "header.qmd": {
+    "header.html": "781ce621"
+  },
+  "footer.qmd": {
+    "footer.html": "54bbb525"
+  },
+  "faculty/faculty.qmd": {
+    "faculty.html": "ffbd35b9"
+  },
+  "classes.qmd": {
+    "classes.html": "d7d4613f"
+  },
+  "news/news.qmd": {
+    "news.html": "7f1815eb"
+  },
+  "classes/classes.qmd": {
+    "classes.html": "1a8e96e9"
+  },
+  "news.qmd": {
+    "news.html": "4394477e"
+  },
+  "Old/data/Research/index.md": {
+    "index.html": "9df4b9cf"
+  },
+  "Old/data/Research/nearby-colleges.md": {
+    "nearby-colleges.html": "352b2a87"
+  },
+  "Old/data/Faculty/advisement.md": {
+    "advisement.html": "d60fccef"
+  },
+  "Old/data/Faculty/index.md": {
+    "index.html": "9ef7e0d6"
+  },
+  "Old/data/Faculty/Bios/WenjuanLi/index.md": {
+    "index.html": "f4bf522e"
+  },
+  "Old/data/Faculty/Bios/Champanerkar/index.md": {
+    "index.html": "ae97645b"
+  },
+  "Old/data/Faculty/Bios/Kofman/index.md": {
+    "index.html": "671456d4"
+  },
+  "Old/data/Faculty/Bios/Rosen/index.md": {
+    "index.html": "0a97d3cb"
+  },
+  "Old/data/Faculty/Bios/FredaLi/index.md": {
+    "index.html": "d8f94195"
+  },
+  "Old/data/Faculty/Bios/Gunn/index.md": {
+    "index.html": "f3af1d19"
+  },
+  "Old/data/Faculty/Bios/Poje/index.md": {
+    "index.html": "d854158b"
+  },
+  "Old/data/Faculty/Bios/index.md": {
+    "index.html": "bec92a20"
+  },
+  "Old/data/Faculty/Bios/Quinn/index.md": {
+    "index.html": "cb2a333f"
+  },
+  "Old/data/Faculty/Bios/Misra/index.md": {
+    "index.html": "42e16250"
+  },
+  "Old/data/Faculty/Bios/Maher/index.md": {
+    "index.html": "66c1e24b"
+  },
+  "Old/data/Faculty/Bios/Huang/index.md": {
+    "index.html": "879476e8"
+  },
+  "Old/data/Test/markdown.md": {
+    "markdown.html": "b096a6d8"
+  },
+  "Old/data/Test/news.md": {
+    "news.html": "7a314068"
+  },
+  "Old/data/Test/index.md": {
+    "index.html": "9b5b24d3"
+  },
+  "Old/data/WeBWorK/courses.md": {
+    "courses.html": "b4e2ab24"
+  },
+  "Old/data/Resources/index.md": {
+    "index.html": "f0841f5d"
+  },
+  "Old/data/Graduate/index.md": {
+    "index.html": "37e41d2a"
+  },
+  "Old/data/About/mission.md": {
+    "mission.html": "bfdae896"
+  },
+  "Old/data/About/contact.md": {
+    "contact.html": "82072a82"
+  },
+  "Old/data/About/index.md": {
+    "index.html": "10696f25"
+  },
+  "Old/data/juliabox/index.md": {
+    "index.html": "44401357"
+  },
+  "Old/data/News/Graduation-Awardees-2022.md": {
+    "Graduation-Awardees-2022.html": "870cd802"
+  },
+  "Old/data/News/chekroun_seminar.md": {
+    "chekroun_seminar.html": "2ed18621"
+  },
+  "Old/data/News/commencement-2022.md": {
+    "commencement-2022.html": "911115d5"
+  },
+  "Old/data/News/ROY.md": {
+    "ROY.html": "2a8838a7"
+  },
+  "Old/data/News/new-website.md": {
+    "new-website.html": "0811e91e"
+  },
+  "Old/data/Jobs/index.md": {
+    "index.html": "2ac406e5"
+  },
+  "Old/data/Undergraduate/Tutoring/tutoring.md": {
+    "tutoring.html": "90f4f457"
+  },
+  "Old/data/Undergraduate/Tutoring/index.md": {
+    "index.html": "a8ff8733"
+  },
+  "Old/data/Undergraduate/Career/index.md": {
+    "index.html": "246d4358"
+  },
+  "Old/data/Undergraduate/AdvisingDocuments/index.md": {
+    "index.html": "9e0c4c7e"
+  },
+  "Old/data/Undergraduate/AdvisingDocuments/index.md.save.md": {
+    "index.md.save.html": "6c633b38"
+  },
+  "Old/data/Undergraduate/Major/index.md": {
+    "index.html": "eb2e5c10"
+  },
+  "Old/data/Undergraduate/Courses/WebAssign_Instructions/index.md": {
+    "index.html": "493b0f74"
+  },
+  "Old/data/Undergraduate/Courses/MTH113/index.md": {
+    "index.html": "257bc2e6"
+  },
+  "Old/data/Undergraduate/Courses/MTH122/index.md": {
+    "index.html": "4d81aa05"
+  },
+  "Old/data/Undergraduate/Courses/MTH125/index.md": {
+    "index.html": "41f243bf"
+  },
+  "Old/data/Undergraduate/Courses/MTH123/index.md": {
+    "index.html": "63020d02"
+  },
+  "Old/data/Undergraduate/Courses/index.md": {
+    "index.html": "aac40f7c"
+  },
+  "Old/data/Undergraduate/Courses/WeBWorK_Instructions/index.md": {
+    "index.html": "b610ee61"
+  },
+  "Old/data/Undergraduate/Courses/MTH229/index.md": {
+    "index.html": "311f1254"
+  },
+  "Old/data/Undergraduate/Courses/course_list.md": {
+    "course_list.html": "3950f9d7"
+  },
+  "Old/data/Undergraduate/Courses/MTH102/index.md": {
+    "index.html": "3f118166"
+  },
+  "Old/data/Undergraduate/HonorsTheses/index.md": {
+    "index.html": "2aec702c"
+  },
+  "Old/data/Undergraduate/index.md": {
+    "index.html": "2d1531c8"
+  },
+  "Old/data/Undergraduate/Alumni/index.md": {
+    "index.html": "c8f8285d"
+  },
+  "Old/data/Undergraduate/Awards/index.md": {
+    "index.html": "420fce87"
+  },
+  "Old/data/Undergraduate/MathAdvisor/index.md": {
+    "index.html": "86a1fb3d"
+  },
+  "Old/edit_these/tutoring.md": {
+    "tutoring.html": "b72c9a64"
+  },
+  "Old/edit_these/carlo-tmp.md": {
+    "carlo-tmp.html": "893c5bc0"
+  },
+  "Old/edit_these/webwork-courses.md": {
+    "webwork-courses.html": "a0ce4689"
+  },
+  "bonepile.qmd": {
+    "bonepile.html": "2a6e5b40"
+  },
+  "blurbs.qmd": {
+    "blurbs.html": "f4ee81e0"
+  },
+  "calendar.qmd": {
+    "calendar.html": "e4fedc97"
+  },
+  "faculty/Pribitkin-Wladimir.qmd": {
+    "Pribitkin-Wladimir.html": "8c7b1e1d"
+  },
+  "faculty/Li-Wenjuan.qmd": {
+    "Li-Wenjuan.html": "ff2a7890"
+  },
+  "faculty/Champanerkar-Abhijit.qmd": {
+    "Champanerkar-Abhijit.html": "f4440a54"
+  },
+  "faculty/Poje-Andrew.qmd": {
+    "Poje-Andrew.html": "ec99f4ab"
+  },
+  "faculty/Conidis-Chris.qmd": {
+    "Conidis-Chris.html": "eba3ad61"
+  },
+  "faculty/Li-Freda.qmd": {
+    "Li-Freda.html": "d96d6e0d"
+  },
+  "faculty/Huang-Zheng.qmd": {
+    "Huang-Zheng.html": "df2d7f71"
+  },
+  "faculty/Kofman-Ilya.qmd": {
+    "Kofman-Ilya.html": "461db17d"
+  },
+  "faculty/Lancellotti-Carlo.qmd": {
+    "Lancellotti-Carlo.html": "88573ff6"
+  },
+  "faculty/Fuchs-Gunter.qmd": {
+    "Fuchs-Gunter.html": "0e38fbe5"
+  },
+  "faculty/Foldes-Antonia.qmd": {
+    "Foldes-Antonia.html": "d698f039"
+  },
+  "faculty/Gunn-Sera.qmd": {
+    "Gunn-Sera.html": "ce3c6a9e"
+  },
+  "faculty/Johnson-Tobias.qmd": {
+    "Johnson-Tobias.html": "af3f7a78"
+  },
+  "faculty/Rosen-Jay.qmd": {
+    "Rosen-Jay.html": "9f196cad"
+  },
+  "faculty/Verzani-John.qmd": {
+    "Verzani-John.html": "a57311bd"
+  },
+  "faculty/Maher-Joseph.qmd": {
+    "Maher-Joseph.html": "493aa831"
+  },
+  "faculty/Raychaudhuri-Arundhati.qmd": {
+    "Raychaudhuri-Arundhati.html": "7196c354"
+  },
+  "faculty/Talafha-Mohammad.qmd": {
+    "Talafha-Mohammad.html": "c9af64d7"
+  },
+  "faculty/Lucia-Marcello.qmd": {
+    "Lucia-Marcello.html": "4bae5f18"
+  },
+  "faculty/Vukadinovic-Jesenko.qmd": {
+    "Vukadinovic-Jesenko.html": "5c424baf"
+  },
+  "faculty/OBryant-Kevin.qmd": {
+    "OBryant-Kevin.html": "c966450b"
+  },
+  "faculty/Schaefer-Tobias.qmd": {
+    "Schaefer-Tobias.html": "83805f11"
+  },
+  "faculty/Misra-Prabudh.qmd": {
+    "Misra-Prabudh.html": "f3f58739"
+  },
+  "faculty/Quinn-Joseph.qmd": {
+    "Quinn-Joseph.html": "bfb4df29"
+  },
+  "faculty/Tesdall-Allen.qmd": {
+    "Tesdall-Allen.html": "ea9e1893"
+  },
+  "faculty/Wollman-Stephen.qmd": {
+    "Wollman-Stephen.html": "6e430589"
+  },
+  "faculty/Vejdemo-Johansson-Mikael.qmd": {
+    "Vejdemo-Johansson-Mikael.html": "e550fe29"
+  },
+  "staff/michelin-man.qmd": {
+    "michelin-man.html": "5b01edf9"
+  },
+  "staff/staff.qmd": {
+    "staff.html": "97e41358"
+  },
+  "Courses/Tutoring/tutoring.md": {
+    "tutoring.html": "c89a24f3"
+  },
+  "Courses/Tutoring/index.md": {
+    "index.html": "b6de3c2b"
+  },
+  "Courses/Career/index.md": {
+    "index.html": "d30945dc"
+  },
+  "Courses/AdvisingDocuments/index.md": {
+    "index.html": "f000cd75"
+  },
+  "Courses/AdvisingDocuments/index.md.save.md": {
+    "index.md.save.html": "fbef42da"
+  },
+  "Courses/index.qmd": {
+    "index.html": "288d176b"
+  },
+  "Courses/Major/index.md": {
+    "index.html": "265ee7c3"
+  },
+  "Courses/Courses/WebAssign_Instructions/index.md": {
+    "index.html": "2347047a"
+  },
+  "Courses/Courses/MTH113/index.md": {
+    "index.html": "f8da1957"
+  },
+  "Courses/Courses/MTH122/index.md": {
+    "index.html": "04e57046"
+  },
+  "Courses/Courses/MTH125/index.md": {
+    "index.html": "f4a0b31d"
+  },
+  "Courses/Courses/MTH123/index.md": {
+    "index.html": "750eba2b"
+  },
+  "Courses/Courses/index.md": {
+    "index.html": "1a14ba23"
+  },
+  "Courses/Courses/WeBWorK_Instructions/index.md": {
+    "index.html": "4a81f25a"
+  },
+  "Courses/Courses/MTH229/index.md": {
+    "index.html": "2eee0fe4"
+  },
+  "Courses/Courses/course_list.md": {
+    "course_list.html": "610c32a7"
+  },
+  "Courses/Courses/MTH102/index.md": {
+    "index.html": "9007eb53"
+  },
+  "Courses/HonorsTheses/index.md": {
+    "index.html": "fdf61dcb"
+  },
+  "Courses/Alumni/index.md": {
+    "index.html": "db7c3bb9"
+  },
+  "Courses/Awards/index.md": {
+    "index.html": "e9028043"
+  },
+  "Courses/MathAdvisor/index.md": {
+    "index.html": "b643ddfe"
+  },
+  "Undergraduate/Tutoring/tutoring.md": {
+    "tutoring.html": "12a3e926"
+  },
+  "Undergraduate/Tutoring/index.md": {
+    "index.html": "8559fc08"
+  },
+  "Undergraduate/Career/index.md": {
+    "index.html": "0ab206d6"
+  },
+  "Undergraduate/AdvisingDocuments/index.md": {
+    "index.html": "640c1938"
+  },
+  "Undergraduate/AdvisingDocuments/index.md.save.md": {
+    "index.md.save.html": "1f20b65c"
+  },
+  "Undergraduate/index.qmd": {
+    "index.html": "629ec8bc"
+  },
+  "Undergraduate/Major/index.md": {
+    "index.html": "4c1092e5"
+  },
+  "Undergraduate/Courses/WebAssign_Instructions/index.md": {
+    "index.html": "c9bb5b07"
+  },
+  "Undergraduate/Courses/MTH113/index.md": {
+    "index.html": "35dda91b"
+  },
+  "Undergraduate/Courses/MTH122/index.md": {
+    "index.html": "aeba6f2f"
+  },
+  "Undergraduate/Courses/MTH125/index.md": {
+    "index.html": "891ff1fc"
+  },
+  "Undergraduate/Courses/MTH123/index.md": {
+    "index.html": "1de25f27"
+  },
+  "Undergraduate/Courses/index.md": {
+    "index.html": "d308cfee"
+  },
+  "Undergraduate/Courses/WeBWorK_Instructions/index.md": {
+    "index.html": "e9237d0c"
+  },
+  "Undergraduate/Courses/MTH229/index.md": {
+    "index.html": "ff3a1a80"
+  },
+  "Undergraduate/Courses/course_list.md": {
+    "course_list.html": "dcd4f2fa"
+  },
+  "Undergraduate/Courses/MTH102/index.md": {
+    "index.html": "2d15430e"
+  },
+  "Undergraduate/HonorsTheses/index.md": {
+    "index.html": "259e8827"
+  },
+  "Undergraduate/Alumni/index.md": {
+    "index.html": "b7afbcfa"
+  },
+  "Undergraduate/Awards/index.md": {
+    "index.html": "408db8f2"
+  },
+  "Undergraduate/MathAdvisor/index.md": {
+    "index.html": "c3f81d99"
+  },
+  "Undergraduate/Courses/index.qmd": {
+    "index.html": "78f7daf1"
+  },
+  "Undergraduate/Tutoring/tutoring.qmd": {
+    "tutoring.html": "77d5bf38"
+  },
+  "Undergraduate/Tutoring/index.qmd": {
+    "index.html": "cb5e09f2"
+  },
+  "Undergraduate/Career/index.qmd": {
+    "index.html": "12d668e9"
+  },
+  "Undergraduate/AdvisingDocuments/index.qmd": {
+    "index.html": "e52580ca"
+  },
+  "Undergraduate/Major/index.qmd": {
+    "index.html": "4da02fb3"
+  },
+  "Undergraduate/HonorsTheses/index.qmd": {
+    "index.html": "185e2e95"
+  },
+  "people/faculty/Pribitkin-Wladimir.qmd": {
+    "Pribitkin-Wladimir.html": "83d55138"
+  },
+  "people/faculty/Li-Wenjuan.qmd": {
+    "Li-Wenjuan.html": "7a8fdc84"
+  },
+  "people/faculty/OBryant-Kevin.qmd": {
+    "OBryant-Kevin.html": "e70fa456"
+  },
+  "people/faculty/Champanerkar-Abhijit.qmd": {
+    "Champanerkar-Abhijit.html": "8350f1b2"
+  },
+  "people/faculty/Poje-Andrew.qmd": {
+    "Poje-Andrew.html": "a987c4e3"
+  },
+  "people/faculty/Rosen-Jay.qmd": {
+    "Rosen-Jay.html": "611217e1"
+  },
+  "people/faculty/Verzani-John.qmd": {
+    "Verzani-John.html": "3f71768e"
+  },
+  "people/faculty/Conidis-Chris.qmd": {
+    "Conidis-Chris.html": "456d50aa"
+  },
+  "people/faculty/Maher-Joseph.qmd": {
+    "Maher-Joseph.html": "7c1e672e"
+  },
+  "people/faculty/Raychaudhuri-Arundhati.qmd": {
+    "Raychaudhuri-Arundhati.html": "418fc120"
+  },
+  "people/faculty/Li-Freda.qmd": {
+    "Li-Freda.html": "798ec817"
+  },
+  "people/faculty/Talafha-Mohammad.qmd": {
+    "Talafha-Mohammad.html": "9aad309d"
+  },
+  "people/faculty/Huang-Zheng.qmd": {
+    "Huang-Zheng.html": "e8af66f8"
+  },
+  "people/faculty/Kofman-Ilya.qmd": {
+    "Kofman-Ilya.html": "ed31ad8c"
+  },
+  "people/faculty/Lancellotti-Carlo.qmd": {
+    "Lancellotti-Carlo.html": "ee79634a"
+  },
+  "people/faculty/Lucia-Marcello.qmd": {
+    "Lucia-Marcello.html": "5df5d039"
+  },
+  "people/faculty/Vukadinovic-Jesenko.qmd": {
+    "Vukadinovic-Jesenko.html": "e5c84b08"
+  },
+  "people/faculty/Fuchs-Gunter.qmd": {
+    "Fuchs-Gunter.html": "59efc348"
+  },
+  "people/faculty/Schaefer-Tobias.qmd": {
+    "Schaefer-Tobias.html": "da4ec17e"
+  },
+  "people/faculty/Misra-Prabudh.qmd": {
+    "Misra-Prabudh.html": "f89e40c9"
+  },
+  "people/faculty/Quinn-Joseph.qmd": {
+    "Quinn-Joseph.html": "8acc3f29"
+  },
+  "people/faculty/Tesdall-Allen.qmd": {
+    "Tesdall-Allen.html": "b7205b1d"
+  },
+  "people/faculty/faculty.qmd": {
+    "faculty.html": "3e019965"
+  },
+  "people/faculty/Wollman-Stephen.qmd": {
+    "Wollman-Stephen.html": "8a4a95bb"
+  },
+  "people/faculty/Vejdemo-Johansson-Mikael.qmd": {
+    "Vejdemo-Johansson-Mikael.html": "66a1d81f"
+  },
+  "people/faculty/Foldes-Antonia.qmd": {
+    "Foldes-Antonia.html": "e888c769"
+  },
+  "people/faculty/Gunn-Sera.qmd": {
+    "Gunn-Sera.html": "69a02253"
+  },
+  "people/faculty/Johnson-Tobias.qmd": {
+    "Johnson-Tobias.html": "eed97b02"
+  },
+  "people/staff/michelin-man.qmd": {
+    "michelin-man.html": "2daf65af"
+  },
+  "people/staff/staff.qmd": {
+    "staff.html": "038ae6d0"
+  },
+  "Undergraduate/Alumni/index.qmd": {
+    "index.html": "1ff53d31"
+  },
+  "Undergraduate/Awards/index.qmd": {
+    "index.html": "b26fec71"
+  },
+  "Undergraduate/MathAdvisor/index.qmd": {
+    "index.html": "b5b1a112"
+  },
+  "people/faculty/finley-malloc.qmd": {
+    "finley-malloc.html": "9ea9c552"
+  },
+  "readme.qmd": {
+    "readme.html": "666622a9"
+  },
+  "TODO.qmd": {
+    "TODO.html": "1f66994f"
+  },
+  "Research/nearby-colleges.md.qmd": {
+    "nearby-colleges.md.html": "89468c47"
+  },
+  "Research/index.qmd": {
+    "index.html": "fa68f669"
+  },
+  "WeBWorK/courses.qmd": {
+    "courses.html": "c58b019e"
+  },
+  "Resources/index.qmd": {
+    "index.html": "a7cf2cee"
+  },
+  "Graduate/index.qmd": {
+    "index.html": "e802aa34"
+  },
+  "juliabox/index.qmd": {
+    "index.html": "53d29d44"
+  }
+}

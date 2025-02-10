@@ -1,0 +1,19 @@
+---
+title: Abhijit Champanerkar
+image: https://www.csi.cuny.edu/sites/default/files/styles/faculty_img/public/faculty/img_fac_champanemekar.jpg
+image-alt: Abhijit Champanerkar
+description: Professor
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+Hyperbolic 3-manifolds and Knot Theory
+
+## Contacts
+
+**Office**    | 1S-230     <br/>
+**Telephone** | x3613                              <br/>
+**Email**     | `abhijit at math.csi.cuny.edu`                            <br/>
+**url**       | [http://www.math.csi.cuny.edu/~abhijit](http://www.math.csi.cuny.edu/~abhijit)  <br/>

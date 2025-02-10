@@ -1,0 +1,22 @@
+---
+title: Kevin O'Bryant
+image: /images/people/obryant-headshot.jpg
+image-alt: Kevin O'Bryant
+description: Professor
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+Number Theory
+publications: [publications are on the arXiv](http:&#x2F;&#x2F;front.math.ucdavis.edu&#x2F;author&#x2F;K.OBryant) [Reviews on Math Sci-Net](http:&#x2F;&#x2F;www.ams.org&#x2F;mathscinet&#x2F;search&#x2F;publications.html?pg1=IID&amp;s1=667411)
+
+## Contacts
+
+**Office**    | 1S-202     <br/>
+**Telephone** | x3608                              <br/>
+**Email**     | `kevin.obryant at csi.cuny.edu`                            <br/>
+**url**       | [http://www.math.csi.cuny.edu/obryant](http://www.math.csi.cuny.edu/obryant)  <br/>
+
+

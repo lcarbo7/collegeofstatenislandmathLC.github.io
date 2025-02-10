@@ -1,0 +1,22 @@
+---
+title: Mikael Vejdemo-Johansson
+image: /images/people/mvj-headshot.jpg
+image-alt: Mikael Vejdemo-Johansson
+description: Associate Professor
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+Applied Algebraic Topology and Topological Data Analysis
+
+
+## Contacts
+
+**Office**    | 1S-208     <br/>
+**Telephone** | x3630                              <br/>
+**Email**     | `mvj at math.csi.cuny.edu`                            <br/>
+**url**       | [http://www.math.csi.cuny.edu/~mvj](http://www.math.csi.cuny.edu/~mvj)  <br/>
+
+

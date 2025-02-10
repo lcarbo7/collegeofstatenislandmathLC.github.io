@@ -1,0 +1,22 @@
+---
+title: Wladimir Pribitkin
+image: /images/people/pribitkin-headshot.jpg
+image-alt: Wladimir Pribitkin
+description: Professor
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+Number Theory and Automorphic Forms
+
+
+## Contacts
+
+**Office**    | 1S-229     <br/>
+**Telephone** | x3628                              <br/>
+**Email**     | `wladimir.pribitkin at csi.cuny.edu`                            <br/>
+**url**       |   <br/>
+
+

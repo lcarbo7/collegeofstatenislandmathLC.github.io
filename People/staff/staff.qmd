@@ -1,0 +1,7 @@
+---
+title: Staff in the Math Department
+listing:
+  type: grid
+  fields: [title, image, author]  
+---
+

@@ -1,0 +1,22 @@
+---
+title: Antonia Foldes
+image: /images/people/foldes-headshot.jpg
+image-alt: Antonia Foldes
+description: Professor
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+Probability
+
+
+## Contacts
+
+**Office**    | 1S-206     <br/>
+**Telephone** | x3612                              <br/>
+**Email**     | `antonia.foldes at csi.cuny.edu`                            <br/>
+**url**       | [http://www.math.csi.cuny.edu/~foldes](http://www.math.csi.cuny.edu/~foldes)  <br/>
+
+

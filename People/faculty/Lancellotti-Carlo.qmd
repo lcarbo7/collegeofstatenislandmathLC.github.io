@@ -1,0 +1,22 @@
+---
+title: Carlo Lancellotti
+image: /images/people/lancellotti-headshot.jpg
+image-alt: Carlo Lancellotti
+description: Professor
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+Mathematical Physics
+
+
+## Contacts
+
+**Office**    | 1S-215     <br/>
+**Telephone** | x3605                              <br/>
+**Email**     | `carlo.lancellotti at csi.cuny.edu`                            <br/>
+**url**       |   <br/>
+
+

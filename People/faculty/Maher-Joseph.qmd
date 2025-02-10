@@ -1,0 +1,22 @@
+---
+title: Joseph Maher
+image: /images/people/maher-headshot.jpg
+image-alt: Joseph Maher
+description: Professor
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+Geometric Topology
+
+
+## Contacts
+
+**Office**    | 1S-222     <br/>
+**Telephone** | x3623                              <br/>
+**Email**     | `joseph.maher at csi.cuny.edu`                            <br/>
+**url**       | [http://www.math.csi.cuny.edu/~maher](http://www.math.csi.cuny.edu/~maher)  <br/>
+
+

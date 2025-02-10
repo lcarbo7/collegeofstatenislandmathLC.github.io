@@ -1,0 +1,266 @@
+---
+title: The Math Major and Minor
+---
+
+
+The [Undergraduate Catalog](https://csi-undergraduate.catalog.cuny.edu/programs/MTH-BS) lists the requirements of the Math Major. The [Catalog](https://csi-undergraduate.catalog.cuny.edu/programs/MTH-MIN) also lists the requirements of the Math Minor.
+
+Here we describe the requirements more informally.
+
+## Pre-major requirements
+
+Both the Math Major and Minor require a student to complete the pre-major requirements. These include the calculus sequence, a computer science or statistics course.
+
+The major has some expectations on how a student fulfills their general education requirements. In particular there is an expectation of a one-year science course chosen from a select list.
+
+## Major requirements
+
+The Bachelor in Science of Mathematics and Mathematics 7-12 Bachelor of Science degrees are available. The latter requires an additional 24 credits in an Education Sequence and some required elective upper-level courses (below).
+
+
+### Non-elective upper-level courses
+
+To earn a Major in Mathematics there is an expectation of **nine** upper-level math courses beyond the pre-major. **Six** of these courses are required and described below. These courses are offered on a regular basis.
+
+* [MTH301](https://csi-undergraduate.catalog.cuny.edu/courses/1474411) *Introduction to Mathematical Proof*
+
+
+
+* [MTH311](https://csi-undergraduate.catalog.cuny.edu/courses/0661271) *Probability Theory and an Introduction to Mathematical Statistics*
+
+Probabilistic models are used in a variety of fields and applications
+including randomized algorithms, analysis of financial markets and
+quantum mechanics.This course provides the fundamental framework
+through illustrative and practical examples.
+
+
+* [MTH 330](https://csi-undergraduate.catalog.cuny.edu/courses/0661311) *Applied Mathematical Analysis I* **or** [MTH 334](https://csi-undergraduate.catalog.cuny.edu/courses/0661351)  *Differential Equations*
+
+The language of rates allows one to model the physical systems arising
+from real-world phenomena. These courses introduce the student to the
+analytical methods and techniques used in solving systems of
+differential equations.
+
+* [MTH338](https://csi-undergraduate.catalog.cuny.edu/courses/0661381) *Linear Algebra*
+
+Systems of linear equations and their solutions are studied in depth
+in this course. Concepts are taught at both a hands-on and abstract
+level with applications to problems in physics, engineering, economics
+and the social sciences.
+
+* [MTH339](https://csi-undergraduate.catalog.cuny.edu/courses/0661391) *Abstract Algebra*
+
+Group theory and ring theory allow one to analyze a variety of
+problems in mathematics and computer science from the viewpoints of
+abstraction and application. For example, students may prove basic
+results in group theory and apply these results to codes that are used
+on computers.
+
+* [MTH341](https://csi-undergraduate.catalog.cuny.edu/courses/0661401) *Advanced Calculus I*
+
+These courses provide the theoretical basis of modern analysis by
+taking a more general look at the key concepts of calculus including
+continuous functions, differentiable functions and integration theory
+
+
+### Elective upper-level courses
+
+Majors need 3 upper-level elective courses chosen from among the following. These courses are offered on a rotating basis.
+
+* [MTH306](https://csi-undergraduate.catalog.cuny.edu/courses/0661251) *History of Math*
+
+Learn about mathematics by studying the development of mathematical
+ideas and techniques from antiquity through the eighteenth century.
+Topics involve arithmetic, algebra, trigonometry, and analytic
+geometry and will be drawn from Babylonian, Egyptian, Greek, Chinese,
+Hindu, Arabian and European mathematics.
+
+* [MTH 329](https://csi-undergraduate.catalog.cuny.edu/courses/0661301) *Geometry*
+
+Fundamental concepts in Euclidean geometry in two and three dimensions
+and non-Euclidean geometry are covered with applications to image
+processing and map-making. Topics include classical axiomatic
+geometry, classification of polygons and polyhedra, and representation
+of curves and surfaces.
+
+* [MTH 331](https://csi-undergraduate.catalog.cuny.edu/courses/0661321) *Differential Equations*
+
+The language of rates allows one to model the physical systems arising
+from real-world phenomena. These courses introduce the student to the
+analytical methods and techniques used in solving systems of
+differential equations
+
+* [MTH335](https://csi-undergraduate.catalog.cuny.edu/courses/0661361) *Numerical Analysis (Required for the CS -Math BS degree)*
+
+Since the advent of the computers, algorithms have been developed to
+approximate numerical solutions to large-scale systems. This course
+introduces the student to the primary algorithms and tackles issues
+concerning computational efficiency, stability and error analysis.
+
+* [MTH337](https://csi-undergraduate.catalog.cuny.edu/courses/0661371) *Combinatorics and Graph Theory*
+
+Many problems of a discrete nature, such as finding optimal postal
+routes and frequency assignments, are analyzed with graph theory. This
+course introduces the basic framework and shows how different problems
+can be solved within this.
+
+* [MTH 342](https://csi-undergraduate.catalog.cuny.edu/courses/0661411) *Advanced Calculus II*
+
+Continuation of MTH 341
+
+* [MTH 347](https://csi-undergraduate.catalog.cuny.edu/courses/0661421) *Number Theory*
+
+Problems from many branches of mathematics often reduce to the
+investigation of properties of a particular set of numbers; for
+example, the set of integer solutions to a certain equation. This
+course covers many elegant results from number theory, including some
+applications to cryptography.
+
+* [MTH 349](https://csi-undergraduate.catalog.cuny.edu/courses/1176111) *Introduction to Cryptology*
+
+Cryptography is the study of concealing information, and is often called encryption and decryption. Cryptology is the study of the principles, techniques, other uses, and history of cryptography. This includes cryptanalysis, the study of breaking encryption schemes and finding weaknesses in security. In this course, the student will learn several historical cryptosystems and the modern math one would use to break them. This course has substantive overlap with MTH 347 (Number Theory), MTH 339 (Abstract Algebra), and MTH 311 (Probability).
+
+* [MTH 350](https://csi-undergraduate.catalog.cuny.edu/courses/0661431) *Logic*
+
+What is an algorithm? When is a function computable? When is a
+question decidable?  Computability theory, a part of logic, shows that
+some functions are not computable and some questions are not
+decidable.
+
+* [MTH 370](https://csi-undergraduate.catalog.cuny.edu/courses/0661451) *Operations Research*
+
+Many decision-making problems can be modeled as linear optimization
+problems with constraints. Simplex method is used to find optimal
+solutions for these problems. Transportation problem is discussed as
+well.
+
+* [MTH 372](https://csi-undergraduate.catalog.cuny.edu/courses/1542081) *Practical Machine Learning*
+
+Amazon's and Netflix' recommendations. Google's automatic translations. Siri, Alexa, Google Assistant and Cortana. All of these run on a common set of technologies: Machine Learning. Using a blend of software engineering and modern statistics, Machine Learning algorithms extract patterns from (possibly very large) data sets and generate likely functions that describe these patterns.
+
+In this course, we will learn the basics of Machine Learning through hands-on implementation. By participating in competitions on Kaggle we will learn how to build a Machine Learning algorithm using the standard tools in the field as well as the theory that fuels the methods in the first place.
+
+The course covers supervised and unsupervised learning, clustering and regression problems, and takes you through team work through 4 different competition tasks to build Machine Learning pipelines to take you all the way from raw data to predictions with prediction quality scoring.
+
+* [MTH 410](https://csi-undergraduate.catalog.cuny.edu/courses/0661471) *Mathematical Statistics I*
+
+Statistics and Probability are closely coupled fields that deal with uncertainty and undeterministic processes in a way most mathematics does not engage with: Probability gives us a language and toolbox to model randomness and uncertainty, while Statistics gives us a toolbox to match probabilistic tools to concretely observed data as well as the ability to quantify our degree of certainty and perform quality control on our models.
+
+In this course, we study statistics from a mathematical foundations perspective. Starting with the problem of how to estimate unknown quantities, and the ways that we can describe the quality of our estimators, the course continues to a formal theory of hypothesis testing and derives most tests that occur in a practical statistics course directly from properties of estimators and tests generated from them.
+
+Many statistics courses will tell you *how* to test a claim using data. This course will tell you *why* these tests work.
+
+* [MTH 411](https://csi-undergraduate.catalog.cuny.edu/departments/MATH-CSI/courses) *Mathematical Statistics II*
+
+Continuation of MTH 410
+
+* [MTH 415](https://csi-undergraduate.catalog.cuny.edu/courses/0659401) *Mathematical Biology*
+
+This course involves the growing interaction between mathematics and
+the biological sciences and provides a practical context for the
+mathematical description
+
+* [MTH 416](https://csi-undergraduate.catalog.cuny.edu/courses/0645952) *Mathematics of Finance*
+
+Mathematical techniques for solving problems arising in finance and
+financial markets are covered. Students will develop financial models
+and apply mathematical methods to concrete problems.
+
+* [MTH 430](https://csi-undergraduate.catalog.cuny.edu/courses/1144061) *Partial Differential Equations*
+
+Topics covered include first-order equations and the method of
+characteristics, canonical forms of second-order equations and the
+analysis of prototype hyperbolic, parabolic, elliptic equations with
+applications to mathematical physics and engineering.
+
+
+* [MTH 431](https://csi-undergraduate.catalog.cuny.edu/courses/0661511) *Complex Analysis*
+
+The complex numbers extend the real numbers in magical ways. This
+course introduces the student to functions that depend on a complex
+variable and take values in the complex plane.
+
+* [MTH 435](https://csi-undergraduate.catalog.cuny.edu/courses/0661531) *Nonlinear Dynamics and Chaos*
+
+Why is the weather forecast accurate only once every few days? Is
+tossing a coin really random? Techniques used to address these and
+similar questions are introduced with concrete examples in physics,
+biology and engineering.
+
+* [MTH 437](https://csi-undergraduate.catalog.cuny.edu/courses/0661541) *Mathematical Modeling*
+
+This course explores the essential components of constructing a
+mathematical model, from problem identification and variable selection
+to model analysis and refinement. The aim is to provide experience in
+the process of building useful models in a variety of real world
+settings.
+
+* [MTH 440](https://csi-undergraduate.catalog.cuny.edu/departments/MATH-CSI/courses) *Foundations of Mathematics*
+
+ Is every true statement provable? Mathematical logic, the study of
+truth and provability, shows that axioms can be true in different
+ways, in different models. Fuzzy logic allows for bizarre intermediate
+truth values between true and false
+
+
+* [MTH 441](https://csi-undergraduate.catalog.cuny.edu/courses/0661571) *Topology*
+
+Topology involves the study of geometrical properties using analytical
+and algebraic tools. This course introduces the basic framework.
+
+* [MTH 442](https://csi-undergraduate.catalog.cuny.edu/courses/0661581) *Abstract Algebra II*
+
+Rings, integral domains, fields. Introduction to Galois theory.
+
+* [MTH 445](https://csi-undergraduate.catalog.cuny.edu/courses/1300951) *Differential Geometry*
+
+
+Differential geometry is a mathematical discipline that uses the
+methods of differential and integral calculus to study problems in
+geometry.
+
+Using the analytical tools of calculus, Euler and Lagrange were able
+to understand what are the curves on a surface that minimize the
+distance between two points. A main question is how those curves can
+be determined by using intrinsic measurement of the surfaces. In that
+direction, Gauss in 1825 made some fundamental contributions to theory
+of surfaces. His papers contain practical calculations of the
+curvature of the earth based purely on measurements made on the
+surface. He considered also properties of surfaces which are
+determined only by the geodesic distances between points on the
+surface independently of the particular way in which the surface is
+located in the ambient Euclidean space. This led to his Theorema
+Egregium, a fundamental result which explains why there cannot be an
+accurate planar map of the world.
+
+![Catenoid](../../images/images/catenoid.png)
+![Soap bubble](../../images/images/soap-bubble.png)
+
+
+Differential Geometry allows also to explain and describe the
+beautiful surfaces created by playing with soap bubbles. They are in
+fact examples of "minimal surfaces", a family of geometrical object
+that turns out to be quite relevant in applications. The above picture
+is the famous “catenoid” already studied by Euler.
+
+In the applied world, Differential Geometry allows to design shapes
+used in everyday life, and is helpful when looking for a minimal path
+on curved surfaces. In physics, it allows to describe complicated
+physical systems leading to the Lagrangian formalism and General
+Relativity. The success of these theories makes Differential Geometry
+one of the fundamental tools in modern physics.
+
+
+
+## Pure Mathematics Emphasis
+
+
+Students who wish to focus on theoretical aspects of mathematics are advised to include courses from Differential Equations, Real and Complex Analysis (MTH 331, MTH 342, MTH 431), Number Theory and Algebra (MTH 347, MTH 442), Geometry and Topology (MTH 329, MTH 441), or Logic and Foundations (MTH 350, MTH 440).
+
+## Applied Mathematics Emphasis
+
+Students who wish to explore mathematical topics that have applications to other fields, including sciences, engineering, medicine, economics, or business, are advised to include courses that emphasize Mathematical Modeling such as Combinatorics/Graph Theory, Actuarial Mathematics, Operations Research and Mathematical Biology (MTH 337, MTH 360, MTH 370, MTH 415), Differential Equations and Dynamical Systems (MTH 331, MTH 435), Numerical Analysis (MTH 335), Mathematical Statistics (MTH 410, MTH 411), or Mathematics of Finance (MTH 416).
+
+## Honors
+
+To graduate with honors in Mathematics a student must have at least a 3.5 grade point average in Mathematics courses and must complete an honors thesis or project. The student must work closely with a Mathematics faculty member to define the project, carry out the research and investigation, and write the final report or prepare the final project. The student may receive credit through Independent Study for work on an honors project. The project must be accepted by the Honors Committee of the Department of Mathematics.

@@ -1,0 +1,22 @@
+---
+title: Tobias Schaefer
+image: ./default.png
+image-alt: Tobias Schaefer
+description: Professor
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+Mathematical Physics, nonlinear dynamics
+
+
+## Contacts
+
+**Office**    | 1S-209     <br/>
+**Telephone** | x3616                              <br/>
+**Email**     | `tobias at math.csi.cuny.edu`                            <br/>
+**url**       | [http://www.math.csi.cuny.edu/~tobias/](http://www.math.csi.cuny.edu/~tobias/)  <br/>
+
+

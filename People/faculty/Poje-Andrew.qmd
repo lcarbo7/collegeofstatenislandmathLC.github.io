@@ -1,0 +1,22 @@
+---
+title: Andrew Poje
+image: /images/people/poje-headshot.jpg
+image-alt: Andrew Poje
+description: Professor
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+Fluid Dynamics, Applied Mathematics
+
+
+## Contacts
+
+**Office**    | 1S-205     <br/>
+**Telephone** | x3611                              <br/>
+**Email**     | `poje at math.csi.cuny.edu`                            <br/>
+**url**       | [http://www.math.csi.cuny.edu/poje](http://www.math.csi.cuny.edu/poje)  <br/>
+
+

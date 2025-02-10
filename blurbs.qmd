@@ -1,0 +1,54 @@
+::: {.grid}
+
+:::: {.g-col-4}
+![](images/square/Babel-escher2.jpg){fig-alt="Escher image"}
+::::
+:::: {.g-col-8}
+Welcome to CSI Mathematics. With approximately 25 full-time faculty members representing a number of the major fields of current research, the department offers courses for mathematics, engineering, and science students, as well as service courses for the general student body (see the full list of courses). We offer Bachelor of Science degrees with an emphasis on graduate school preparation, secondary school teaching, and a joint degree with computer science.
+::::
+:::
+
+
+::: {.grid}
+:::: {.g-col-8}
+
+Many of our majors become involved in faculty-mentored undergraduate
+research projects. Our full-time
+[faculty](https://www.math.csi.cuny.edu//people.html) conduct research
+in a variety of areas of pure and applied mathematics
+[(MathSciNet)](https://mathscinet.ams.org/mathscinet/search/publications.html?arg3=&co4=AND&co5=AND&co6=AND&co7=AND&dr=all&pg4=IC&pg5=TI&pg6=PC&pg7=ALLF&pg8=ET&review_format=html&s4=College%20of%20Staten%20Island&s5=&s6=&s7=&s8=All&sort=Newest&vfpref=html&yearRangeFirst=&yearRangeSecond=&yrop=eq&r=1). Research
+areas include applied mathematics, differential geometry, discrete
+mathematics, geometric analysis, [hyperbolic conservation
+laws](https://www.gc.cuny.edu/All-GC-Events/Calendar/Detail?id=25248),
+knot theory, [logic](http://nylogic.github,io/), nonlinear analysis,
+[number
+theory](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Mathematics),
+[probability](https://probability.commons.gc.cuny.edu/), and topology.
+
+::::
+
+:::: {.g-col-4}
+![](images/square/hypknot.jpg){fig-alt="knot image"}
+::::
+
+:::
+
+
+::: {.grid}
+
+:::: {.g-col-4}
+![](images/square/klein.jpg){fig-alt="klein bottle image"}
+::::
+
+:::: {.g-col-8}
+
+The College is conveniently located at the nexus of the vibrant New
+York City area research community. Many faculty in the Department of
+Mathematics contribute to, and organize, research activities at the
+CUNY Graduate Center in Manhattan. Our faculty also supervise doctoral
+students at the Graduate Center, and participate in research seminars
+and colloquia with neighboring institutions.
+
+::::
+
+:::

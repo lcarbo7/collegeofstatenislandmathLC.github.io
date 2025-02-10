@@ -1,0 +1,33 @@
+---
+title: Curriculum details
+---
+
+* [Snapshot of CSI Math offerings from CUNY First](./CUNYFirst)
+
+* [CUNY First listing of all active courses](https://globalsearch.cuny.edu/CFGlobalSearchTool/search.jsp)
+
+* [Curriculum description](./course_list.html)
+
+* [Advising documents](./AdvisingDocuments)
+
+* [WebAssign instructions](./WebAssign_Instructions/)
+
+* [WeBWorK Instructions](./WeBWorK_Instructions/)
+
+* [Calculus book and software guide](./Calculus-Book-Software-Guidelines.pdf)
+
+### Various Course Materials: Mth102 - Mth 125
+
+* [Mth102](./MTH102/)
+
+* [Mth113](./MTH113/)
+
+* [Mth122](./MTH122/)
+
+* [Mth123](./MTH123/)
+
+* [Mth125](./MTH125/)
+
+* [Mth229](./MTH229/)
+
+

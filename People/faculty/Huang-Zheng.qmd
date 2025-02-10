@@ -1,0 +1,22 @@
+---
+title: Zheng Huang
+image: /images/people/zeno-headshot.jpg
+image-alt: Zheng Huang
+description: Professor
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+Differential Geometry and Geometric Analysis
+
+
+## Contacts
+
+**Office**    | 1S-233     <br/>
+**Telephone** | x3625                              <br/>
+**Email**     | `zheng.huang at csi.cuny.edu`                            <br/>
+**url**       | [http://www.math.csi.cuny.edu/~huang](http://www.math.csi.cuny.edu/~huang)  <br/>
+
+

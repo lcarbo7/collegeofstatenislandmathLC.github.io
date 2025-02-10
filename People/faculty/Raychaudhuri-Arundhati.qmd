@@ -1,0 +1,22 @@
+---
+title: Arundhati Raychaudhuri
+image: /images/people/aru-headshot.jpg
+image-alt: Arundhati Raychaudhuri
+description: Professor
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+Graph Theory and Discrete Mathematics
+
+
+## Contacts
+
+**Office**    | 1S-211     <br/>
+**Telephone** | x3618                              <br/>
+**Email**     | `aru.raychaudhuri at csi.cuny.edu`                            <br/>
+**url**       |   <br/>
+
+

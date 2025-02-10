@@ -1,0 +1,27 @@
+---
+title: Resources for undergraduates in mathematics
+---
+
+[101 Careers in Mathematics](https://cuny-si.primo.exlibrisgroup.com/permalink/01CUNY_SI/3qapng/alma9994339526206125)
+edited by Andrew Stewart is an excellent resource containing essays describing
+the career paths of over 100 real people in a variety of industries. Access
+provided through the CSI library.
+
+[What Can I Do With This Major](https://whatcanidowiththismajor.com/major/).
+Another great online resource the college subscribes to. Information about
+broad industries and specific positions for math majors along with lists of
+potential employers and skills to develop.
+
+[20 Best Jobs for Math Majors - Indeed](https://www.indeed.com/career-advice/finding-a-job/jobs-for-math-majors) including national averages and career advice.
+
+Some data from the [Bureau of Labor Statistics](https://www.bls.gov/ooh/math/home.htm) about median pay, number of jobs, and employment change from year to year.
+
+The AMS also has resources for undergraduates in mathematics.
+
+* [Feature column](http://www.ams.org/featurecolumn)
+
+* [Math in the media](http://www.ams.org/mathmedia)
+
+* [Mathematical moments](http://www.ams.org/mathmoments)
+
+* [Assistantships and graduate fellowships](http://www.ams.org/employment/asst.pdf)

@@ -1,0 +1,22 @@
+---
+title: Joseph Quinn
+image: /images/people/quinn-headshot.png
+image-alt: Joseph Quinn
+description: Doctoral Lecturer
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+Geometric Topology
+
+
+## Contacts
+
+**Office**    | 1S-224     <br/>
+**Telephone** | x3622                              <br/>
+**Email**     | `joseph.quinn at csi.cuny.edu`                            <br/>
+**url**       | [http://www.math.csi.cuny.edu/~quinn](http://www.math.csi.cuny.edu/~quinn)  <br/>
+
+

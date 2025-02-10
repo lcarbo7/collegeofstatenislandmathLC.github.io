@@ -1,0 +1,21 @@
+---
+title: Allen Tesdall
+image: /images/people/tesdall-headshot.jpg
+image-alt: Allen Tesdall
+description: Associate Professor
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+Nonlinear hyperbolic conservation laws, numerical methods for hyperbolic problems
+
+
+
+## Contacts
+
+**Office**    | 1S-210     <br/>
+**Telephone** | x3617                              <br/>
+**Email**     | `allen.tesdall at csi.cuny.edu`                            <br/>
+**url**       | [http://www.math.csi.cuny.edu/~atesdall](http://www.math.csi.cuny.edu/~atesdall)  <br/>

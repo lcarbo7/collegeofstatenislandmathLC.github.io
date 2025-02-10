@@ -1,0 +1,399 @@
+# Description of courses taught by the Department of Mathematics
+
+## Non-credit co-requisite math courses
+
+-   MTH 034 *Elements of Intermediate Algebra*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%2034)
+    [\[Syllabus\]](Syllabi/MTH034-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH034)
+
+-   MTH 035 *Intermediate Algebra*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%2035)
+    [\[Syllabus\]](Syllabi/MTH035-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH035)
+
+A co-requisite course for MTH 123 students
+
+## General education offerings
+
+The College of Staten Island has general education requirements that
+have, among many others, a math component. The following courses are
+designed to satisfy this requirement for non-science majors. They are
+not intended as courses to prepare for the next level of study in
+mathematics. Most other 100-level math courses also satisfy this
+requirement.
+
+-   MTH 102 *Mathematics for Liberal Arts Students*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20102)
+    [\[Syllabus\]](Syllabi/MTH102-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH102)
+
+
+-   MTH 103 *Mathematical Ideas*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20103)
+    [\[Syllabus\]](Syllabi/MTH103-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH103)
+
+-   MTH 104 *Thinking Mathematically*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20104)
+    [\[Syllabus\]](Syllabi/MTH104-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH104)
+
+-   MTH 111 *Introduction to Probability and Statistics with Integrated Review*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20111)
+    [\[Syllabus\]](Syllabi/MTH111-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH111)
+
+-   MTH 113 *Introduction to Probability and Statistics*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20113)
+    [\[Syllabus\]](Syllabi/MTH113-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH113)
+
+    This statistics course is taken for general education purposes by
+    many students, including intended majors in nursing.
+
+## Service courses
+
+These courses are taught by the math class, but intended as a service
+for students intending to major in other disciplines.
+
+-   MTH 108 *Medical Dosage Calculations*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20108)
+    [\[Syllabus\]](Syllabi/MTH108-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH108)
+
+    This course in only intended for nursing students.
+
+-   MTH 121 *Finite Mathematics*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20121)
+    [\[Syllabus\]](Syllabi/MTH121-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH121)
+
+-   MTH 122 *Functions and Models in College Algebra*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20122)
+    [\[Syllabus\]](Syllabi/MTH122-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH122)
+
+    The course is intended primarily for students in social sciences or humanities; those planning to major in Science, Letters, and Society, or in business or STEM fields should consult the Catalog for the appropriate course.
+
+-   MTH 221 *Applied Finite Mathematics and Business Calculus*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20221)
+    [\[Syllabus\]](Syllabi/MTH221-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH221)
+
+    Together, MTH 121 and MTH 221 are math courses intended to prepare
+    Business students for their studies.
+
+-   MTH 217 *Fundamentals of Mathematics I*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20217)
+    [\[Syllabus and Role/Learning
+    Goals\]](Syllabi/MTH217-syllabus.pdf)
+
+-   MTH 218 *Fundamentals of Mathematics II*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20218)
+    [\[Syllabus and Role/Learning
+    Goals\]](Syllabi/MTH218-syllabus.pdf)
+
+    Together, MTH 217 and MTH 218 instruct potential SLS teachers in
+    methods to teach mathematics.
+
+
+## Pre-major math track
+
+These courses are considered pre-major math course for math majors. They
+also are essential for non-math majors pursuing a degree in the sciences
+or perhaps business.
+
+-   MTH 123 *College Algebra and Trigonometry*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20123)
+    [\[Syllabus\]](Syllabi/MTH123-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH123)
+
+-   MTH 125 *College Algebra and Trigonomety*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20125)
+    [\[Syllabus\]](Syllabi/MTH125-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH125)
+
+    (A version of MTH 123 with more time on task.)
+
+-   MTH 130 *Pre-Calculus Mathematics*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20130)
+    [\[Syllabus\]](Syllabi/MTH130-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH130)
+
+-   MTH 214 *Applied Statistics Using Computers*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20214)
+    [\[Syllabus\]](Syllabi/MTH214-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH214)
+
+    This course has many roles in the curriculum. For Biology students,
+    it is an alternative to BIO 272. For Math majors it may be used as
+    an alternate to CSC 126.
+
+-   MTH 230 *Calculus I with Pre-Calculus*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20230)
+    [\[Syllabus\]](Syllabi/MTH230-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH230)
+
+    A one-semester alternate to MTH 130 and 231 for students who receive
+    an A or B in MTH 123.
+
+-   MTH 231 *Analytic Geometry and Calculus I*
+    [\[Catalog\]](http://csicuny.smartcatalogiq.com/Current/Undergraduate-Catalog/Courses/MTH-Mathematics/200/MTH-231)
+    [\[Syllabus\]](Syllabi/MTH231-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH231)
+
+-   MTH 229 *Calculus Computer Laboratory*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20229)
+    [\[Syllabus\]](Syllabi/MTH229-syllabus.pdf)
+    [M-files](MTH229)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH229)
+
+    A computer lab accompanying MTH 230 or MTH 231. This is a
+    stand-alone course and required for all students to graduate who
+    need to earn credit in calculus, even transfer students.
+
+-   MTH 232 *Analytic Geometry and Calculus II*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20232)
+    [\[Syllabus\]](Syllabi/MTH232-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH232)
+    [\[Videos\]](https://www.math.csi.cuny.edu/~tobiasljohnson/old-classes/fall-2020-232/calendar.html)
+
+-   MTH 233 *Analytic Geometry and Calculus III*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20233)
+    [Syllabus](Syllabi/MTH233-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH233)
+
+-   MTH 235 *Accelerated Calculus I*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20235)
+    [\[Syllabus\]](Syllabi/MTH235-syllabus.pdf)
+
+The math major also has a computer requirement that may be satisfied by
+taking MTH 214 or
+
+-   CSC 126
+
+-   CSC/MTH 228
+
+## Required 300+ level math courses for math majors
+
+The math major requires 6 non-elective, 300-level math courses.
+
+-   MTH 301 *Introduction to Mathematical Proofs*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20301)
+    [\[Syllabus\]](Syllabi/MTH301-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH301)
+
+-   MTH 311 *Probability Theory and An Introduction to Mathematical
+    Statistics*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20311)
+    [\[Syllabus\]](Syllabi/MTH311-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH311)
+
+-   MTH 330 *Applied Mathematical Analysis I*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20330)
+    [\[Syllabus\]](Syllabi/MTH330-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH300)
+
+-   MTH 334 *Differential Equations*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20334)
+    [\[Syllabus\]](Syllabi/MTH334-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH334)
+
+    The math major requires either MTH 330 or MTH 334; students cannot receive credit for both courses. MTH
+    330 is a six-credit course, as it also has a linear algebra
+    component.
+
+-   MTH 338 *Linear Algebra*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20338)
+    [\[Syllabus\]](Syllabi/MTH338-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH338)
+
+-   MTH 339 *Abstract Algebra I*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20339)
+    [\[Syllabus\]](Syllabi/MTH339-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH339)
+
+-   MTH 341 *Advanced Calculus I*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20341)
+    [\[Syllabus\]](Syllabi/MTH341-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH341)
+
+## Elective math courses
+
+The math major also requires four 300-400 level courses to be chosen
+from the following list.
+
+### 300-level courses
+
+-   MTH 306 *History of Mathematical Thought*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20306)
+    [\[Syllabus\]](Syllabi/MTH306-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH306)
+
+-   MTH 329 *Geometry*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20329)
+    [\[Syllabus\]](Syllabi/MTH329-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH329)
+
+-   MTH 331 *Applied Mathematical Analysis II*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20331)
+    [\[Syllabus\]](Syllabi/MTH331-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH331)
+
+-   MTH 335 *Numerical Analysis*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20335)
+    [\[Syllabus\]](Syllabi/MTH335-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH335)
+
+-   MTH 337 *Applied Combinatorics & Graph Theory*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20337)
+    [\[Syllabus\]](Syllabi/MTH337-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH337)
+
+-   MTH 342 *Advanced Calculus II*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20342)
+    [\[Syllabus\]](Syllabi/MTH342-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH342)
+
+-   MTH 347 *Number Theory*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20347)
+    [\[Syllabus\]](Syllabi/MTH347-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH347)
+
+-   MTH 349 *Cryptology*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20349)
+    [\[Syllabus\]](Syllabi/MTH349-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH349)
+
+-   MTH 350 *Mathematical Logic*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20350)
+    [\[Syllabus\]](Syllabi/MTH350-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH350)
+
+-   MTH 370 *Operations Research*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20370)
+    [\[Syllabus\]](Syllabi/MTH370-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH370)
+
+### 400-level courses
+
+-   MTH 410 *Mathematical Statistics I*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20410)
+    [\[Syllabus\]](Syllabi/MTH410-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH410)
+
+-   MTH 411 *Mathematical Statistics II*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20411)
+    [\[Syllabus\]](Syllabi/MTH411-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH411)
+
+-   MTH 415 *Mathematical Biology*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20415)
+    [\[Syllabus\]](Syllabi/MTH415-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH415)
+
+-   MTH 416 *Mathematics of Finance*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20416)
+    [\[Syllabus\]](Syllabi/MTH416-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH416)
+
+-   MTH 431 *Complex Analysis*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20431)
+    [\[Syllabus\]](Syllabi/MTH431-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH431)
+
+-   MTH 435 *Nonlinear Dynamics and Chaos*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20435)
+    [\[Syllabus\]](Syllabi/MTH435-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH435)
+
+-   MTH 437 *Introduction to Mathematical Modeling*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20437)
+    [\[Syllabus\]](Syllabi/MTH437-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH437)
+
+-   MTH 440 *Foundations of Mathematics*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20440)
+    [\[Syllabus\]](Syllabi/MTH440-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH440)
+
+-   MTH 441 *Topology*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20441)
+    [\[Syllabus\]](Syllabi/MTH441-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH441)
+
+-   MTH 442 *Abstract Algebra*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20442)
+    [\[Syllabus\]](Syllabi/MTH442-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH442)
+
+-   MTH 445 *Intro to Differential Geometry*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20445)
+    [\[Syllabus\]](Syllabi/MTH445-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH445)
+
+## 500-level courses
+
+New courses are given a 500-level designation until they have been
+regularized. The 500 designation does not indicate that the course is
+intended solely for math majors or is harder than a 400-level course.
+
+-   MTH 517 Partial Differential Equations
+
+## Graduate courses
+
+The Department of Mathematics offers a few graduate-credit courses.
+Primarily these are designed as content courses for students pursuing a
+Masters degree in Education, although not exclusively.\
+See
+<http://csicuny.smartcatalogiq.com/Current/Graduate-Catalog/Graduate-Courses/MTH-Mathematics>
+for an online listing.

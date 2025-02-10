@@ -1,0 +1,54 @@
+project:
+  type: website
+website:
+  title: "CSI Math"
+##
+  navbar:
+    background: primary
+    search: false
+    collapse-below: "md"
+    logo: /images/favicons/favicon.ico
+    logo-alt: "CSI Math logo"
+    left:
+      - text: "About"
+        href: about.qmd
+      - text: "People"
+        menu:
+          - People/faculty/faculty.qmd
+          - People/staff/staff.qmd
+      - text: "Undergraduate"
+        href: Undergraduate/index.qmd
+      - text: "Courses"
+        href: Undergraduate/Courses/index.qmd
+      - text: TEHA
+        href: https://www.csi.cuny.edu/academics-and-research/specialized-programs/honors-programs/teacher-education-honors-academy
+      - text: Syllabi
+        href: Undergraduate/Courses/syllabi/index.html
+##
+  announcement:
+    icon: info-circle
+    dismissable: true
+    content: "Announcement in quarto.yml files, FT"# Add content here
+    type: primary
+    position: below-navbar
+
+  page-footer:
+    left: "[CSI Math](/index.html)"
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    css: "https://cdn.jsdelivr.net/gh/ryersondmp/sa11y@4.0.5/dist/css/sa11y.min.css"
+    include-in-header:
+    - text: |
+       <link rel = "shortcut icon" href = "/images/favicons/favicon.ico" />
+       <script src="https://cdn.jsdelivr.net/combine/gh/ryersondmp/sa11y@4.0.5/dist/js/lang/en.umd.js,gh/ryersondmp/sa11y@4.0.5/dist/js/sa11y.umd.min.js"></script>
+    include-before-body:
+    - text: |
+        <script>
+          Sa11y.Lang.addI18n(Sa11yLangEn.strings);
+          const sa11y = new Sa11y.Sa11y({
+            checkRoot: "body",
+          });
+        </script>

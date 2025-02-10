@@ -1,0 +1,56 @@
+---
+title: Honors thesis
+---
+
+## Administrative procedures for writing an honors thesis
+
+* At least two semesters before you graduate: find a faculty advisor, and discuss an appropriate choice of topic.
+Start writing the thesis.
+
+* At least one semester before you graduate: remind your faculty advisor that they need to get a second faculty member
+to read the thesis, and it must be approved by the departmental Scholarship Committee.
+
+* The deadlines for approval of the finished thesis, and submitting the Departmental Honors form for Graduation, are:
+    * Dec 30 for January graduation
+    * May 15 for June graduation
+    * July 31 for August graduation
+
+## Recent Honors Theses
+
+Here are some of the Honors Theses written by recent graduates.
+
+* Adam Bougaev (2024) [A Deep Dive into Activated Random Walks and Layer Percolation](./2024-bougaev.pdf)
+
+* Kenny Feng (2024) [Analysis of All the End Game Possibilities in Catch-up](./2024-feng.pdf)
+
+* John Galindo (2024) [The Galois Correspondence](./2024-galindo.pdf)
+
+* Janet Axelrud (2023) [Spatial Dynamics of Argentine Tango](https://www.youtube.com/watch?v=Qlv8jtOz9Mo&pp=ygUOamFuZXQgYWtzZWxydWQ%3D)
+
+* Eric Connelly (2021) [Theory and Applications of Topological Data Analysis](./2021-connelly.pdf)
+
+* Dajana Avxhi (2020) [The Kuramoto Model for Noisy oscillators](./2020-avxhi.pdf)
+
+* Serena DiLeonardo (2018) [Stochastic Population dynamics](./2018-dileonardo.pdf)
+
+* Keven Calderon (2018) [Coupled Oscillators and Applications to Human Sleep and Circadian Rhythms](./2018-calderon.pdf)
+
+* Brian Fox (2018) [The Magic Theorem: There are only 17 Symmetric Planar Patterns](./2018-fox.pdf)
+
+* [Rayan Ibrahim (2018)](https://raymaths.github.io/) [Introducing 3-path Domination in Graphs](./2018-ibrahim.pdf)
+
+* Amanda Ciaramella (2016) [Easy as pi](./2016-ciaramella.pdf)
+
+* Almira Duka (2016) [Patterns in Rubik's Cube](./2016-duka.pdf)
+
+* Martin Lapinski (2016) [Counting and Burnside's Lemma](./2016-lapinski.pdf)
+
+* Bassem Nawar (2016) [Stochatic Differential Equations, Monte-Carlo Simulations, and the Statistics of Randomly Advected Triangles](./2016-nawar.pdf)
+
+* Lilani Seneviratne (2016) [Coupled Oscillators and Applications to Human Sleep and Circadian Rhythms](./2016-seneviratne.pdf)
+
+* Keith Thompson (2016) [Option Pricing: Foreign Exchange and Quantos](./2016-thompson.pdf)
+
+* Ariana Zuberovic (2016) [Modelling the Value of Project Labor Agreements: The No-Strike Clause Option](2016-zuberovic.pdf)
+
+* [Jonathan Maltz (2010)](https://www.linkedin.com/in/jemaltz/) [Lattice Basis Reduction and Knapsack Cryptosystems](./2010-maltz.pdf)

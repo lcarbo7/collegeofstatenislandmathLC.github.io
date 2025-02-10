@@ -1,0 +1,22 @@
+---
+title: Marcello Lucia
+image: /images/people/lucia-headshot.jpg
+image-alt: Marcello Lucia
+description: Professor
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+Nonlinear Analysis
+
+
+## Contacts
+
+**Office**    | 1S-226     <br/>
+**Telephone** | x3624                              <br/>
+**Email**     | `mlucia at math.csi.cuny.edu`                            <br/>
+**url**       | [http://www.math.csi.cuny.edu/~mlucia](http://www.math.csi.cuny.edu/~mlucia)  <br/>
+
+

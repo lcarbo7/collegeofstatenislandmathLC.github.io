@@ -1,0 +1,8 @@
+---
+title: "Listing Example"
+listing: default
+---
+
+
+Why doen'st this do listing
+

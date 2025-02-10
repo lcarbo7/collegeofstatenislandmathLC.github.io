@@ -1,0 +1,22 @@
+---
+title: Stephen Wollman
+image: /images/people/wollman-headshot.jpg
+image-alt: Stephen Wollman
+description: Emeritus Professor
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+Applied Mathematics
+
+
+## Contacts
+
+**Office**    | 1S-207     <br/>
+**Telephone** | x3614                              <br/>
+**Email**     | `stephen.wollman at csi.cuny.edu`                            <br/>
+**url**       |   <br/>
+
+

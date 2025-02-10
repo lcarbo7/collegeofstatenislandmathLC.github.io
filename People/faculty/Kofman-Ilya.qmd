@@ -1,0 +1,22 @@
+---
+title: Ilya Kofman
+image: /images/people/ilya-headshot.jpg
+image-alt: Ilya Kofman
+description: Professor
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+Topology
+
+
+## Contacts
+
+**Office**    | 1S-209     <br/>
+**Telephone** | x3615                              <br/>
+**Email**     | `ikofman at math.csi.cuny.edu`                            <br/>
+**url**       | [http://www.math.csi.cuny.edu/~ikofman](http://www.math.csi.cuny.edu/~ikofman)  <br/>
+
+

@@ -1,0 +1,18 @@
+::: {.grid}
+::: {.g-col-6}
+CUNY<br/>
+College of Staten Island<br/>
+Department of Mathematics<br/>
+:::
+
+::: {.g-col-6}
+1S-215<br/>
+2800 Victory Boulevard<br/>
+Staten Island, NY 10314<br/>
+718-802-3600 </br>
+[email: math@csi.cuny.edu](mailto:math@csi.cuny.edu)
+:::
+
+:::
+
+

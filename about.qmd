@@ -1,0 +1,13 @@
+---
+title: "CSI Math Department"
+about:
+  template: marquee
+  image: images/banners/math-building-satellite.jpg
+---
+
+College of Staten Island           <br/>
+2800 Victory Boulevard             <br/>
+Staten Island, NY 10314            <br/>
+718-982-3600                       <br/>
+[email](mailto:math@csi.cuny.edu)  <br/>
+

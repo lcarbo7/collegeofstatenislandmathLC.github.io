@@ -1,0 +1,21 @@
+---
+title: Freda Li
+image: /images/people/li-headshot.jpg
+image-alt: Freda Li
+description: Doctoral Lecturer
+about:
+  template: solana
+  image-width: 25%
+---
+
+
+
+
+## Contacts
+
+**Office**    | 1S-221     <br/>
+**Telephone** | x3984                              <br/>
+**Email**     | ``                            <br/>
+**url**       |   <br/>
+
+

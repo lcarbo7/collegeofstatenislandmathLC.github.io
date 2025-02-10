@@ -1,0 +1,93 @@
+---
+title: WebWork at CSI
+---
+
+We offer several different online homework solutions at CSI in the math
+curriculum. For several courses, the MAA sponsored WebWork
+program. Among others, this has the big advantage of being free to use.
+
+The courses that are WebWork enabled are listed below. Follow the link to your professor's class.
+
+
+## Student login id's will be available by first day of class.
+Site Information
+
+Your username is your first initial, followed by last name, followed by the last four digits of your College ID number. This is also your password by default. Please change it when you log in.
+
+For example, John Smith, college id of 12345678 would log in....
+
+username: jsmith5678
+
+password: jsmith5678 (all lower case.)
+
+special note: if you are a Jr., II, III, etc., please append to your last name without any punctuation characters.
+
+
+##  Spring 2025 ----------------------------------------------------------
+
+## MTH214
+
+* [Schaefer] (http://www.math.csi.cuny.edu/webwork2/Math214_31891_Schaefer_S25/)
+
+
+## MTH 229 -- Julia Projects
+
+* [Calderon] (http://www.math.csi.cuny.edu/webwork2/Math229_30700_Calderon_S25/)
+* [Kofman] (http://www.math.csi.cuny.edu/webwork2/Math229_30697_Kofman_S25/)
+* [Kurzweil] (http://www.math.csi.cuny.edu/webwork2/Math229_30694_Kurzweil_S25/)
+* [Maher] (http://www.math.csi.cuny.edu/webwork2/Math229_30695_Maher_S25/)
+* [O'Bryant] (http://www.math.csi.cuny.edu/webwork2/Math229_30698_OBryant_S25/)
+* [Verzani] (http://www.math.csi.cuny.edu/webwork2/Math229_30691_Verzani_S25/)
+
+
+## MTH 230
+
+* [Li, Freda] (http://www.math.csi.cuny.edu/webwork2/Math230_31508_Li_Freda_S25/)
+* [Pankratova] (http://www.math.csi.cuny.edu/webwork2/Math230_31507_Pankratova_S25/)
+* [Venuto] (http://www.math.csi.cuny.edu/webwork2/Math230_31509_Venuto_S25/)
+
+
+## MTH 231
+
+* [Calderon] (http://www.math.csi.cuny.edu/webwork2/Math231_30563_Calderon_S25/)
+* [El-Achkar 30562] (http://www.math.csi.cuny.edu/webwork2/Math231_30562_El-Achkar_S25/)
+* [El-Achkar 31972] (http://www.math.csi.cuny.edu/webwork2/Math231_31972_El-Achkar_S25/)
+* [Fuchs] (http://www.math.csi.cuny.edu/webwork2/Math231_30560_Fuchs_S25/)
+* [Konczynski] (http://www.math.csi.cuny.edu/webwork2/Math231_30558_Konczynski_S25/)
+* [Lucia] (http://www.math.csi.cuny.edu/webwork2/Math231_30561_Lucia_S25/)
+* [O'Bryant] (http://www.math.csi.cuny.edu/webwork2/Math231_30565_OBryant_S25/)
+
+## MTH 232
+
+* [Gunn 31487] (http://www.math.csi.cuny.edu/webwork2/Math232_31487_Gunn_S25/)
+* [Gunn 31488] (http://www.math.csi.cuny.edu/webwork2/Math232_31488_Gunn_S25/)
+* [Maher] (http://www.math.csi.cuny.edu/webwork2/Math232_31486_Maher_S25/)
+* [Pribitkin] (http://www.math.csi.cuny.edu/webwork2/Math232_31489_Pribitkin_S25/)
+* [Tesdall] (http://www.math.csi.cuny.edu/webwork2/Math232_31484_Tesdall_S25/)
+
+
+
+## MTH 233
+
+* [Champanerkar] (http://www.math.csi.cuny.edu/webwork2/Math233_31441_Champanerkar_S25/)
+* [Quinn] (http://www.math.csi.cuny.edu/webwork2/Math233_31440_Quinn_S25/)
+* [Vukadinovic] (http://www.math.csi.cuny.edu/webwork2/Math233_31439_Vukadinovic_S25/)
+
+
+## MTH 311
+
+* [Rosen] (http://www.math.csi.cuny.edu/webwork2/Math311_31498_Rosen_S25/)
+* [Rossi] (http://www.math.csi.cuny.edu/webwork2/Math311_31497_Rossi_S25/)
+
+
+
+## MTH 330
+
+* [Gindes] (http://www.math.csi.cuny.edu/webwork2/Math330_31476_Gindes_S25/)
+* [Huang] (http://www.math.csi.cuny.edu/webwork2/Math330_31478_Huang_S25/)
+
+
+## MTH 338
+
+* [Fuchs] (http://www.math.csi.cuny.edu/webwork2/Math338_31345_Fuchs_S25/)
+* [Lucia] (http://www.math.csi.cuny.edu/webwork2/Math338_31347_Lucia_S25/)
