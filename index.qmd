@@ -6,7 +6,7 @@
 
 
 ![](/images/banners/hintoncubes.jpg){
-.overflow-hidden 
+.overflow-hidden
 text-align="center"
 height=150
 fig-alt="Banner"}
@@ -19,10 +19,10 @@ fig-alt="Banner"}
 
 {{< include blurbs.qmd >}}
 :::::
-  
+
 ::::: {.g-col-3}
 
-{{< include sidebar-links.qmd >}}
+{{< include sidebar.qmd >}}
 
 :::::
 
@@ -51,4 +51,3 @@ fig-alt="Banner"}
 ::: {.container}
 {{< include footer.qmd >}}
 :::
-

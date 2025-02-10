@@ -2,9 +2,9 @@
   {
     "objectID": "calendar.html",
     "href": "calendar.html",
-    "title": "Calendar",
+    "title": "CSI Math",
     "section": "",
-    "text": "Upcoming calendar events\n\nNo upcoming events listed"
+    "text": "generate by script?"
   },
   {
     "objectID": "Undergraduate/MathAdvisor/index.html",
@@ -403,7 +403,7 @@
     "href": "index.html",
     "title": "CSI Math",
     "section": "",
-    "text": "Welcome to CSI Mathematics. With approximately 25 full-time faculty members representing a number of the major fields of current research, the department offers courses for mathematics, engineering, and science students, as well as service courses for the general student body (see the full list of courses). We offer Bachelor of Science degrees with an emphasis on graduate school preparation, secondary school teaching, and a joint degree with computer science.\n\n\n\n\nMany of our majors become involved in faculty-mentored undergraduate research projects. Our full-time faculty conduct research in a variety of areas of pure and applied mathematics (MathSciNet). Research areas include applied mathematics, differential geometry, discrete mathematics, geometric analysis, hyperbolic conservation laws, knot theory, logic, nonlinear analysis, number theory, probability, and topology.\n\n\n\n\n\n\n\n\n\n\nThe College is conveniently located at the nexus of the vibrant New York City area research community. Many faculty in the Department of Mathematics contribute to, and organize, research activities at the CUNY Graduate Center in Manhattan. Our faculty also supervise doctoral students at the Graduate Center, and participate in research seminars and colloquia with neighboring institutions.\n\n\n\n\n\n\nCourse links\n\n\n    WeBWorK        WebAssign        MyStatLab        JuliaBox        Course Materials        Tutoring   \n\n\nQuick links\n\n\n    Brightspace        BlackBoard        CUNYFirst        Navigate        Math major        Mathclub        Advisement        Careers        Teacher Education Honors Academy        Course schedule        Calendar        Accessibility        Transition to Bright Space   \n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nFeb 9, 2025\n\n\nAchtung\n\n\n\n\nFeb 1, 2025\n\n\nAttention\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\nNo upcoming events listed"
+    "text": "Welcome to CSI Mathematics. With approximately 25 full-time faculty members representing a number of the major fields of current research, the department offers courses for mathematics, engineering, and science students, as well as service courses for the general student body (see the full list of courses). We offer Bachelor of Science degrees with an emphasis on graduate school preparation, secondary school teaching, and a joint degree with computer science.\n\n\n\n\nMany of our majors become involved in faculty-mentored undergraduate research projects. Our full-time faculty conduct research in a variety of areas of pure and applied mathematics (MathSciNet). Research areas include applied mathematics, differential geometry, discrete mathematics, geometric analysis, hyperbolic conservation laws, knot theory, logic, nonlinear analysis, number theory, probability, and topology.\n\n\n\n\n\n\n\n\n\n\nThe College is conveniently located at the nexus of the vibrant New York City area research community. Many faculty in the Department of Mathematics contribute to, and organize, research activities at the CUNY Graduate Center in Manhattan. Our faculty also supervise doctoral students at the Graduate Center, and participate in research seminars and colloquia with neighboring institutions.\n\n\n\n\n\n\nCourse links\n\n\n\n WeBWorK\n\n\n WebAssign\n\n\n MyStatLab\n\n\n JuliaBox\n\n\n Course Materials\n\n\n Tutoring\n\n\n\nQuick links\n\n\n\n Brightspace\n\n\n BlackBoard\n\n\n CUNYFirst\n\n\n Navigate\n\n\n Math major\n\n\n Mathclub\n\n\n Advisement\n\n\n Careers\n\n\n Teacher Education Honors Academy\n\n\n Course schedule\n\n\n Calendar\n\n\n Accessibility\n\n\n Transition to Bright Space\n\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nFeb 9, 2025\n\n\nAchtung\n\n\n\n\nFeb 1, 2025\n\n\nAttention\n\n\n\n\n\nNo matching items\n\n\n\n\n\ngenerate by script?"
   },
   {
     "objectID": "index.html#recent-news",
@@ -564,7 +564,7 @@
     "href": "sidebar-links.html",
     "title": "CSI Math",
     "section": "",
-    "text": "Course links\n\n\n    WeBWorK        WebAssign        MyStatLab        JuliaBox        Course Materials        Tutoring   \n\n\nQuick links\n\n\n    Brightspace        BlackBoard        CUNYFirst        Navigate        Math major        Mathclub        Advisement        Careers        Teacher Education Honors Academy        Course schedule        Calendar        Accessibility        Transition to Bright Space"
+    "text": "Course links\n\n:::: {.d-grid .gap-1} ::::: {.btn .btn-light}  WeBWorK ::::: ::::: {.btn .btn-light}  WebAssign ::::: ::::: {.btn .btn-light}  MyStatLab ::::: ::::: {.btn .btn-light}  JuliaBox ::::: ::::: {.btn .btn-light}  Course Materials ::::: ::::: {.btn .btn-light}  Tutoring ::::: ::::\n\nQuick links\n\n:::: {.d-grid .gap-1} ::::: {.btn .btn-light}  Brightspace ::::: ::::: {.btn .btn-light}  BlackBoard ::::: ::::: {.btn .btn-light}  CUNYFirst ::::: ::::: {.btn .btn-light}  Navigate ::::: ::::: {.btn .btn-light}  Math major ::::: ::::: {.btn .btn-light}  Mathclub ::::: ::::: {.btn .btn-light}  Advisement ::::: ::::: {.btn .btn-light}  Careers ::::: ::::: {.btn .btn-light}  Teacher Education Honors Academy ::::: ::::: {.btn .btn-light}  Course schedule ::::: ::::: {.btn .btn-light}  Calendar ::::: ::::: {.btn .btn-light}  Accessibility ::::: ::::: {.btn .btn-light}  Transition to Bright Space ::::: ::::"
   },
   {
     "objectID": "classes/classes.html",
@@ -1006,5 +1006,40 @@
     "title": "CSI Math",
     "section": "",
     "text": "CUNY College of Staten Island Department of Mathematics\n\n\n1S-215 2800 Victory Boulevard Staten Island, NY 10314 718-802-3600  email: math@csi.cuny.edu"
+  },
+  {
+    "objectID": "sidebar-links-orig.html",
+    "href": "sidebar-links-orig.html",
+    "title": "CSI Math",
+    "section": "",
+    "text": "Course links\n\n\n    WeBWorK        WebAssign        MyStatLab        JuliaBox        Course Materials        Tutoring   \n\n\nQuick links\n\n\n    Brightspace        BlackBoard        CUNYFirst        Navigate        Math major        Mathclub        Advisement        Careers        Teacher Education Honors Academy        Course schedule        Calendar        Accessibility        Transition to Bright Space"
+  },
+  {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "CSI Math",
+    "section": "",
+    "text": "Header\n\n\nWeBWork\n\n\nWeBWork\n\n\nWeBWork\n\n\nWeBWork\n\n\n\n\nHeader\n\n\n\n\n WeBWork\n\n\nWeBWork"
+  },
+  {
+    "objectID": "calendar.html#calendar-of-events",
+    "href": "calendar.html#calendar-of-events",
+    "title": "CSI Math",
+    "section": "",
+    "text": "generate by script?"
+  },
+  {
+    "objectID": "sidebar.html",
+    "href": "sidebar.html",
+    "title": "CSI Math",
+    "section": "",
+    "text": "Course links\n\n\n\n WeBWorK\n\n\n WebAssign\n\n\n MyStatLab\n\n\n JuliaBox\n\n\n Course Materials\n\n\n Tutoring\n\n\n\nQuick links\n\n\n\n Brightspace\n\n\n BlackBoard\n\n\n CUNYFirst\n\n\n Navigate\n\n\n Math major\n\n\n Mathclub\n\n\n Advisement\n\n\n Careers\n\n\n Teacher Education Honors Academy\n\n\n Course schedule\n\n\n Calendar\n\n\n Accessibility\n\n\n Transition to Bright Space"
+  },
+  {
+    "objectID": "index.html#calendar-of-events",
+    "href": "index.html#calendar-of-events",
+    "title": "CSI Math",
+    "section": "",
+    "text": "generate by script?"
   }
 ]

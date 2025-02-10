@@ -1,0 +1,42 @@
+::: {.card}
+
+:::: {.card-header}
+Header
+::::
+
+::::: {.btn .btn-outline-light .btn-block}
+[WeBWork](/webwork){alt="webwork link"}
+:::::
+
+::::: {.btn .btn-outline-light .btn-block}
+[WeBWork](/webwork){alt="webwork link"}
+:::::
+
+::::: {.alert .alert-info}
+[WeBWork](/webwork){.alert-link alt="webwork link"}
+:::::
+
+::::: {.btn .btn-info}
+[WeBWork](/webwork){.btn-outline-info alt="webwork link"}
+:::::
+
+:::
+
+
+::: {.card}
+:::: {.card-header}
+Header
+::::
+:::
+
+:::: {.d-grid .gap-1}
+::::: {.btn .btn-light}
+<i class="bi-alarm"></i>
+[WeBWork](/webwork){.btn-outline-light alt="webwork link"}
+:::::
+
+::::: {.btn .btn-light}
+[WeBWork](/webwork){.btn-outline-light alt="webwork link"}
+:::::
+
+::::
