@@ -1,40 +1,18 @@
 {
   "listingMap": {
-    "about.qmd": [
-      "faculty"
-    ],
-    "faculty/steve-wollman.qmd": [
-      "../faculty"
-    ],
-    "faculty/michelin-man.qmd": [
-      "../faculty"
-    ],
-    "people.qmd": [
-      "faculty"
-    ],
-    "faculty/faculty.qmd": [
-      "B3049D40"
-    ],
-    "People/faculty.qmd": [
-      "B3049D40"
-    ],
     "classes/classes.qmd": [
       "B3049D40"
     ],
     "news.qmd": [
-      "B3049D40",
       "news"
     ],
     "index.qmd": [
       "news"
     ],
-    "staff/staff.qmd": [
+    "People/faculty/faculty.qmd": [
       "B3049D40"
     ],
-    "people/faculty/faculty.qmd": [
-      "B3049D40"
-    ],
-    "people/staff/staff.qmd": [
+    "People/staff/staff.qmd": [
       "B3049D40"
     ]
   }
