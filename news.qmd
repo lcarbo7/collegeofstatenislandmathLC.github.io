@@ -6,10 +6,8 @@ listing:
   fields: [date, title]
   sort-ui: false
   filter-ui: false
-  id: news  
+  id: news
 ---
 
-## Recent news
 :::: {#news .container}
 ::::
-

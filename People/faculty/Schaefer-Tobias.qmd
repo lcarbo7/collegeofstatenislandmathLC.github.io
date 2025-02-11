@@ -1,6 +1,6 @@
 ---
 title: Tobias Schaefer
-image: ./default.png
+image: /images/people/schaefer-headshot.jpg
 image-alt: Tobias Schaefer
 description: Professor
 about:
@@ -32,5 +32,3 @@ of this problem involves the combination multi-scale techniques like
 renormalization group methods or Lie-transform with stochastic
 calculus. For more information, please visit my research
 [webpage](http://www.math.csi.cuny.edu/~tobias/).
-
-

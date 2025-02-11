@@ -1,18 +1,23 @@
 # Website on Quarto
 
+
 ## Announcements
 
 Edit the _quarto.yml file for a quick announcement
 
+## Nav bar
+
+For a new nav bar entry, edit the _quarto.yml fiul
+
 ## News
 
-Create a new file with yaml details
+Create a new file with yaml details including title and date
 
 
 ## Faculty
 
-Create a new file, copy over the template
+Create a new file, copy over the template using `about`
 
 ## New folder
 
-Create an index.qmd landing page and lnk to files
+Create an index.qmd landing page and link to files

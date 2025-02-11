@@ -17,7 +17,6 @@ fig-alt="Banner"}
 :::::
 
 
-
 ::::
 
 
@@ -33,23 +32,23 @@ fig-alt="Banner"}
 
 :::::
 
+::::
 
-
-
+:::: {.grid}
 ::::: {.g-col-12  .g-col-md-6}
+## Recent news
 {{< include news.qmd >}}
 :::::
 
 
 ::::: {.g-col-12 .g-col-md-6}
+## Academic Calendar
 {{< include calendar.qmd >}}
 :::::
 
 
 
 ::::
-
-
 
 ----
 

@@ -1,18 +1,19 @@
 ::: {.grid}
-::: {.g-col-6}
-CUNY<br/>
-College of Staten Island<br/>
-Department of Mathematics<br/>
-:::
+:::: {.g-col-6}
+![](/images/square/CUNY_Logo-32-32.png){width=32, fig-alt="CUNY"}
+[CUNY](https://www.cuny.edu)                         <br/>
+[College of Staten Island](https://www.csi.cuny.edu) <br/>
+::::
 
-::: {.g-col-6}
-1S-215<br/>
-2800 Victory Boulevard<br/>
-Staten Island, NY 10314<br/>
-718-802-3600 </br>
+:::: {.g-col-6}
+Department of Mathematics   <br/>
+1S-215                      <br/>
+2800 Victory Boulevard      <br/>
+Staten Island, NY 10314     <br/>
+<i class="bi bi-telephone"></i>
+718-802-3600                </br>
+<i class="bi bi-mailbox"></i>
 [email: math@csi.cuny.edu](mailto:math@csi.cuny.edu)
-:::
+::::
 
 :::
-
-

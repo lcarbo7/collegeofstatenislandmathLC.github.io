@@ -403,7 +403,7 @@
     "href": "index.html",
     "title": "The Department of Mathematics",
     "section": "",
-    "text": "Welcome to CSI Mathematics. With approximately 25 full-time faculty members representing a number of the major fields of current research, the department offers courses for mathematics, engineering, and science students, as well as service courses for the general student body (see the full list of courses). We offer Bachelor of Science degrees with an emphasis on graduate school preparation, secondary school teaching, and a joint degree with computer science.\n\n\n\n\nMany of our majors become involved in faculty-mentored undergraduate research projects. Our full-time faculty conduct research in a variety of areas of pure and applied mathematics (MathSciNet). Research areas include applied mathematics, differential geometry, discrete mathematics, geometric analysis, hyperbolic conservation laws, knot theory, logic, nonlinear analysis, number theory, probability, and topology.\n\n\n\n\n\n\n\n\n\n\nThe College is conveniently located at the nexus of the vibrant New York City area research community. Many faculty in the Department of Mathematics contribute to, and organize, research activities at the CUNY Graduate Center in Manhattan. Our faculty also supervise doctoral students at the Graduate Center, and participate in research seminars and colloquia with neighboring institutions.\n\n\n\n\n\n\nCourse links\n\n\n\n WeBWorK\n\n\n WebAssign\n\n\n MyStatLab\n\n\n JuliaBox\n\n\n Course Materials\n\n\n Tutoring\n\n\n\nQuick links\n\n\n\n Brightspace\n\n\n BlackBoard\n\n\n CUNYFirst\n\n\n Navigate\n\n\n Math major\n\n\n Mathclub\n\n\n Advisement\n\n\n Careers\n\n\n Teacher Education Honors Academy\n\n\n Course schedule\n\n\n Calendar\n\n\n Accessibility\n\n\n Transition to Bright Space\n\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nFeb 9, 2025\n\n\nAchtung\n\n\n\n\nFeb 1, 2025\n\n\nAttention\n\n\n\n\n\nNo matching items\n\n\n\n\n\ngenerate by script?"
+    "text": "Welcome to CSI Mathematics. With approximately 25 full-time faculty members representing a number of the major fields of current research, the department offers courses for mathematics, engineering, and science students, as well as service courses for the general student body (see the full list of courses). We offer Bachelor of Science degrees with an emphasis on graduate school preparation, secondary school teaching, and a joint degree with computer science.\n\n\n\n\nMany of our majors become involved in faculty-mentored undergraduate research projects. Our full-time faculty conduct research in a variety of areas of pure and applied mathematics (MathSciNet). Research areas include applied mathematics, differential geometry, discrete mathematics, geometric analysis, hyperbolic conservation laws, knot theory, logic, nonlinear analysis, number theory, probability, and topology.\n\n\n\n\n\n\n\n\n\n\nThe College is conveniently located at the nexus of the vibrant New York City area research community. Many faculty in the Department of Mathematics contribute to, and organize, research activities at the CUNY Graduate Center in Manhattan. Our faculty also supervise doctoral students at the Graduate Center, and participate in research seminars and colloquia with neighboring institutions.\n\n\n\n\n\n\n\nClass links\n\n\n WeBWorK\n\n\n WebAssign\n\n\n MyStatLab\n\n\n JuliaBox\n\n\n Course Materials\n\n\n Tutoring\n\n\n\n\n\n\nQuick links\n\n\n Brightspace\n\n\n BlackBoard\n\n\n CUNYFirst\n\n\n Navigate\n\n\n Math major\n\n\n Mathclub\n\n\n Advisement\n\n\n Careers\n\n\n Teacher Education Honors Academy\n\n\n Course schedule\n\n\n Calendar\n\n\n Accessibility\n\n\n Transition to Bright Space\n\n\n\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nFeb 9, 2025\n\n\nAchtung\n\n\n\n\nFeb 1, 2025\n\n\nAttention\n\n\n\n\n\nNo matching items\n\n\n\n\n\ngenerate by script?"
   },
   {
     "objectID": "index.html#recent-news",
@@ -620,7 +620,7 @@
     "href": "readme.html",
     "title": "Website on Quarto",
     "section": "",
-    "text": "Edit the _quarto.yml file for a quick announcement\n\n\n\nCreate a new file with yaml details\n\n\n\nCreate a new file, copy over the template\n\n\n\nCreate an index.qmd landing page and lnk to files"
+    "text": "Edit the _quarto.yml file for a quick announcement\n\n\n\nFor a new nav bar entry, edit the _quarto.yml fiul\n\n\n\nCreate a new file with yaml details including title and date\n\n\n\nCreate a new file, copy over the template using about\n\n\n\nCreate an index.qmd landing page and link to files"
   },
   {
     "objectID": "readme.html#announcements",
@@ -634,21 +634,21 @@
     "href": "readme.html#news",
     "title": "Website on Quarto",
     "section": "",
-    "text": "Create a new file with yaml details"
+    "text": "Create a new file with yaml details including title and date"
   },
   {
     "objectID": "readme.html#faculty",
     "href": "readme.html#faculty",
     "title": "Website on Quarto",
     "section": "",
-    "text": "Create a new file, copy over the template"
+    "text": "Create a new file, copy over the template using about"
   },
   {
     "objectID": "readme.html#new-folder",
     "href": "readme.html#new-folder",
     "title": "Website on Quarto",
     "section": "",
-    "text": "Create an index.qmd landing page and lnk to files"
+    "text": "Create an index.qmd landing page and link to files"
   },
   {
     "objectID": "People/faculty/Li-Wenjuan.html",
@@ -1005,7 +1005,7 @@
     "href": "footer.html",
     "title": "CSI Math",
     "section": "",
-    "text": "CUNY College of Staten Island Department of Mathematics\n\n\n1S-215 2800 Victory Boulevard Staten Island, NY 10314 718-802-3600  email: math@csi.cuny.edu"
+    "text": "CUNY  College of Staten Island \n\n\nDepartment of Mathematics  1S-215  2800 Victory Boulevard  Staten Island, NY 10314   718-802-3600   email: math@csi.cuny.edu"
   },
   {
     "objectID": "sidebar-links-orig.html",
@@ -1033,7 +1033,7 @@
     "href": "sidebar.html",
     "title": "CSI Math",
     "section": "",
-    "text": "Course links\n\n\n\n WeBWorK\n\n\n WebAssign\n\n\n MyStatLab\n\n\n JuliaBox\n\n\n Course Materials\n\n\n Tutoring\n\n\n\nQuick links\n\n\n\n Brightspace\n\n\n BlackBoard\n\n\n CUNYFirst\n\n\n Navigate\n\n\n Math major\n\n\n Mathclub\n\n\n Advisement\n\n\n Careers\n\n\n Teacher Education Honors Academy\n\n\n Course schedule\n\n\n Calendar\n\n\n Accessibility\n\n\n Transition to Bright Space"
+    "text": "Class links\n\n\n WeBWorK\n\n\n WebAssign\n\n\n MyStatLab\n\n\n JuliaBox\n\n\n Course Materials\n\n\n Tutoring\n\n\n\n\n\n\nQuick links\n\n\n Brightspace\n\n\n BlackBoard\n\n\n CUNYFirst\n\n\n Navigate\n\n\n Math major\n\n\n Mathclub\n\n\n Advisement\n\n\n Careers\n\n\n Teacher Education Honors Academy\n\n\n Course schedule\n\n\n Calendar\n\n\n Accessibility\n\n\n Transition to Bright Space"
   },
   {
     "objectID": "index.html#calendar-of-events",
@@ -1258,5 +1258,26 @@
     "title": "Mikael Vejdemo-Johansson",
     "section": "Biography",
     "text": "Biography\nMikael Vejdemo-Johansson started out in computational homological algebra, studying algorithms for computing invariants of Tor modules and A?-algebra structures on the modular group cohomology rings of p-groups. After finishing his PhD, he has worked during postdoctoral studies at Stanford University (2008-2011), University of St Andrews (2011-2012), KTH Royal Institute of Technology (2012-2013, 2014-2015) and the Institute of Mathematics and its Applications, University of Minnesota (2013-2014) on Topological Data Analysis: using persistent homology and cohomology to compute descriptors for abstract point clouds, and the Mapper algorithm generalizing Reeb graphs and nerve simplicial complex constructions to produce intrinsic topological model spaces for arbitrary data. He seeks out application realms anywhere he can find them, and has published work on applications to parliamentary voting records, to the statistics of color naming systems in linguistics, to motion capture data.\nIn addition to these primary research interests, he has worked on enumerating tie knots, finding 262862 possible tie knots using formal languages and algebraic systems of equations."
+  },
+  {
+    "objectID": "readme.html#nav-bar",
+    "href": "readme.html#nav-bar",
+    "title": "Website on Quarto",
+    "section": "",
+    "text": "For a new nav bar entry, edit the _quarto.yml fiul"
+  },
+  {
+    "objectID": "index.html#academic-calendar",
+    "href": "index.html#academic-calendar",
+    "title": "The Department of Mathematics",
+    "section": "",
+    "text": "generate by script?"
+  },
+  {
+    "objectID": "sidebar.html#quick-links",
+    "href": "sidebar.html#quick-links",
+    "title": "CSI Math",
+    "section": "Quick links",
+    "text": "Quick links"
   }
 ]
