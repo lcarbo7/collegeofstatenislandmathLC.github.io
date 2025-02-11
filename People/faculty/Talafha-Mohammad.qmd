@@ -14,8 +14,8 @@ about:
 ## Contacts
 
 **Office**    | 1S-208     <br/>
-**Telephone** | x3627                              <br/>
-**Email**     | `mohammad.talafha at csi.cuny.edu`                            <br/>
-**url**       |   <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3627<br/>
+<i class="bi bi-mailbox"></i> **Email**     | `mohammad.talafha at csi.cuny.edu`    <br/>
+  <br/>
 
 

@@ -15,8 +15,19 @@ Graph Theory and Discrete Mathematics
 ## Contacts
 
 **Office**    | 1S-211     <br/>
-**Telephone** | x3618                              <br/>
-**Email**     | `aru.raychaudhuri at csi.cuny.edu`                            <br/>
-**url**       |   <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3618<br/>
+<i class="bi bi-mailbox"></i> **Email**     | `aru.raychaudhuri at csi.cuny.edu`    <br/>
+  <br/>
+
+## Biography
+
+Arundhati Raychaudhuri received her B.Tech (Hons) degree from the
+Indian Institute of Technology, Kharagpur in Electrical Engineering,
+the M.S. degree from SUNY, Stony Brook and the PhD degree from Rutgers
+University both in Applied Mathematics.  Her area of research
+specialization is graph theory and combinatorics.  She has written
+several papers on frequency assignment problems, powers of graphs,
+Hamiltonian completion numbers, distance-2 coloring and other related
+topics.  She enjoys teaching Calculus and Graph Theory-Combinatorics courses.
 
 

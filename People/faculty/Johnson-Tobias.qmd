@@ -15,8 +15,8 @@ Probability
 ## Contacts
 
 **Office**    | 1S-225     <br/>
-**Telephone** | x3694                              <br/>
-**Email**     | `tobias.johnson at csi.cuny.edu`                            <br/>
-**url**       | [http://www.math.csi.cuny.edu/~tobiasljohnson](http://www.math.csi.cuny.edu/~tobiasljohnson)  <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3694<br/>
+<i class="bi bi-mailbox"></i> **Email**     | `tobias.johnson at csi.cuny.edu`    <br/>
+<i class="bi bi-x-diamond"></i>**url**  | [http://www.math.csi.cuny.edu/~tobiasljohnson](http://www.math.csi.cuny.edu/~tobiasljohnson)  <br/>
 
 

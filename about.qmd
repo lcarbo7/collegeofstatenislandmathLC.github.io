@@ -3,11 +3,66 @@ title: "CSI Math Department"
 about:
   template: marquee
   image: images/banners/math-building-satellite.jpg
+  image-alt: "Satellite view of 1S building"
 ---
+
+[Carlo Lancellotti]() Chairperson
+
+## Contact
 
 College of Staten Island           <br/>
 2800 Victory Boulevard             <br/>
 Staten Island, NY 10314            <br/>
 718-982-3600                       <br/>
-[email](mailto:math@csi.cuny.edu)  <br/>
+[mathematics@csi.cuny.edu](mailto:mathematics@csi.cuny.edu)  <br/>
 
+
+## Mission
+
+> The primary mission of the Department of Mathematics is the discovery, communication, and teaching of mathematics. As part of the City University of New York (CUNY), the department is committed to academic excellence while providing equal access and opportunity.
+
+To support this broad mission, the department has the following more specific goals.
+
+## In Teaching:
+
+Provide quality instruction that gives a rigorous and comprehensive foundation for a diverse student body entering a wide variety of professions.
+
+Create and maintain a strong undergraduate curriculum, providing a broad program of pure and applied mathematics, which includes courses serving each of the following student populations within the College:
+
+* Mathematics majors and Computer Science/Mathematics majors, in preparation for careers using mathematics, as well as graduate study in mathematics and related fields;
+
+* Students majoring in fields that use mathematics extensively, such as physical and life sciences, computer science, and engineering;
+
+* Students planning careers with special mathematical needs, such as business and elementary education;
+
+* Students in all fields fulfilling the College's General Education requirement in mathematics.
+
+Create and maintain a strong graduate mathematics curriculum and program, both in the Masters degree programs at the college and in doctoral programs at the CUNY Graduate Center including support of CSI faculty initiatives at the CUNY Graduate Center in curriculum development, teaching of Ph.D. courses, mathematics dissertation supervision and the running of research seminars.
+
+Encourage well-prepared students to continue to study mathematics at all levels, and facilitate extra-curricular projects for qualified students to prepare for careers or graduate study.
+Provide leadership and supervision for meeting developmental mathematics needs of students at the College.
+
+## In Research:
+
+Foster high-quality research in pure and applied mathematics by facilitating and promoting the scholarly activities of the department's faculty members and students.
+
+Promote policies and priorities within the College and CUNY that support and encourage research.
+
+Recruit new faculty members with proven or promising research programs
+
+Support activities and events that disseminate important new or historical mathematical results.
+
+## In Service:
+
+Support faculty governance and participate actively in important departmental, College, and University committees.
+
+Promote the integration of mathematics into the College curriculum and into interdisciplinary projects and research activity at the College.
+
+Promote rigorous academic standards in mathematics at the College, emphasizing strong mathematical preparation in the curricula of all disciplines that require a mathematical foundation.
+
+Promote activities and programs to recruit new students with strong mathematical preparation and an interest in mathematics and science.
+
+Encourage and facilitate faculty professional development and service to the mathematical community.
+
+
+> Last approved April 2009.

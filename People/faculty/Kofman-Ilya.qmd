@@ -15,8 +15,42 @@ Topology
 ## Contacts
 
 **Office**    | 1S-209     <br/>
-**Telephone** | x3615                              <br/>
-**Email**     | `ikofman at math.csi.cuny.edu`                            <br/>
-**url**       | [http://www.math.csi.cuny.edu/~ikofman](http://www.math.csi.cuny.edu/~ikofman)  <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3615<br/>
+<i class="bi bi-mailbox"></i> **Email**     | `ikofman at math.csi.cuny.edu`    <br/>
+<i class="bi bi-x-diamond"></i>**url**  | [http://www.math.csi.cuny.edu/~ikofman](http://www.math.csi.cuny.edu/~ikofman)  <br/>
+
+## Biography
+
+The focus of my research is knot theory and geometric topology.  Knot
+theory is one of the most active research areas of mathematics
+today. Much of this research is closely connected with mathematical
+physics, and many results are of interest to biologists.  For such a
+rich field of mathematical ideas, the "price of admission" is low for
+great undergraduate research projects.
+
+
+My current research is motivated by a deep open problem: how to bridge
+the chasm between quantum and geometric topology.  Thurston
+established the importance of geometric invariants, especially
+hyperbolic volume, in low-dimensional topology.  A revolution in
+knot theory was ushered in with the discovery of the Jones
+polynomial in 1984, which led to vast families of quantum
+invariants.  My aim is to establish the relationship between quantum
+invariants of a knot, such as the Jones polynomial, and the geometry
+of the knot complement.
+
+
+
+Dr. Kofman is a member of a Focused Research Group (FRG) that received
+an NSF-FRG grant for collaborative research on topics in geometric
+topology. With this funding, Dr. Kofman has co-organized three major
+international conferences, with a special focus on the Volume
+Conjecture. Dr. Kofman earned his Ph.D. at the University of Maryland
+at College Park in 2000, and came to CSI after four years as a postdoc
+at Columbia University and Barnard College.  He earned an Sc.B. in
+Mathematics at Brown University.  Dr. Kofman is a co-organizer of the
+Geometric Topology seminar at the CUNY Graduate Center.  For details
+about his research, see
+[http://www.math.csi.cuny.edu/~ikofman/](http://www.math.csi.cuny.edu/~ikofman/).
 
 

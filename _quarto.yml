@@ -2,6 +2,7 @@ project:
   type: website
 website:
   title: "CSI Math"
+  bread-crumbs: true
 ##
   navbar:
     background: primary

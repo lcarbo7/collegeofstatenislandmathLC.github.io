@@ -15,8 +15,33 @@ Number Theory and Automorphic Forms
 ## Contacts
 
 **Office**    | 1S-229     <br/>
-**Telephone** | x3628                              <br/>
-**Email**     | `wladimir.pribitkin at csi.cuny.edu`                            <br/>
-**url**       |   <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3628<br/>
+<i class="bi bi-mailbox"></i> **Email**     | `wladimir.pribitkin at csi.cuny.edu`    <br/>
+  <br/>
+
+## Biography
+
+Wladimir de Azevedo Pribitkin was born near the tropic of Capricorn
+and grew up in the Sao Paulo-New York-Pennsylvania tri-state
+area. Prior to arriving at CSI, he conducted postdoctoral research at
+both Princeton University, where he held a three year postdoc funded
+by the NSF, and at the Max Planck Institute in Germany. Dr. Pribitkin
+has taught at small colleges such as Haverford, and at larger
+universities, including Princeton. He enjoys teaching liberal arts
+students as well as math majors. His main research interests are
+number theory and automorphic forms. The former studies how the
+natural numbers 1, 2, 3, ... are related, and the latter investigates
+functions that obey an infinite set of symmetries. Both fields inform
+each other, and employ tools from disparate areas such as abstract
+algebra, analysis and geometry. Furthermore, they provide
+applications to areas such as statistical mechanics, quantum chaos,
+knot theory and cryptography. Dr. Pribitkin's subspecialty focuses
+on the Fourier coefficients of automorphic integrals. These
+coefficients often reveal remarkable properties of natural
+numbers. Pribitkin would like to resolve the Riemann Hypothesis (not
+for the money, of course!), but wouldn't mind answering
+Lehmer's Question or settling the Linnik-Selberg Conjecture. If
+you want to know more about this, send him an email or knock on his
+door.
 
 

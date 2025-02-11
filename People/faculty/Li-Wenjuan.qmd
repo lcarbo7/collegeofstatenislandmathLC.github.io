@@ -15,8 +15,15 @@ Mathematics Education
 ## Contacts
 
 **Office**    | 1S-224     <br/>
-**Telephone** | x3621                              <br/>
-**Email**     | `wenjuan.li at csi.cuny.edu`                            <br/>
-**url**       | [https://www.math.csi.cuny.edu/~wli](https://www.math.csi.cuny.edu/~wli)  <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3621<br/>
+<i class="bi bi-mailbox"></i> **Email**     | `wenjuan.li at csi.cuny.edu`    <br/>
+<i class="bi bi-x-diamond"></i>**url**  | [https://www.math.csi.cuny.edu/~wli](https://www.math.csi.cuny.edu/~wli)  <br/>
+
+## Biography
+
+Dr. Wenjuan Li is a lecturer in the Department of Mathematics at the College of Staten Island, CUNY. Her experiences in research, curriculum design, and assessment development profoundly shaped her teaching practices. She employs a learner-centered approach to promote active learning and student engagement in mathematics. Her research focuses on teacher preparation, professional development, and undergraduate mathematics education.
+
+
+Dr. Li completed her PhD and postdoctoral research at the University of Illinois at Chicago. Prior to joining CSI, she held positions at the University of Chicago and New York University.
 
 

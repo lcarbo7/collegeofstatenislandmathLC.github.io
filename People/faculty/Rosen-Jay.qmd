@@ -15,8 +15,16 @@ Probability
 ## Contacts
 
 **Office**    | 1S-204     <br/>
-**Telephone** | x3610                              <br/>
-**Email**     | `jay.rosen at csi.cuny.edu`                            <br/>
-**url**       | [http://www.math.csi.cuny.edu/~rosen](http://www.math.csi.cuny.edu/~rosen)  <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3610<br/>
+<i class="bi bi-mailbox"></i> **Email**     | `jay.rosen at csi.cuny.edu`    <br/>
+<i class="bi bi-x-diamond"></i>**url**  | [http://www.math.csi.cuny.edu/~rosen](http://www.math.csi.cuny.edu/~rosen)  <br/>
+
+## Biography
+
+My current research centers on the study of stochastic processes, in
+particular Markov processes and Gaussian processes. I am actively
+exploring a link between these usually separate areas which relates
+the local times and intersection local times of Markov processes to
+Gaussian chaoses.
 
 

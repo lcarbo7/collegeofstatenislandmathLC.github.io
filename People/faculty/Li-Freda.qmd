@@ -14,8 +14,8 @@ about:
 ## Contacts
 
 **Office**    | 1S-221     <br/>
-**Telephone** | x3984                              <br/>
-**Email**     | ``                            <br/>
-**url**       |   <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3984<br/>
+<i class="bi bi-mailbox"></i> **Email**     | ``    <br/>
+  <br/>
 
 

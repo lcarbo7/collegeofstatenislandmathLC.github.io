@@ -15,8 +15,25 @@ Geometric Topology
 ## Contacts
 
 **Office**    | 1S-222     <br/>
-**Telephone** | x3623                              <br/>
-**Email**     | `joseph.maher at csi.cuny.edu`                            <br/>
-**url**       | [http://www.math.csi.cuny.edu/~maher](http://www.math.csi.cuny.edu/~maher)  <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3623<br/>
+<i class="bi bi-mailbox"></i> **Email**     | `joseph.maher at csi.cuny.edu`    <br/>
+<i class="bi bi-x-diamond"></i>**url**  | [http://www.math.csi.cuny.edu/~maher](http://www.math.csi.cuny.edu/~maher)  <br/>
+
+## Biography
+
+Joseph Maher is interested in geometric topology, particularly in
+the study of surfaces and three-dimensional spaces. Topics of interest
+include knots, hyperbolic geometry, and the collection of all maps
+from a surface to itself, which is known as the mapping class group of
+the surface.  This group has interesting large scale geometry, and is
+closely related to the space of all hyperbolic metrics on a surface,
+known as *Teichmuller* space.
+
+Joseph Maher received his Bachelor's degree from the University of
+Cambridge, and his PhD in Mathematics from the University of
+California, Santa Barbara. He has held visiting positions at the
+University of Melbourne, the California Institute of Technology and
+the Universite du Quebec à Montreal, and taught most recently at
+Oklahoma State University.
 
 

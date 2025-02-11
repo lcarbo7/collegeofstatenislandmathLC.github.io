@@ -14,8 +14,17 @@ Fluid and Polymer Dynamics
 ## Contacts
 
 **Office**    | 1S-228     <br/>
-**Telephone** | x3632                              <br/>
-**Email**     | `vukadino at math.csi.cuny.edu`                            <br/>
-**url**       | [http://www.math.csi.cuny.edu/~vukadino](http://www.math.csi.cuny.edu/~vukadino)  <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3632<br/>
+<i class="bi bi-mailbox"></i> **Email**     | `vukadino at math.csi.cuny.edu`    <br/>
+<i class="bi bi-x-diamond"></i>**url**  | [http://www.math.csi.cuny.edu/~vukadino](http://www.math.csi.cuny.edu/~vukadino)  <br/>
+
+## Biography
+
+Broadly speaking, my research interest lies in analysis and applied
+mathematics. More specifically, I am interested in partial
+differential equations arising in fluid dynamics and materials
+science. My current research focuses on some models for non-Newtonian
+complex fluids, such as the Doi model arising in the theory of
+nematic liquid crystalline polymers.
 
 

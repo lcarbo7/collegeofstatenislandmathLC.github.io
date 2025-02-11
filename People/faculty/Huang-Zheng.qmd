@@ -15,8 +15,21 @@ Differential Geometry and Geometric Analysis
 ## Contacts
 
 **Office**    | 1S-233     <br/>
-**Telephone** | x3625                              <br/>
-**Email**     | `zheng.huang at csi.cuny.edu`                            <br/>
-**url**       | [http://www.math.csi.cuny.edu/~huang](http://www.math.csi.cuny.edu/~huang)  <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3625<br/>
+<i class="bi bi-mailbox"></i> **Email**     | `zheng.huang at csi.cuny.edu`    <br/>
+<i class="bi bi-x-diamond"></i>**url**  | [http://www.math.csi.cuny.edu/~huang](http://www.math.csi.cuny.edu/~huang)  <br/>
+
+## Biography
+
+Dr. Zeno Huang's research interests are in the fields of differential
+geometry and geometric analysis. Some of his past work include
+problems on Teichmuller theory and harmonic maps. More recently, he
+works on projects on closed minimal surfaces in hyperbolic
+three-manifolds and related problems. These problems lie on the
+intersection of hyperbolic geometry, low dimensional topology and
+geometric PDEs, and they often require combinations of techniques from
+these fields to advance.
+
+Dr. Zeno Huang earned his PhD from Rice University in 2003. Before joining CSI, he was a postdoc at the University of Oklahoma (2003-2004) and the University of Michigan (2004-2007).
 
 

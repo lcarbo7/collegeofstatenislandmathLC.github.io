@@ -15,8 +15,22 @@ Mathematical Physics, nonlinear dynamics
 ## Contacts
 
 **Office**    | 1S-209     <br/>
-**Telephone** | x3616                              <br/>
-**Email**     | `tobias at math.csi.cuny.edu`                            <br/>
-**url**       | [http://www.math.csi.cuny.edu/~tobias/](http://www.math.csi.cuny.edu/~tobias/)  <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3616<br/>
+<i class="bi bi-mailbox"></i> **Email**     | `tobias at math.csi.cuny.edu`    <br/>
+<i class="bi bi-x-diamond"></i>**url**  | [http://www.math.csi.cuny.edu/~tobias/](http://www.math.csi.cuny.edu/~tobias/)  <br/>
+
+## Biography
+
+My mathematical research interests are nonlinear, nonlocal, and random
+phenomena, described by ordinary or partial differential
+equations. In order to solve them, I use exact, approximate, and
+numerical methods. The practical applications of my research range
+from nanotechnology, fiber optics, fuel cells, and biology to
+finance. Recently, I got interested in the question how to quantify
+the impact of microscopic noise on macroscopic observables. The study
+of this problem involves the combination multi-scale techniques like
+renormalization group methods or Lie-transform with stochastic
+calculus. For more information, please visit my research
+[webpage](http://www.math.csi.cuny.edu/~tobias/).
 
 

@@ -15,8 +15,33 @@ Applied Algebraic Topology and Topological Data Analysis
 ## Contacts
 
 **Office**    | 1S-208     <br/>
-**Telephone** | x3630                              <br/>
-**Email**     | `mvj at math.csi.cuny.edu`                            <br/>
-**url**       | [http://www.math.csi.cuny.edu/~mvj](http://www.math.csi.cuny.edu/~mvj)  <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3630<br/>
+<i class="bi bi-mailbox"></i> **Email**     | `mvj at math.csi.cuny.edu`    <br/>
+<i class="bi bi-x-diamond"></i>**url**  | [http://www.math.csi.cuny.edu/~mvj](http://www.math.csi.cuny.edu/~mvj)  <br/>
+
+## Biography
+
+Mikael Vejdemo-Johansson started out in computational homological
+algebra, studying algorithms for computing invariants of Tor modules
+and A?-algebra structures on the modular group cohomology rings of
+p-groups. After finishing his PhD, he has worked during postdoctoral
+studies at Stanford University (2008-2011), University of St Andrews
+(2011-2012), KTH Royal Institute of Technology (2012-2013, 2014-2015)
+and the Institute of Mathematics and its Applications, University of
+Minnesota (2013-2014) on Topological Data Analysis: using persistent
+homology and cohomology to compute descriptors for abstract point
+clouds, and the Mapper algorithm generalizing Reeb graphs and nerve
+simplicial complex constructions to produce intrinsic topological
+model spaces for arbitrary data. He seeks out application realms
+anywhere he can find them, and has published work on applications to
+parliamentary voting records, to the statistics of color naming
+systems in linguistics, to motion capture data.
+
+
+
+
+In addition to these primary research interests, he has worked on
+enumerating tie knots, finding 262862 possible tie knots using formal
+languages and algebraic systems of equations.
 
 

@@ -18,14 +18,24 @@ about:
 ## Contacts
 
 **Office**    | {{#:OFFICE}}{{{:OFFICE}}}{{/:OFFICE}}     <br/>
-**Telephone** | {{{:PHONE}}}                              <br/>
-**Email**     | `{{{:EMAIL}}}`                            <br/>
-**url**       | {{#:URL}}[{{{:URL}}}]({{{:URL}}}){{/:URL}}  <br/>
+<i class="bi bi-telephone"></i> **Telephone** | {{{:PHONE}}}<br/>
+<i class="bi bi-mailbox"></i> **Email**     | `{{{:EMAIL}}}`    <br/>
+{{#:URL}}<i class="bi bi-x-diamond"></i>**url**  | [{{{:URL}}}]({{{:URL}}}){{/:URL}}  <br/>
 
+{{#:bio}}
+## Biography
+
+{{{:bio}}}
+{{/:bio}}
 
 """
 
 d = CSV.read("faculty.csv", DataFrame)
+bios = include("faculty-bios.jl")
+dd = DataFrame((NM=k,bio=v) for (k,v) ∈ bios)
+d = leftjoin(d, dd, on=:NM)
+
+
 for r ∈ eachrow(d)
     first,last = split(r.NM, " ")
     fname = "$last-$first.qmd"

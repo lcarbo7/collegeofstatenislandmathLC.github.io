@@ -15,8 +15,18 @@ Fluid Dynamics, Applied Mathematics
 ## Contacts
 
 **Office**    | 1S-205     <br/>
-**Telephone** | x3611                              <br/>
-**Email**     | `poje at math.csi.cuny.edu`                            <br/>
-**url**       | [http://www.math.csi.cuny.edu/poje](http://www.math.csi.cuny.edu/poje)  <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3611<br/>
+<i class="bi bi-mailbox"></i> **Email**     | `poje at math.csi.cuny.edu`    <br/>
+<i class="bi bi-x-diamond"></i>**url**  | [http://www.math.csi.cuny.edu/poje](http://www.math.csi.cuny.edu/poje)  <br/>
+
+## Biography
+
+Dr. Poje has published a number of papers on Lagrangian mixing and
+transport theory as applied to oceanographic flows.  His interests
+include traditional and Lagrangian turbulence theory, low order
+modeling, dynamical systems and numerical analysis.  His most recent
+research activity concerns the application of geometric techniques to
+quantifying non-conservative transport phenomena and designing
+optimal Lagrangian observational strategies.
 
 

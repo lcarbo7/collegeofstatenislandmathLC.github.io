@@ -15,8 +15,12 @@ Geometric Topology
 ## Contacts
 
 **Office**    | 1S-224     <br/>
-**Telephone** | x3622                              <br/>
-**Email**     | `joseph.quinn at csi.cuny.edu`                            <br/>
-**url**       | [http://www.math.csi.cuny.edu/~quinn](http://www.math.csi.cuny.edu/~quinn)  <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3622<br/>
+<i class="bi bi-mailbox"></i> **Email**     | `joseph.quinn at csi.cuny.edu`    <br/>
+<i class="bi bi-x-diamond"></i>**url**  | [http://www.math.csi.cuny.edu/~quinn](http://www.math.csi.cuny.edu/~quinn)  <br/>
+
+## Biography
+
+Joe Quinn holds a PhD in pure mathematics from The Graduate Center, CUNY, and publishes in the field of geometric topology. He has taught math at Hunter College, and has taught and designed math curricula for Johns Hopkins Center for Talented Youth, Bronx Community College, Matemorfosis CIMAT (Guanajuato), MoMath, Bridge to Enter Advanced Mathematics, and Columbia University. He is the director of [Hypothesis](https://www.hypothesisnyc.org/), a New York City based company that creates games based on conceptual math and art. Joe is passionate about transmitting knowledge between the math research community and the rest of the world, for the benefit of both parties.
 
 

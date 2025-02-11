@@ -14,6 +14,36 @@ Hyperbolic 3-manifolds and Knot Theory
 ## Contacts
 
 **Office**    | 1S-230     <br/>
-**Telephone** | x3613                              <br/>
-**Email**     | `abhijit at math.csi.cuny.edu`                            <br/>
-**url**       | [http://www.math.csi.cuny.edu/~abhijit](http://www.math.csi.cuny.edu/~abhijit)  <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3613<br/>
+<i class="bi bi-mailbox"></i> **Email**     | `abhijit at math.csi.cuny.edu`    <br/>
+<i class="bi bi-x-diamond"></i>**url**  | [http://www.math.csi.cuny.edu/~abhijit](http://www.math.csi.cuny.edu/~abhijit)  <br/>
+
+## Biography
+
+ My area of research is hyperbolic 3-manifolds and knot
+theory. Thurston established the importance of hyperbolic geometry and
+geometric invariants in the study of 3-manifolds and knot theory. I am
+interested in the deformations of hyperbolic structures on 3-manifolds
+and interactions between hyperbolic geometry with number theory. Jones
+revolutionized knot theory by introducing the Jones polynomial in 1984
+which led to families of diagrammatic invariants. My current research
+is motivated by the problem of relating geometric invariants like
+hyperbolic volume to diagrammatic invariants like the Jones
+polynomial. I am also interested in understanding knots from the point
+of view of graph theory.
+
+Dr Champanerkar earned his Ph.D. at Columbia University
+in 2003. Before joining CSI he worked for one year at Barnard College,
+Columbia University as a postdoc and for four years at the University
+of South Alabama as an Assistant Professor.
+
+Dr. Champanerkar is a member of a Focused Research Group (FRG) that
+received an NSF-FRG grant for collaborative research on topics in
+geometric topology. With this funding, Dr. Champanerkar has
+co-organized two major international conferences, with a special focus
+on the Volume Conjecture. Dr. Champanerkar is a co-organizer of the
+Geometry and Topology seminar at the CUNY Graduate Center.  For
+details about his research, see
+ [http://www.math.csi.cuny.edu/~abhijit/](http://www.math.csi.cuny.edu/~abhijit/)
+ 
+

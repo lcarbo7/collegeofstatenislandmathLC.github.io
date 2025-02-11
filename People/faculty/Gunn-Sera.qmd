@@ -14,8 +14,8 @@ about:
 ## Contacts
 
 **Office**    | 1S-201     <br/>
-**Telephone** | x3609                              <br/>
-**Email**     | `sera.gunn at csi.cuny.edu`                            <br/>
-**url**       | [https://seragunn.github.io/](https://seragunn.github.io/)  <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3609<br/>
+<i class="bi bi-mailbox"></i> **Email**     | `sera.gunn at csi.cuny.edu`    <br/>
+<i class="bi bi-x-diamond"></i>**url**  | [https://seragunn.github.io/](https://seragunn.github.io/)  <br/>
 
 
