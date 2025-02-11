@@ -1,7 +1,7 @@
-::: {.container-fluid}
+::: {.container}
 
 
-:::: {.d-grid .gap-0 .center}
+:::: {.grid}
 ## The Department of Mathematics {.center}
 
 
@@ -14,7 +14,7 @@ fig-alt="Banner"}
 ::::
 
 
-:::: {.grid .container-fluid}
+:::: {.grid}
 ::::: {.g-col-9}
 
 {{< include blurbs.qmd >}}
