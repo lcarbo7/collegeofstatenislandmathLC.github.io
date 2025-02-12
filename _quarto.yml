@@ -14,7 +14,7 @@ website:
     search: false
     collapse-below: "md"
     logo: /images/favicons/favicon.ico
-    logo-alt: "CSI Math logo"
+    logo-alt: "CSI Math"
     left:
       - text: "About"
         href: about.qmd
