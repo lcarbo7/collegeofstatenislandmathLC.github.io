@@ -46,6 +46,7 @@ format:
     theme:
       - cosmo
       - csi-math.scss
+    mainfont: Raleway
     grid:
       body-width: 1200px
     toc: false
