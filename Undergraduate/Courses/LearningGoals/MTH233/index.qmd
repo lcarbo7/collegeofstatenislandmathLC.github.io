@@ -1,0 +1,47 @@
+---
+title: Learning goals for MTH233
+---
+
+## Role in Curriculum
+
+MTH 233 is the third course of a three-semester sequence in calculus.
+
+## Learning Goals and Assessment Plans
+
+> Differentiate and integrate functions of several
+> variables.
+
+When the class is being assessed, the final exams
+will include embedded questions to assess student
+performance on these topic-specific learning
+goals. Instructors will tally their students'
+scores on these questions, and will forward this
+data to the chair of the department pre-major
+curriculum committee
+
+> Understand the geometric meaning of
+> differentiation for functions of several
+> variables.
+
+same
+
+> Apply Stokes' Theorem to solve related
+> problems.
+
+same
+
+----
+
+When assessment activities are done, the results will be summarized in
+memorandum form and filed with the department chairperson for record
+keeping
+purposes.
+
+Information obtained from assessment will be used to assess and
+self-reflect on the success of the course and to make any necessary
+changes to
+improve teaching and learning effectiveness.
+
+------------------------------------------------------------------------
+
+Last updated Mon May 24 14:48:07 2010

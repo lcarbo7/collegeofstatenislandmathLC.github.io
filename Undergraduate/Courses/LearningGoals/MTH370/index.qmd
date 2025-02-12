@@ -1,0 +1,30 @@
+---
+title: Learning goals for MTH370
+---
+
+## Role in Curriculum
+
+Operationd Research or OR is widely used in industry and large organizations for planning and decision making.  The course is important for students who plan to work in finance, government, business, or manufacturing, since it covers optimization problems which arise in practice.  It is also important for those preparing to take actuarial exams (actuaries usually work in insurance and related fields). It is a useful elective for students from Business, Computer Science, or Engineering, as well as Mathematics.  Aspiring teachers will also find nice applications using linear inequalities which are usually taught at the high-school level.
+
+## Learning Goals and Assessment
+
+> Students will be able to formulate optimization problems using Linear Programming models.
+
+A special section in the Final examination will be devoted to test this learning goal. Student performance in this section will be graded and recorded.
+
+> Students will be able to solve LP problems by hand or computer as appropriate.
+
+ These learning goals will be assessed with a special homework and a project.  Individual student performance will be graded and recorded
+
+----
+
+
+When assessment activities are done, the results will be summarized in
+memorandum form and filed with the department chairperson for record
+keeping
+purposes.
+
+Information obtained from assessment will be used to assess and
+self-reflect on the success of the course and to make any necessary
+changes to
+improve teaching and learning effectiveness.

@@ -1,0 +1,48 @@
+---
+title: Learning goals for MTH229
+---
+
+## Role in Curriculum
+
+MTH 229 is a required laboratory for MTH 230 and MTH 231. It provides
+students experience with using computer software, such as
+Julia or MATLAB, to solve problems of first-semester calculus.
+
+## Learning Goals and Assessment Plans
+
+> Solve and manipulate calculus-related expressions
+> using computer software such as Julia or MATLAB.
+
+When the class is being assessed, the final exams
+will include embedded questions to assess student
+performance on these topic-specific learning
+goals. Instructors will tally their students'
+scores on these questions, and will forward this
+data to the chair of the department pre-major
+curriculum committee
+
+> Analyze and produce calculus-related graphs using
+> computer software.
+
+same
+
+> Solve calculus-related applied problems using
+> computer software.
+
+same
+
+----
+
+When assessment activities are done, the results will be summarized in
+memorandum form and filed with the department chairperson for record
+keeping
+purposes.
+
+Information obtained from assessment will be used to assess and
+self-reflect on the success of the course and to make any necessary
+changes to
+improve teaching and learning effectiveness.
+
+------------------------------------------------------------------------
+
+Last updated Mon May 24 14:48:07 2010

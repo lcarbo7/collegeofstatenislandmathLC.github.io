@@ -1,0 +1,55 @@
+---
+title: Learning goals for MTH341
+---
+
+## Role in Curriculum
+
+Required course for the mathematics major
+
+## Learning Goals and Assessment Plans
+
+> The student will be able to determine whether a
+> given function is continuous, and prove the
+> result using the definition of a limit.
+
+When the class is being assessed, the final exams
+will include embedded questions to assess student
+performance on these topic-specific learning
+goals. Instructors are resposible for tallying
+their students scores.
+
+> The student will be able to use the definition of
+> a derivative to determine, with proof, whether a
+> given function is differentiable.
+
+same
+
+> The student will be able to determine the
+> convergence or divergence of a given sequence or
+> series, and prove that a sequence converges by
+> proving that it is monotone and bounded.
+
+same
+
+> The student be able to use the definition of the
+> integral as a Riemann Sum to determine, with
+> proof, whether a given function is Riemann
+> integrable.
+
+same
+
+----
+
+When assessment activities are done, the results will be summarized in
+memorandum form and filed with the department chairperson for record
+keeping
+purposes.
+
+Information obtained from assessment will be used to assess and
+self-reflect on the success of the course and to make any necessary
+changes to
+improve teaching and learning effectiveness.
+
+------------------------------------------------------------------------
+
+Last updated Mon May 24 14:48:07 2010

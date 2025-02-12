@@ -1,0 +1,44 @@
+---
+title: Learning goals for MTH231
+---
+
+## Role in Curriculum
+
+## Learning Goals and Assessment Plans
+
+> Compute by hand limits, derivatives and integrals
+> of simple combinations of algebraic and
+> transcendental functions.
+
+When the class is being assessed, the final exams
+will include embedded questions to assess student
+performance on these topic-specific learning
+goals. Instructors will tally their students'
+scores on these questions, and will forward this
+data to the chair of the department pre-major
+curriculum committee
+
+> Understand the geometric meaning of derivatives
+> and anti-derivatives
+
+same
+
+> Solve applied optimization problems.
+
+same
+
+----
+
+When assessment activities are done, the results will be summarized in
+memorandum form and filed with the department chairperson for record
+keeping
+purposes.
+
+Information obtained from assessment will be used to assess and
+self-reflect on the success of the course and to make any necessary
+changes to
+improve teaching and learning effectiveness.
+
+------------------------------------------------------------------------
+
+Last updated Mon May 24 14:48:07 2010

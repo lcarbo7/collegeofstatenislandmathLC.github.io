@@ -1,0 +1,47 @@
+---
+title: Learning goals for MTH311
+---
+
+## Role in Curriculum
+
+Required course for math major. At least one of MTH 311 and 338 is
+required for computer science
+majors
+
+## Learning Goals and Assessment Plans
+
+> The student will calculate distributions,
+> expectation, and variance for standard
+> probability models
+
+When the class is being assessed, the final exams
+will include embedded questions to assess student
+performance on these topic-specific learning
+goals. Instructors are resposible for tallying
+their students scores.
+
+> The student will apply the central limit theorem
+> to given problems.
+
+same
+
+> The student will apply probabilistic models to
+> analyze given problems
+
+same
+
+----
+
+When assessment activities are done, the results will be summarized in
+memorandum form and filed with the department chairperson for record
+keeping
+purposes.
+
+Information obtained from assessment will be used to assess and
+self-reflect on the success of the course and to make any necessary
+changes to
+improve teaching and learning effectiveness.
+
+------------------------------------------------------------------------
+
+Last updated Mon May 24 14:48:07 2010

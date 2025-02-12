@@ -1,0 +1,60 @@
+---
+title: Learning goals for MTH214
+---
+
+## Role in Curriculum
+
+Serves as both an introduction to statistics and an introduction to
+using computer software to
+solve problems in statistics
+
+## Learning Goals and Assessment Plans
+
+> Learn to summarize data numerically and
+> graphically for exploratory data analysis
+
+When the class is being assessed, the final exams
+will include embedded questions to assess student
+performance on these topic-specific learning
+goals. Instructors will tally their students'
+scores on these questions, and will forward this
+data to the chair of the department pre-major
+curriculum committee
+
+> Learn about issues involving non-normal data,
+> data collection, and design of experiments
+
+same
+
+> Learn the fundamentals of probability to be able
+> to describe a random sample using proper
+> mathematical language and to compute values
+> related to random samples, especially Binomial
+> data and normal data.
+
+same
+
+> Learn inferential techniques for univariate
+> tests, linear regression, and other models,
+> including an understanding of the importance of
+> assumptions and proper interpretation of results.
+> May include discussion on non-parametric
+> alternatives and computational approaches.
+
+same
+
+----
+
+When assessment activities are done, the results will be summarized in
+memorandum form and filed with the department chairperson for record
+keeping
+purposes.
+
+Information obtained from assessment will be used to assess and
+self-reflect on the success of the course and to make any necessary
+changes to
+improve teaching and learning effectiveness.
+
+------------------------------------------------------------------------
+
+Last updated Mon May 24 14:48:07 2010

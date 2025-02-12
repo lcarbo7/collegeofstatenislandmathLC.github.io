@@ -1,0 +1,30 @@
+---
+title: Learning goals for MTH301
+---
+
+## Role in Curriculum
+
+This course will introduce math majors to proof techniques and working
+on open ended problems, as a foundation for other proof based 300/400
+level math courses, and as a preparation for undergraduate research
+projects. This is a required course for mathematics majors
+
+## Learning Goals and Assessment Plans
+
+  Learning Goal                                                                                                        Assessment
+  -------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Use basic set notation and quantifiers.                                                                              When the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors will tally their students\' scores on these questions, and will forward this data to the chair of the department pre-major curriculum committee
+  Write out careful and correct proofs, using proof techniques including induction.                                    same
+  Write out careful and correct proofs, using proof techniques including contrapositives and proof by contradiction.   same
+
+When assessment activities are done, the results will be summarized in
+memorandum form and filed with the department chairperson for record
+keeping purposes.
+
+Information obtained from assessment will be used to assess and
+self-reflect on the success of the course and to make any necessary
+changes to improve teaching and learning effectiveness.
+
+------------------------------------------------------------------------
+
+Last updated 2/6/2021
