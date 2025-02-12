@@ -1,11 +1,11 @@
 ---
 title: Tutoring
+order: 1
 ---
-
 
 The Mathematics Tutoring Center is located in 1S-214.
 
-## Fall 2024
+## Spring 2025
 
 The Mathematics Tutoring Center has tutoring on campus, as well as Distance-based. All hours are in-person unless otherwise indicated.
 
@@ -16,24 +16,22 @@ The Mathematics Tutoring Center has tutoring on campus, as well as Distance-base
 > There is no tutoring on holidays and 'no class' scheduled days
 
 ### Schedule in [(PDF)](https://www.math.csi.cuny.edu/Undergraduate/Tutoring/tutor-grid.pdf)
+
 ----
 
 ###  Ian [ianburek.tutor@gmail.com](mailto:ianburek.tutor@gmail.com)
 
 > hours:\
-Monday: 10:10 PM - 12:10 PM\
-Tuesday: 10:10 AM - 12:10 PM AND 2:30 PM - 6:30 PM\
-Wednesday: 11:25 AM - 12:05 PM\
-Thursday:  10:10 AM - 12:10 PM AND 3:30 PM - 6:30 PM
+Monday:  9:30-2:30PM and  4:40-5:40PM\
+Wednesday: 12:20-5:20PM
 
 
 ### Stivi   [stivi.tutor.csi@gmail.com](mailto:stivi.tutor.csi@gmail.com)
 
 > hours:\
-Monday: 8 AM - 4 PM (Remote)\
-Tuesday: 9 AM - 10 AM \
-Wednesday: 8:20 AM - 12:20 PM\
-Thursday: 9 AM - 10 AM
+Monday: 8:30-10AM and 2:15-3:15PM\
+Tuesday: 8:30 - 11:30 (remote) \
+Monday: 8:30-10AM and 1:15-2:15PM
 
 ----
 

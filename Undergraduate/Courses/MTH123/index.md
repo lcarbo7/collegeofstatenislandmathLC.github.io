@@ -1,5 +1,7 @@
-# MTH123
-
+---
+title: MTH123
+order: 123
+---
 
 * [MTH123_Orientation_Online](./MTH123_Orientatiion_Online.pdf)
 * [MTH123_Orientation_Sp23_InPerson](./MTH123_Orientation_Sp23_InPerson.pdf)

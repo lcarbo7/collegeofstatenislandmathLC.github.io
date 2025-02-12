@@ -1,4 +1,7 @@
-Math122 Powerpoint files
+---
+title: MTH122
+order: 122
+---
 
 * [122Exam_2_Practice.pdf](./122Exam_2_Practice.pdf)
 * [122_review_for_exam_3.pdf](./122_review_for_exam_3.pdf)

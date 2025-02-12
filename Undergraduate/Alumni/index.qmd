@@ -1,5 +1,6 @@
 ---
 title: Alumni
+order: 6
 ---
 
 * [Rayan Ibrahim (2018)](https://raymaths.github.io/)

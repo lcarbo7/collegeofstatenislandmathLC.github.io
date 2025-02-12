@@ -1,5 +1,6 @@
 ---
-title: Resources for undergraduates in mathematics
+title: Career Resources for Math Undergrads
+order: 3
 ---
 
 [101 Careers in Mathematics](https://cuny-si.primo.exlibrisgroup.com/permalink/01CUNY_SI/3qapng/alma9994339526206125)

@@ -1,5 +1,6 @@
 ---
-title: The Math Major and Minor
+title: Math Major and Minor Courses
+order: 0
 ---
 
 

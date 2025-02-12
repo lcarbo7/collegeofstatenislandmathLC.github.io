@@ -1,4 +1,7 @@
-# [Math 102: Math for Liberal Arts Majors]
+---
+title: MTH102
+order: 102
+---
 
 ### Course materials for the Math Excursions text is to the left.
 

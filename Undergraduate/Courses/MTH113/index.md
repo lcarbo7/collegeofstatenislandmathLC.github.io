@@ -1,4 +1,7 @@
-# MTH113
+---
+title: MTH113
+order: 113
+---
 
 StatCrunch labs:
 

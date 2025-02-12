@@ -1,4 +1,7 @@
-# Description of courses taught by the Department of Mathematics
+---
+title: Course List
+order: 0
+---
 
 ## Non-credit co-requisite math courses
 
