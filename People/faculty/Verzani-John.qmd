@@ -15,8 +15,6 @@ Probability Theory
 ## Contacts
 
 **Office**    | 1S-220     <br/>
-<i class="bi bi-telephone"></i> **Telephone** | x3605<br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3653<br/>
 <i class="bi bi-mailbox"></i> **Email**     | `verzani at math.csi.cuny.edu`    <br/>
 <i class="bi bi-x-diamond"></i>**url**  | [http://www.math.csi.cuny.edu/~verzani](http://www.math.csi.cuny.edu/~verzani)  <br/>
-
-

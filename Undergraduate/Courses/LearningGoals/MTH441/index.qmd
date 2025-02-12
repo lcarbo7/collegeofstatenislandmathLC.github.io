@@ -1,0 +1,54 @@
+---
+title: Learning goals for MTH441
+---
+
+## Role in Curriculum
+
+This course provides an introduction to Topology and prepares students
+to write precise
+mathematical proofs.
+
+## Learning Goals and Assessment Plans
+
+
+> Learn about open, closed sets and determine
+> whether a subset of given topological space is
+> open and/or closed.
+
+When the class is being assessed, the final exams
+will include embedded questions to assess student
+performance on these topic-specific learning
+goals. Instructors are resposible for tallying
+their students scores.
+
+> Learn about open, closed sets and determine
+> whether a subset of given topological space is
+> open and/or closed.
+
+same
+
+> Learn about compactness and determine whether a
+> given topological space is compact.
+
+same
+
+> Learn about connectedness and determine whether a
+> given topological space is connected.
+
+same
+
+----
+
+When assessment activities are done, the results will be summarized in
+memorandum form and filed with the department chairperson for record
+keeping
+purposes.
+
+Information obtained from assessment will be used to assess and
+self-reflect on the success of the course and to make any necessary
+changes to
+improve teaching and learning effectiveness.
+
+------------------------------------------------------------------------
+
+Last updated Mon May 24 14:48:08 2010

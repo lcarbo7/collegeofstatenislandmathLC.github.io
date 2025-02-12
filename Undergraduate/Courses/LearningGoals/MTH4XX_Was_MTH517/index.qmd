@@ -1,0 +1,49 @@
+---
+title: Learning goals for MTH4XX_Was_MTH517
+---
+
+## Role in Curriculum
+
+The course will be a mathematics elective for undergraduates interested
+in applied mathematics.
+
+## Learning Goals and Assessment Plans
+
+> The students will learn basic theory and
+> techniques for solving first order linear and
+> quasilinear PDE's in two Independent variables.
+
+When the class is being assessed, the final exams
+will include embedded questions to assess student
+performance on these topic-specific learning
+goals. Instructors are resposible for tallying
+their students scores.
+
+> The student will learn the theory of
+> classification of second order, linear, PDE's
+> in two independent variables and how solve
+> equations by putting them into canonical form.
+
+same
+
+> The student will learn some basic theory and
+> methods of solution for the heat equation, wave
+> equation, and the Laplace equation.
+
+same
+
+----
+
+When assessment activities are done, the results will be summarized in
+memorandum form and filed with the department chairperson for record
+keeping
+purposes.
+
+Information obtained from assessment will be used to assess and
+self-reflect on the success of the course and to make any necessary
+changes to
+improve teaching and learning effectiveness.
+
+------------------------------------------------------------------------
+
+Last updated Mon May 24 14:48:08 2010

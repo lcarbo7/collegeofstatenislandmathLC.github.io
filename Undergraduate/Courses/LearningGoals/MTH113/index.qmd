@@ -1,0 +1,31 @@
+---
+title: Learning goals for MTH113
+---
+
+## Role in Curriculum
+
+An introduction to statistical inference
+
+## Learning Goals and Assessment Plans
+
+  Learning Goal                                                                                                                                    Assessment
+  ------------------------------------------------------------------------------------------------------------------------------------------------ -----------------------------------------------------------------------------------------------------------------------------------------------------------
+  Students will know measures of central tendency and spread.                                                                                      When the class is being assessed, the final exams will include embedded questions to evaluate student performance on these topic-specific learning goals.
+  Students will understand the normal curve and will be able to recognize situations in which the normal distribution applies.                     same
+  Students will have a basic understanding of the concepts of probability and relative frequency. They will know how these concepts are related.   same
+  Students will learn the basics on hypothesis testing.                                                                                            same
+  Students will be able to use computer packages in order to visualize data by producing bar charts, histograms, pie charts, etc.                  same
+
+When assessment activities are done, the results will be summarized in
+memorandum form and filed with the department chairperson for record
+keeping\
+purposes.
+
+Information obtained from assessment will be used to assess and
+self-reflect on the success of the course and to make any necessary
+changes to\
+improve teaching and learning effectiveness.
+
+------------------------------------------------------------------------
+
+Last updated 2/6/2021

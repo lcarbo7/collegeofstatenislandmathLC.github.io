@@ -1,0 +1,45 @@
+---
+title: Learning goals for MTH445
+---
+
+## Role in Curriculum
+
+Elective for mathematics major
+
+## Learning Goals and Assessment Plans
+
+Learning Goal
+
+Assessment
+
+> The student will be able to show whether or not a subset of the Euclidean space is a submanifold.
+
+
+
+When the class is being assessed, the exams will include embedded questions to assess whether the students have sufficiently mastered the topic-specific learning goals.
+
+> The student will be able to compute the first and second fundamental form of a surface.
+
+
+
+Same
+
+> The student will be able to compute the Gaussian curvature of a surface.
+
+
+
+Same
+
+When assessment activities are done, the results will be summarized in
+memorandum form and filed with the department chairperson for record
+keeping\
+purposes.
+
+Information obtained from assessment will be used to assess and
+self-reflect on the success of the course and to make any necessary
+changes to\
+improve teaching and learning effectiveness.
+
+------------------------------------------------------------------------
+
+Last updated Mon May 24 14:48:07 2010

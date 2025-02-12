@@ -1,0 +1,57 @@
+---
+title: Learning goals for MTH330
+---
+
+## Role in Curriculum
+
+One of MTH 330 and 334 required for the mathematics major. Required for
+the Engineering Science
+major and the Physics major.
+
+## Learning Goals and Assessment Plans
+
+> The student will be able to apply standard
+> techniques for solving first-order ordinary
+> differential equations (ODEs).
+
+When the class is being assessed, the final exams
+will include embedded questions to assess student
+performance on these topic-specific learning
+goals. Instructors are resposible for tallying
+their students scores.
+
+> The student will learn the theory of second-
+> order linear ODE's and be able to solve second-
+> order constant-coefficient ODEs
+
+same
+
+> The student will learn fundmental concepts of
+> linear algebra and matrix theory and be able to
+> apply them to solve linear systems of
+> differential equations with constant
+> coefficients.
+
+same
+
+> The student will learn introductory Laplace
+> transform theory and be able to apply it to solve
+> linear constant-coefficient ODEs
+
+same
+
+----
+
+When assessment activities are done, the results will be summarized in
+memorandum form and filed with the department chairperson for record
+keeping
+purposes.
+
+Information obtained from assessment will be used to assess and
+self-reflect on the success of the course and to make any necessary
+changes to
+improve teaching and learning effectiveness.
+
+------------------------------------------------------------------------
+
+Last updated Mon May 24 14:48:07 2010

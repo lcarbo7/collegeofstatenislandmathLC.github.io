@@ -1,7 +1,9 @@
 # TODO
 
-* github
+✓ github
 * calendar.csv needs updating (where does it come from)
-* about pages are not very nice
+✓ about pages are not very nice
 * many errors in nav bar
-* sidebar styling is kinda awful
+✓ sidebar styling is better (could be improved)
+* learning goals
+* sidbar match

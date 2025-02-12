@@ -1,0 +1,20 @@
+# These course have learning goals which need attention
+
+* MTH 102
+* MTH121
+* MTH218
+* MTH319
+* MTH306
+* MTH331
+* MTH335
+* MTH337
+* MTH347
+* MTH350
+* MTH410
+* MTH411
+* MTH415
+* MTH416
+* MTH435
+* MTH437
+* MTH440
+* MTH442

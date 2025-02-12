@@ -1,0 +1,46 @@
+---
+title: Learning goals for MTH342
+---
+
+## Role in Curriculum
+
+Provides important tools to study and analyze multivariable functions
+
+## Learning Goals and Assessment Plans
+
+> The student will be able to prove that a
+> multivariable map is continuous or
+> differentiable.
+
+When the class is being assessed, the final exams
+will include embedded questions to assess student
+performance on these topic-specific learning
+goals. Instructors are resposible for tallying
+their students scores.
+
+> The student will be able to compute the Jacobian
+> matrix of a given differentiable map.
+
+same
+
+> The student will be able to apply the Lagrange
+> multiplier Theorem to find maximum or minimum
+> values of a function subjected to a constraint.
+
+same
+
+----
+
+When assessment activities are done, the results will be summarized in
+memorandum form and filed with the department chairperson for record
+keeping
+purposes.
+
+Information obtained from assessment will be used to assess and
+self-reflect on the success of the course and to make any necessary
+changes to
+improve teaching and learning effectiveness.
+
+------------------------------------------------------------------------
+
+Last updated Mon May 24 14:48:07 2010
