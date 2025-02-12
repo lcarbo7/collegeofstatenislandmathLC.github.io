@@ -1,0 +1,16 @@
+# news stories
+
+* Images can't be pdf here
+* using this template is useful
+
+---
+title: TITLE
+date: DATE
+image: IMAGE
+description: DESCRIPTION
+about:
+  template: solana
+  image-width: 35%
+---
+
+MORE DESCRIPTION
