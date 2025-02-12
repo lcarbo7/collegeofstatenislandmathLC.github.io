@@ -1,5 +1,17 @@
+---
+listing:
+  contents: news
+  max-items: 4
+  type: table
+  fields: [date, title]
+  sort-ui: false
+  filter-ui: false
+  id: news
+---
+
 ::: {.container}
 
+<!-- Title and Banner -->
 
 :::: {.grid}
 ::::: {.g-col-0 .g-col-sm-2}
@@ -13,41 +25,34 @@ height=150
 fig-alt="Banner"}
 
 # The Department of Mathematics {.center}
-
 :::::
-
-
 ::::
 
+<!-- Main content -->
 
 :::: {.grid}
 ::::: {.g-col-12 .g-col-sm-9}
-
 {{< include blurbs.qmd >}}
 :::::
 
 ::::: {.g-col-12 .g-col-sm-3}
-
 {{< include sidebar.qmd >}}
-
 :::::
-
 ::::
 
-:::: {.grid}
-::::: {.g-col-12  .g-col-md-6}
-## Recent news
-{{< include news.qmd >}}
-:::::
+<!-- News and Calendar  -->
 
+:::: {.grid}
+::::: {.g-col-12 .g-col-md-6}
+## Recent news
+:::::: {#news .container}
+::::::
+:::::
 
 ::::: {.g-col-12 .g-col-md-6}
 ## Academic Calendar
 {{< include calendar.qmd >}}
 :::::
-
-
-
 ::::
 
 ----
