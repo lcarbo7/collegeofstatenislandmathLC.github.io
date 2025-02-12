@@ -1,9 +1,15 @@
 # TODO
 
 ✓ github
-* calendar.csv needs updating (where does it come from)
+✓ sidebar styling
 ✓ about pages are not very nice
-* many errors in nav bar
-✓ sidebar styling is better (could be improved)
-* learning goals
-* sidbar match
+* about pages need a space in the URL line after the icon
+* calendar.csv needs updating
+  - has to be copied manually each semester
+  - get rid of altogether? Maybe link to the CSI calendar?
+* News at the top?
+* Syllabi needs a landing page
+* Courses/index needs love (just generally)
+* Advisement Documents page is kind of scary looking
+* learning goals needs attention from the department
+* Clean up Graduate and Research folders
