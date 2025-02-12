@@ -1,0 +1,114 @@
++-----------------------+-----------------------+-----------------------+
+| Dates                 | Days                  | Description           |
++=======================+=======================+=======================+
+| 01/18/2025            | Saturday              | Last day to file      |
+|                       |                       | Permit request        |
++-----------------------+-----------------------+-----------------------+
+| 01/24/2025            | Friday                | Last day to drop for  |
+|                       |                       | 100% tuition refund   |
++-----------------------+-----------------------+-----------------------+
+| 01/25/2025            | Saturday              | Start of Spring Term  |
+|                       |                       |                       |
+|                       |                       | Classes Begin         |
++-----------------------+-----------------------+-----------------------+
+| 01/29/2025            | Wednesday             | No Classes Scheduled  |
++-----------------------+-----------------------+-----------------------+
+| 01/31/2025            | Friday                | Last day to add a     |
+|                       |                       | course                |
+|                       |                       |                       |
+|                       |                       | Last day to drop for  |
+|                       |                       | 75% tuition refund    |
+|                       |                       |                       |
+|                       |                       | Financial Aid         |
+|                       |                       | Certification         |
+|                       |                       | Enrollment Status     |
+|                       |                       | Date                  |
++-----------------------+-----------------------+-----------------------+
+| 02/01/2025            | Saturday              | Verification of       |
+|                       |                       | Enrollment Rosters    |
+|                       |                       | Available to faculty  |
+|                       |                       |                       |
+|                       |                       | Grade of WD is        |
+|                       |                       | assigned to students  |
+|                       |                       | who officially drop a |
+|                       |                       | course                |
++-----------------------+-----------------------+-----------------------+
+| 02/07/2025            | Friday                | [[[Last day to drop   |
+|                       |                       | for 50% tuition       |
+|                       |                       | refund]{dir="ltr"     |
+|                       |                       | role="p               |
+|                       |                       | resentation"}]{.marke |
+|                       |                       | dContent}]{dir="ltr"} |
++-----------------------+-----------------------+-----------------------+
+| 02/12/2025            | Wednesday             | [[[College            |
+|                       |                       | Closed]{dir="ltr"     |
+|                       |                       | role="p               |
+|                       |                       | resentation"}]{.marke |
+|                       |                       | dContent}]{dir="ltr"} |
++-----------------------+-----------------------+-----------------------+
+| 02/14/2025            | Friday                | Last day to drop for  |
+|                       |                       | 25% tuition refund    |
+|                       |                       |                       |
+|                       |                       | Last day to Change or |
+|                       |                       | Declare a Major/Minor |
+|                       |                       | to be effective       |
+|                       |                       | Spring 2025           |
+|                       |                       |                       |
+|                       |                       | Census date           |
+|                       |                       |                       |
+|                       |                       | Verification of       |
+|                       |                       | Enrollment Rosters    |
+|                       |                       | Due from faculty      |
++-----------------------+-----------------------+-----------------------+
+| 02/15/2025            | Saturday              | WN Grades assigned    |
+|                       |                       |                       |
+|                       |                       | Grade of W is         |
+|                       |                       | assigned to students  |
+|                       |                       | who officially        |
+|                       |                       | withdraw from a       |
+|                       |                       | course                |
++-----------------------+-----------------------+-----------------------+
+| 02/17/2025            | Monday                | College Closed        |
++-----------------------+-----------------------+-----------------------+
+| 02/18/2025            | Tuesday               | Classes follow a      |
+|                       |                       | Monday schedule       |
++-----------------------+-----------------------+-----------------------+
+| 02/24/2025            | Monday                | WA Grades Assigned -- |
+|                       |                       | Immunization          |
+|                       |                       | non-compliance        |
++-----------------------+-----------------------+-----------------------+
+| 03/06/2025            | Thursday              | Classes follow        |
+|                       |                       | Wednesday schedule    |
++-----------------------+-----------------------+-----------------------+
+| 03/31/2025            | Monday                | R2T4 60% Date for the |
+|                       |                       | Session               |
+|                       |                       |                       |
+|                       |                       | No Classes Scheduled  |
++-----------------------+-----------------------+-----------------------+
+| 04/01/2025            | Tuesday               | Last day to withdraw  |
+|                       |                       | from course with a    |
+|                       |                       | grade of W            |
++-----------------------+-----------------------+-----------------------+
+| 04/12/2025-04/20/2025 | Saturday-Sunday       | Spring Recess         |
++-----------------------+-----------------------+-----------------------+
+| 05/16/2025-05/22/2025 | Friday-Thursday       | Final Examinations    |
++-----------------------+-----------------------+-----------------------+
+| 05/22/2025            | Thursday              | [[[End of Spring      |
+|                       |                       | Term]{dir="ltr"       |
+|                       |                       | role="p               |
+|                       |                       | resentation"}]{.marke |
+|                       |                       | dContent}]{dir="ltr"} |
++-----------------------+-----------------------+-----------------------+
+| 05/26/2025            | Monday                | [[[College            |
+|                       |                       | Closed]{dir="ltr"     |
+|                       |                       | role="p               |
+|                       |                       | resentation"}]{.marke |
+|                       |                       | dContent}]{dir="ltr"} |
++-----------------------+-----------------------+-----------------------+
+| 05/27/2025            | Tuesday               | Final Grade           |
+|                       |                       | Submission            |
+|                       |                       | Deadline**\***        |
++-----------------------+-----------------------+-----------------------+
+| 06/01/2025            | Sunday                | Spring 2025 Degree    |
+|                       |                       | Conferral Date        |
++-----------------------+-----------------------+-----------------------+
