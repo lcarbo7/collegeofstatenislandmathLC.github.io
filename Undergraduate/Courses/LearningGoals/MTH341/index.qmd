@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH341
+order: 341
 ---
 
 ## Role in Curriculum

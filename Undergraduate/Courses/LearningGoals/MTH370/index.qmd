@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH370
+order: 370
 ---
 
 ## Role in Curriculum

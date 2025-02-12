@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH431
+order: 431
 ---
 
 ## Role in Curriculum

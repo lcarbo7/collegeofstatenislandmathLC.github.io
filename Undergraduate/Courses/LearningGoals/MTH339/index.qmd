@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH339
+order: 339
 ---
 
 ## Role in Curriculum

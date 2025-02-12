@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH518
+order: 518
 ---
 
 ## Role in Curriculum

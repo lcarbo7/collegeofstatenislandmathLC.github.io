@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH338
+order: 338
 ---
 
 ## Role in Curriculum

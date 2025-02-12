@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH230
+order: 230
 ---
 
 ## Role in Curriculum

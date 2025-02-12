@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH4XX_Was_MTH517
+order: 499
 ---
 
 ## Role in Curriculum

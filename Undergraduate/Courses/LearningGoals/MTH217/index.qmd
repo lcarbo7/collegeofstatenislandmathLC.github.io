@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH217
+order: 217
 ---
 
 ## Role in Curriculum

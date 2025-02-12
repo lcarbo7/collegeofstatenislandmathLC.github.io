@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH232
+order: 232
 ---
 
 ## Role in Curriculum

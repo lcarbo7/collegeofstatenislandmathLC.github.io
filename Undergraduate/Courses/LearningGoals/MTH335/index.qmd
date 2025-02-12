@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH335
+order: 335
 ---
 
 ## Role in Curriculum

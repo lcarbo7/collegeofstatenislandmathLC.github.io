@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH121
+order: 121
 ---
 
 ## Role in Curriculum

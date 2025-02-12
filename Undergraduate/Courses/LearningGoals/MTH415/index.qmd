@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH415
+order: 415
 ---
 
 ## Role in Curriculum

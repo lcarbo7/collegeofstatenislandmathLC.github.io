@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH306
+order: 306
 ---
 
 ## Role in Curriculum

@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH218
+order: 218
 ---
 
 ## Role in Curriculum

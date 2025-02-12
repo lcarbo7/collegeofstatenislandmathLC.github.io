@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH130
+order: 130
 ---
 
 ## Role in Curriculum

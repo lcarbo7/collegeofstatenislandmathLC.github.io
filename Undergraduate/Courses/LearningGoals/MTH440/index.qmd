@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH440
+order: 440
 ---
 
 ## Role in Curriculum

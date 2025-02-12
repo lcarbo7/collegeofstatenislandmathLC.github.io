@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH301
+order: 301
 ---
 
 ## Role in Curriculum

@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH342
+order: 342
 ---
 
 ## Role in Curriculum

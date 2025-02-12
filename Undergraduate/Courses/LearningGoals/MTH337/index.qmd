@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH337
+order: 337
 ---
 
 ## Role in Curriculum

@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH331
+order: 331
 ---
 
 ## Role in Curriculum

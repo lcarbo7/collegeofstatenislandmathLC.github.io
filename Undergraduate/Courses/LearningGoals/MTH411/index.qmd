@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH411
+order: 411
 ---
 
 ## Role in Curriculum

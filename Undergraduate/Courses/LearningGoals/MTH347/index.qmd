@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH347
+order: 347
 ---
 
 ## Role in Curriculum

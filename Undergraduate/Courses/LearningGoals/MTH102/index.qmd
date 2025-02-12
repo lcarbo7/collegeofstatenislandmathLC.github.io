@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH102
+order: 102
 ---
 
 ## Role in Curriculum

@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH435
+order: 435
 ---
 
 ## Role in Curriculum

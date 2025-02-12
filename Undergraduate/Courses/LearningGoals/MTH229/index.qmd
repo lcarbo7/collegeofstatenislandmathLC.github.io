@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH229
+order: 229
 ---
 
 ## Role in Curriculum

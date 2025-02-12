@@ -1,5 +1,6 @@
 ---
 title: Learning goals for MTH233
+order: 233
 ---
 
 ## Role in Curriculum
