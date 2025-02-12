@@ -144,7 +144,7 @@ The course covers supervised and unsupervised learning, clustering and regressio
 
 * [MTH 410](https://csi-undergraduate.catalog.cuny.edu/courses/0661471) *Mathematical Statistics I*
 
-Statistics and Probability are closely coupled fields that deal with uncertainty and undeterministic processes in a way most mathematics does not engage with: Probability gives us a language and toolbox to model randomness and uncertainty, while Statistics gives us a toolbox to match probabilistic tools to concretely observed data as well as the ability to quantify our degree of certainty and perform quality control on our models.
+Statistics and Probability are closely coupled fields that deal with uncertainty and indeterministic processes in a way most mathematics does not engage with: Probability gives us a language and toolbox to model randomness and uncertainty, while Statistics gives us a toolbox to match probabilistic tools to concretely observed data as well as the ability to quantify our degree of certainty and perform quality control on our models.
 
 In this course, we study statistics from a mathematical foundations perspective. Starting with the problem of how to estimate unknown quantities, and the ways that we can describe the quality of our estimators, the course continues to a formal theory of hypothesis testing and derives most tests that occur in a practical statistics course directly from properties of estimators and tests generated from them.
 
