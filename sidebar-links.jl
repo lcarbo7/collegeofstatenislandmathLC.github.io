@@ -111,7 +111,14 @@ quick_links = [
 
 ]
 
-
+tpl = mt"""
+:::: {.nav  .flex-column}
+{{#:SIDEBAR}}
+[<i class="bi bi-{{:BI}}"></i> {{{:NM}}}]({{{:URL}}}){.nav-link .text-black}
+{{/:SIDEBAR}}
+::::
+"""
+#=
 tpl = mt"""
 :::: {.d-grid .gap-1}
 {{#:SIDEBAR}}
@@ -155,5 +162,36 @@ atpl = mt"""
 </ul>
 
 """
+=#
 
-Markdown.parse(Mustache.render(tpl; SIDEBAR=course_links))
+file = "/tmp/sidebar.qmd"
+open(file,"w") do io
+    println(io, """
+::: {.d-grid .gap-0}
+:::: {.card}
+::::: {.card-header}
+Class links
+:::::
+""")
+
+    Mustache.render(io, tpl; SIDEBAR=course_links)
+
+    println(io, """
+::::
+:::
+
+::: {.d-grid .gap-0}
+:::: {.card}
+
+::::: {.card-header}
+Quick links
+:::::
+""")
+
+    Mustache.render(io, tpl; SIDEBAR=quick_links)
+
+    println(io, """
+::::
+:::
+""")
+end

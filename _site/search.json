@@ -403,7 +403,7 @@
     "href": "index.html",
     "title": "The Department of Mathematics",
     "section": "",
-    "text": "Welcome to CSI Mathematics. With approximately 25 full-time faculty members representing a number of the major fields of current research, the department offers courses for mathematics, engineering, and science students, as well as service courses for the general student body (see the full list of courses). We offer Bachelor of Science degrees with an emphasis on graduate school preparation, secondary school teaching, and a joint degree with computer science.\n\n\n\n\nMany of our majors become involved in faculty-mentored undergraduate research projects. Our full-time faculty conduct research in a variety of areas of pure and applied mathematics (MathSciNet). Research areas include applied mathematics, differential geometry, discrete mathematics, geometric analysis, hyperbolic conservation laws, knot theory, logic, nonlinear analysis, number theory, probability, and topology.\n\n\n\n\n\n\n\n\n\n\nThe College is conveniently located at the nexus of the vibrant New York City area research community. Many faculty in the Department of Mathematics contribute to, and organize, research activities at the CUNY Graduate Center in Manhattan. Our faculty also supervise doctoral students at the Graduate Center, and participate in research seminars and colloquia with neighboring institutions.\n\n\n\n\n\n\n\nClass links\n\n\n WeBWorK\n\n\n WebAssign\n\n\n MyStatLab\n\n\n JuliaBox\n\n\n Course Materials\n\n\n Tutoring\n\n\n\n\n\n\nQuick links\n\n\n Brightspace\n\n\n BlackBoard\n\n\n CUNYFirst\n\n\n Navigate\n\n\n Math major\n\n\n Mathclub\n\n\n Advisement\n\n\n Careers\n\n\n Teacher Education Honors Academy\n\n\n Course schedule\n\n\n Calendar\n\n\n Accessibility\n\n\n Transition to Bright Space\n\n\n\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nFeb 9, 2025\n\n\nAchtung\n\n\n\n\nFeb 1, 2025\n\n\nAttention\n\n\n\n\n\nNo matching items\n\n\n\n\n\ngenerate by script?"
+    "text": "Welcome to CSI Mathematics. With approximately 25 full-time faculty members representing a number of the major fields of current research, the department offers courses for mathematics, engineering, and science students, as well as service courses for the general student body (see the full list of courses). We offer Bachelor of Science degrees with an emphasis on graduate school preparation, secondary school teaching, and a joint degree with computer science.\n\n\n\n\nMany of our majors become involved in faculty-mentored undergraduate research projects. Our full-time faculty conduct research in a variety of areas of pure and applied mathematics (MathSciNet). Research areas include applied mathematics, differential geometry, discrete mathematics, geometric analysis, hyperbolic conservation laws, knot theory, logic, nonlinear analysis, number theory, probability, and topology.\n\n\n\n\n\n\n\n\n\n\nThe College is conveniently located at the nexus of the vibrant New York City area research community. Many faculty in the Department of Mathematics contribute to, and organize, research activities at the CUNY Graduate Center in Manhattan. Our faculty also supervise doctoral students at the Graduate Center, and participate in research seminars and colloquia with neighboring institutions.\n\n\n\n\n\n\n\nClass links\n\n\n WeBWorK  WebAssign  MyStatLab  JuliaBox  Course Materials  Tutoring\n\n\n\n\n\n\nQuick links\n\n\n Brightspace  BlackBoard  CUNYFirst  Navigate  Math major  Mathclub  Advisement  Careers  Teacher Education Honors Academy  Course schedule  Calendar  Accessibility  Transition to Bright Space\n\n\n\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nFeb 9, 2025\n\n\nAchtung\n\n\n\n\nFeb 1, 2025\n\n\nAttention\n\n\n\n\n\nNo matching items\n\n\n\n\n\ngenerate by script?"
   },
   {
     "objectID": "index.html#recent-news",
@@ -515,7 +515,7 @@
     "href": "TODO.html",
     "title": "TODO",
     "section": "",
-    "text": "TODO\n\ngithub\ncalendar.csv needs updating (where does it come from)\nabout pages are not very nice\nmany errors in nav bar\nsidebar styling is kinda awful"
+    "text": "TODO\n✓ github * calendar.csv needs updating (where does it come from) ✓ about pages are not very nice * many errors in nav bar ✓ sidebar styling is better (could be improved) * learning goals * sidbar match"
   },
   {
     "objectID": "blurbs.html",
@@ -1033,7 +1033,7 @@
     "href": "sidebar.html",
     "title": "CSI Math",
     "section": "",
-    "text": "Class links\n\n\n WeBWorK\n\n\n WebAssign\n\n\n MyStatLab\n\n\n JuliaBox\n\n\n Course Materials\n\n\n Tutoring\n\n\n\n\n\n\nQuick links\n\n\n Brightspace\n\n\n BlackBoard\n\n\n CUNYFirst\n\n\n Navigate\n\n\n Math major\n\n\n Mathclub\n\n\n Advisement\n\n\n Careers\n\n\n Teacher Education Honors Academy\n\n\n Course schedule\n\n\n Calendar\n\n\n Accessibility\n\n\n Transition to Bright Space"
+    "text": "Class links\n\n\n WeBWorK  WebAssign  MyStatLab  JuliaBox  Course Materials  Tutoring\n\n\n\n\n\n\nQuick links\n\n\n Brightspace  BlackBoard  CUNYFirst  Navigate  Math major  Mathclub  Advisement  Careers  Teacher Education Honors Academy  Course schedule  Calendar  Accessibility  Transition to Bright Space"
   },
   {
     "objectID": "index.html#calendar-of-events",
@@ -1082,28 +1082,28 @@
     "href": "People/staff/Carbanaro-Lewis.html",
     "title": "Lewis Carbonaro",
     "section": "",
-    "text": "Office: 1S-213A  x3606   lewis.carbonaro at csi.cuny.edu   https://www.math.csi.cuny.edu/lewisc"
+    "text": "Office | 1S-213A  Telephone | x3606   Email | lewis.carbonaro at csi.cuny.edu   url | https://www.math.csi.cuny.edu/lewisc"
   },
   {
     "objectID": "People/staff/Carbanaro-Lewis.html#contact",
     "href": "People/staff/Carbanaro-Lewis.html#contact",
     "title": "Lewis Carbonaro",
     "section": "",
-    "text": "Office: 1S-213A  x3606   lewis.carbonaro at csi.cuny.edu   https://www.math.csi.cuny.edu/lewisc"
+    "text": "Office | 1S-213A  Telephone | x3606   Email | lewis.carbonaro at csi.cuny.edu   url | https://www.math.csi.cuny.edu/lewisc"
   },
   {
     "objectID": "People/staff/Biagini-Colleen.html",
     "href": "People/staff/Biagini-Colleen.html",
     "title": "Colleen Biagini",
     "section": "",
-    "text": "Office: 1S-215   x3600   colleen.biagini at csi.cuny.edu"
+    "text": "Office | 1S-215   telephone | x3600   mailbox | colleen.biagini at csi.cuny.edu"
   },
   {
     "objectID": "People/staff/Biagini-Colleen.html#contact",
     "href": "People/staff/Biagini-Colleen.html#contact",
     "title": "Colleen Biagini",
     "section": "",
-    "text": "Office: 1S-215   x3600   colleen.biagini at csi.cuny.edu"
+    "text": "Office | 1S-215   telephone | x3600   mailbox | colleen.biagini at csi.cuny.edu"
   },
   {
     "objectID": "People/faculty/Poje-Andrew.html#biography",
@@ -1279,5 +1279,12 @@
     "title": "CSI Math",
     "section": "Quick links",
     "text": "Quick links"
+  },
+  {
+    "objectID": "sidebar.html#class-links",
+    "href": "sidebar.html#class-links",
+    "title": "CSI Math",
+    "section": "",
+    "text": "WeBWorK  WebAssign  MyStatLab  JuliaBox  Course Materials  Tutoring"
   }
 ]
