@@ -20,8 +20,8 @@ website:
         href: about.qmd
       - text: "People"
         menu:
-          - People/faculty/faculty.qmd
-          - People/staff/staff.qmd
+          - People/faculty/index.qmd
+          - People/staff/index.qmd
       - text: "Undergraduate"
         href: Undergraduate/index.qmd
       - text: "Courses"
