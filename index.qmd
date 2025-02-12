@@ -21,10 +21,10 @@ listing:
 ![](/images/banners/hintoncubes.jpg){
 .overflow-hidden
 text-align="center"
-height=150
+width=1000
 fig-alt="Banner"}
 
-# The Department of Mathematics {.center}
+# The Department of Mathematics {#main-title}
 :::::
 ::::
 

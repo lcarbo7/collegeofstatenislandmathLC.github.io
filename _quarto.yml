@@ -29,7 +29,7 @@ website:
   announcement:
     icon: info-circle
     dismissable: true
-    content: "Announcement in quarto.yml files, FT"# Add content here
+    content: "Announcement in quarto.yml files, FT" # Add content here
     type: primary
     position: below-navbar
 
@@ -38,7 +38,11 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      - cosmo
+      - csi-math.scss
+    grid:
+      body-width: 1200px
     toc: false
     css: "https://cdn.jsdelivr.net/gh/ryersondmp/sa11y@4.0.5/dist/css/sa11y.min.css"
     include-in-header:
