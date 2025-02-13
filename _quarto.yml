@@ -25,11 +25,11 @@ website:
       - text: "Undergraduate"
         href: Undergraduate/index.qmd
       - text: "Courses"
-        href: Undergraduate/Courses/course_list.html
+        href: Undergraduate/Courses/course_list.qmd
       - text: TEHA
         href: https://www.csi.cuny.edu/academics-and-research/specialized-programs/honors-programs/teacher-education-honors-academy
       - text: Syllabi
-        href: Undergraduate/Courses/syllabi/index.html
+        href: Undergraduate/Courses/Syllabi/index.qmd
 ##
   announcement:
     icon: info-circle
