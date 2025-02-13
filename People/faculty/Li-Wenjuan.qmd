@@ -5,7 +5,7 @@ image-alt: Wenjuan Li
 description: Doctoral Lecturer
 about:
   template: solana
-  image-width: 25%
+  image-width: 350px
 ---
 
 
@@ -14,10 +14,10 @@ Mathematics Education
 
 ## Contacts
 
-**Office**    | 1S-224     <br/>
-<i class="bi bi-telephone"></i> **Telephone** | x3621<br/>
-<i class="bi bi-mailbox"></i> **Email**     | `wenjuan.li at csi.cuny.edu`    <br/>
-<i class="bi bi-x-diamond"></i>**url**  | [https://www.math.csi.cuny.edu/~wli](https://www.math.csi.cuny.edu/~wli)  <br/>
+<i class="bi bi-door-open"></i> **Office** | 1S-224 <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3621 <br/>
+<i class="bi bi-mailbox"></i> **Email** | `wenjuan.li at csi.cuny.edu` <br/>
+<i class="bi bi-x-diamond"></i> **Website**  | [https://www.math.csi.cuny.edu/~wli](https://www.math.csi.cuny.edu/~wli) <br/>
 
 ## Biography
 

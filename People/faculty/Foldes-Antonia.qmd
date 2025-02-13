@@ -5,7 +5,7 @@ image-alt: Antonia Foldes
 description: Professor
 about:
   template: solana
-  image-width: 25%
+  image-width: 350px
 ---
 
 
@@ -14,10 +14,10 @@ Probability
 
 ## Contacts
 
-**Office**    | 1S-206     <br/>
-<i class="bi bi-telephone"></i> **Telephone** | x3612<br/>
-<i class="bi bi-mailbox"></i> **Email**     | `antonia.foldes at csi.cuny.edu`    <br/>
-<i class="bi bi-x-diamond"></i>**url**  | [http://www.math.csi.cuny.edu/~foldes](http://www.math.csi.cuny.edu/~foldes)  <br/>
+<i class="bi bi-door-open"></i> **Office** | 1S-206 <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3612 <br/>
+<i class="bi bi-mailbox"></i> **Email** | `antonia.foldes at csi.cuny.edu` <br/>
+<i class="bi bi-x-diamond"></i> **Website**  | [http://www.math.csi.cuny.edu/~foldes](http://www.math.csi.cuny.edu/~foldes) <br/>
 
 ## Biography
 

@@ -5,7 +5,7 @@ image-alt: Wladimir Pribitkin
 description: Professor
 about:
   template: solana
-  image-width: 25%
+  image-width: 350px
 ---
 
 
@@ -14,10 +14,10 @@ Number Theory and Automorphic Forms
 
 ## Contacts
 
-**Office**    | 1S-229     <br/>
-<i class="bi bi-telephone"></i> **Telephone** | x3628<br/>
-<i class="bi bi-mailbox"></i> **Email**     | `wladimir.pribitkin at csi.cuny.edu`    <br/>
-  <br/>
+<i class="bi bi-door-open"></i> **Office** | 1S-229 <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3628 <br/>
+<i class="bi bi-mailbox"></i> **Email** | `wladimir.pribitkin at csi.cuny.edu` <br/>
+ <br/>
 
 ## Biography
 

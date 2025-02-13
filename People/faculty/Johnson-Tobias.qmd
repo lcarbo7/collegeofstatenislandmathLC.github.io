@@ -5,7 +5,7 @@ image-alt: Tobias Johnson
 description: Associate Professor
 about:
   template: solana
-  image-width: 25%
+  image-width: 350px
 ---
 
 
@@ -14,9 +14,9 @@ Probability
 
 ## Contacts
 
-**Office**    | 1S-225     <br/>
-<i class="bi bi-telephone"></i> **Telephone** | x3694<br/>
-<i class="bi bi-mailbox"></i> **Email**     | `tobias.johnson at csi.cuny.edu`    <br/>
-<i class="bi bi-x-diamond"></i>**url**  | [http://www.math.csi.cuny.edu/~tobiasljohnson](http://www.math.csi.cuny.edu/~tobiasljohnson)  <br/>
+<i class="bi bi-door-open"></i> **Office** | 1S-225 <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3694 <br/>
+<i class="bi bi-mailbox"></i> **Email** | `tobias.johnson at csi.cuny.edu` <br/>
+<i class="bi bi-x-diamond"></i> **Website**  | [http://www.math.csi.cuny.edu/~tobiasljohnson](http://www.math.csi.cuny.edu/~tobiasljohnson) <br/>
 
 

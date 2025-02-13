@@ -5,7 +5,7 @@ image-alt: Arundhati Raychaudhuri
 description: Professor
 about:
   template: solana
-  image-width: 25%
+  image-width: 350px
 ---
 
 
@@ -14,10 +14,10 @@ Graph Theory and Discrete Mathematics
 
 ## Contacts
 
-**Office**    | 1S-211     <br/>
-<i class="bi bi-telephone"></i> **Telephone** | x3618<br/>
-<i class="bi bi-mailbox"></i> **Email**     | `aru.raychaudhuri at csi.cuny.edu`    <br/>
-  <br/>
+<i class="bi bi-door-open"></i> **Office** | 1S-211 <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3618 <br/>
+<i class="bi bi-mailbox"></i> **Email** | `aru.raychaudhuri at csi.cuny.edu` <br/>
+ <br/>
 
 ## Biography
 

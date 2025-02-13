@@ -4,7 +4,7 @@
 ✓ sidebar styling
 ✓ about pages are not very nice
 ✓ Syllabi needs a landing page
-* about pages need a space in the URL line after the icon
+✓ About pages need a space in the URL line after the icon
 * calendar.csv needs updating
   - has to be copied manually each semester
   - get rid of altogether? Maybe link to the CSI calendar?

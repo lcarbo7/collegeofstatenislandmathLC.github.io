@@ -5,7 +5,7 @@ image-alt: Mohammad Talafha
 description: Doctoral Lecturer
 about:
   template: solana
-  image-width: 25%
+  image-width: 350px
 ---
 
 
@@ -13,9 +13,9 @@ about:
 
 ## Contacts
 
-**Office**    | 1S-208     <br/>
-<i class="bi bi-telephone"></i> **Telephone** | x3627<br/>
-<i class="bi bi-mailbox"></i> **Email**     | `mohammad.talafha at csi.cuny.edu`    <br/>
-  <br/>
+<i class="bi bi-door-open"></i> **Office** | 1S-208 <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3627 <br/>
+<i class="bi bi-mailbox"></i> **Email** | `mohammad.talafha at csi.cuny.edu` <br/>
+ <br/>
 
 

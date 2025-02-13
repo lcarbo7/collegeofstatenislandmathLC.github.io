@@ -5,7 +5,7 @@ image-alt: Kevin O'Bryant
 description: Professor
 about:
   template: solana
-  image-width: 25%
+  image-width: 350px
 ---
 
 
@@ -14,10 +14,10 @@ publications: [publications are on the arXiv](http:&#x2F;&#x2F;front.math.ucdavi
 
 ## Contacts
 
-**Office**    | 1S-202     <br/>
-<i class="bi bi-telephone"></i> **Telephone** | x3608<br/>
-<i class="bi bi-mailbox"></i> **Email**     | `kevin.obryant at csi.cuny.edu`    <br/>
-<i class="bi bi-x-diamond"></i>**url**  | [http://www.math.csi.cuny.edu/obryant](http://www.math.csi.cuny.edu/obryant)  <br/>
+<i class="bi bi-door-open"></i> **Office** | 1S-202 <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3608 <br/>
+<i class="bi bi-mailbox"></i> **Email** | `kevin.obryant at csi.cuny.edu` <br/>
+<i class="bi bi-x-diamond"></i> **Website**  | [http://www.math.csi.cuny.edu/obryant](http://www.math.csi.cuny.edu/obryant) <br/>
 
 ## Biography
 

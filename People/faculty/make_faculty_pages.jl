@@ -13,7 +13,7 @@ image-alt: {{{:NM}}}
 description: {{:RANK}}
 about:
   template: solana
-  image-width: 25%
+  image-width: 350px
 ---
 
 
@@ -21,10 +21,10 @@ about:
 
 ## Contacts
 
-**Office**    | {{#:OFFICE}}{{{:OFFICE}}}{{/:OFFICE}}     <br/>
-<i class="bi bi-telephone"></i> **Telephone** | {{{:PHONE}}}<br/>
-<i class="bi bi-mailbox"></i> **Email**     | `{{{:EMAIL}}}`    <br/>
-{{#:URL}}<i class="bi bi-x-diamond"></i>**url**  | [{{{:URL}}}]({{{:URL}}}){{/:URL}}  <br/>
+<i class="bi bi-door-open"></i> **Office** | {{#:OFFICE}}{{{:OFFICE}}}{{/:OFFICE}} <br/>
+<i class="bi bi-telephone"></i> **Telephone** | {{{:PHONE}}} <br/>
+<i class="bi bi-mailbox"></i> **Email** | `{{{:EMAIL}}}` <br/>
+{{#:URL}}<i class="bi bi-x-diamond"></i> **Website**  | [{{{:URL}}}]({{{:URL}}}){{/:URL}} <br/>
 
 {{#:bio}}
 ## Biography
@@ -36,16 +36,16 @@ about:
 
 d = CSV.read("faculty.csv", DataFrame)
 bios = include("faculty-bios.jl")
-dd = DataFrame((NM=k,bio=v) for (k,v) ∈ bios)
+dd = DataFrame((NM=k, bio=v) for (k, v) ∈ bios)
 d = leftjoin(d, dd, on=:NM)
 
 
 for r ∈ eachrow(d)
-    first,last = split(r.NM, " ")
+    first, last = split(r.NM, " ")
     fname = "$last-$first.qmd"
     fname = replace(fname, "'" => "")
 
-    open(fname,"w") do io
+    open(fname, "w") do io
         Mustache.render(io, tpl; r...)
     end
 end

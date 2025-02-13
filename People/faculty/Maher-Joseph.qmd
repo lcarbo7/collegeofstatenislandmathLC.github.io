@@ -5,7 +5,7 @@ image-alt: Joseph Maher
 description: Professor
 about:
   template: solana
-  image-width: 25%
+  image-width: 350px
 ---
 
 
@@ -14,10 +14,10 @@ Geometric Topology
 
 ## Contacts
 
-**Office**    | 1S-222     <br/>
-<i class="bi bi-telephone"></i> **Telephone** | x3623<br/>
-<i class="bi bi-mailbox"></i> **Email**     | `joseph.maher at csi.cuny.edu`    <br/>
-<i class="bi bi-x-diamond"></i>**url**  | [http://www.math.csi.cuny.edu/~maher](http://www.math.csi.cuny.edu/~maher)  <br/>
+<i class="bi bi-door-open"></i> **Office** | 1S-222 <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3623 <br/>
+<i class="bi bi-mailbox"></i> **Email** | `joseph.maher at csi.cuny.edu` <br/>
+<i class="bi bi-x-diamond"></i> **Website**  | [http://www.math.csi.cuny.edu/~maher](http://www.math.csi.cuny.edu/~maher) <br/>
 
 ## Biography
 

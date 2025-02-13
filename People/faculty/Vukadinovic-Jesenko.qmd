@@ -5,7 +5,7 @@ image-alt: Jesenko Vukadinovic
 description: Associate Professor
 about:
   template: solana
-  image-width: 25%
+  image-width: 350px
 ---
 
 
@@ -13,10 +13,10 @@ Fluid and Polymer Dynamics
 
 ## Contacts
 
-**Office**    | 1S-228     <br/>
-<i class="bi bi-telephone"></i> **Telephone** | x3632<br/>
-<i class="bi bi-mailbox"></i> **Email**     | `vukadino at math.csi.cuny.edu`    <br/>
-<i class="bi bi-x-diamond"></i>**url**  | [http://www.math.csi.cuny.edu/~vukadino](http://www.math.csi.cuny.edu/~vukadino)  <br/>
+<i class="bi bi-door-open"></i> **Office** | 1S-228 <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3632 <br/>
+<i class="bi bi-mailbox"></i> **Email** | `vukadino at math.csi.cuny.edu` <br/>
+<i class="bi bi-x-diamond"></i> **Website**  | [http://www.math.csi.cuny.edu/~vukadino](http://www.math.csi.cuny.edu/~vukadino) <br/>
 
 ## Biography
 

@@ -5,7 +5,7 @@ image-alt: Chris Conidis
 description: Assistant Professor
 about:
   template: solana
-  image-width: 25%
+  image-width: 350px
 ---
 
 
@@ -14,10 +14,10 @@ Mathematical Logic and Computability Theory
 
 ## Contacts
 
-**Office**    | 1S-224     <br/>
-<i class="bi bi-telephone"></i> **Telephone** | x3622<br/>
-<i class="bi bi-mailbox"></i> **Email**     | `chris.conidis at csi.cuny.edu`    <br/>
-<i class="bi bi-x-diamond"></i>**url**  | [http://www.math.csi.cuny.edu/~conidis](http://www.math.csi.cuny.edu/~conidis)  <br/>
+<i class="bi bi-door-open"></i> **Office** | 1S-224 <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3622 <br/>
+<i class="bi bi-mailbox"></i> **Email** | `chris.conidis at csi.cuny.edu` <br/>
+<i class="bi bi-x-diamond"></i> **Website**  | [http://www.math.csi.cuny.edu/~conidis](http://www.math.csi.cuny.edu/~conidis) <br/>
 
 ## Biography
 

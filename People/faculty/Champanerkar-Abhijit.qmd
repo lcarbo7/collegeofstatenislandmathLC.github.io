@@ -5,7 +5,7 @@ image-alt: Abhijit Champanerkar
 description: Professor
 about:
   template: solana
-  image-width: 25%
+  image-width: 350px
 ---
 
 
@@ -13,10 +13,10 @@ Hyperbolic 3-manifolds and Knot Theory
 
 ## Contacts
 
-**Office**    | 1S-230     <br/>
-<i class="bi bi-telephone"></i> **Telephone** | x3613<br/>
-<i class="bi bi-mailbox"></i> **Email**     | `abhijit at math.csi.cuny.edu`    <br/>
-<i class="bi bi-x-diamond"></i>**url**  | [http://www.math.csi.cuny.edu/~abhijit](http://www.math.csi.cuny.edu/~abhijit)  <br/>
+<i class="bi bi-door-open"></i> **Office** | 1S-230 <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3613 <br/>
+<i class="bi bi-mailbox"></i> **Email** | `abhijit at math.csi.cuny.edu` <br/>
+<i class="bi bi-x-diamond"></i> **Website**  | [http://www.math.csi.cuny.edu/~abhijit](http://www.math.csi.cuny.edu/~abhijit) <br/>
 
 ## Biography
 

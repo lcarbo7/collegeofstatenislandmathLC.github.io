@@ -5,7 +5,7 @@ image-alt: Allen Tesdall
 description: Associate Professor
 about:
   template: solana
-  image-width: 25%
+  image-width: 350px
 ---
 
 
@@ -14,10 +14,10 @@ Nonlinear hyperbolic conservation laws, numerical methods for hyperbolic problem
 
 ## Contacts
 
-**Office**    | 1S-210     <br/>
-<i class="bi bi-telephone"></i> **Telephone** | x3617<br/>
-<i class="bi bi-mailbox"></i> **Email**     | `allen.tesdall at csi.cuny.edu`    <br/>
-<i class="bi bi-x-diamond"></i>**url**  | [http://www.math.csi.cuny.edu/~atesdall](http://www.math.csi.cuny.edu/~atesdall)  <br/>
+<i class="bi bi-door-open"></i> **Office** | 1S-210 <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3617 <br/>
+<i class="bi bi-mailbox"></i> **Email** | `allen.tesdall at csi.cuny.edu` <br/>
+<i class="bi bi-x-diamond"></i> **Website**  | [http://www.math.csi.cuny.edu/~atesdall](http://www.math.csi.cuny.edu/~atesdall) <br/>
 
 ## Biography
 
@@ -49,3 +49,5 @@ I received my PhD from the University of California, Davis in 2001.
 Prior to coming to CSI, I was a visiting member of the Fields
 Institute, Toronto, ON, and held visiting positions at the University
 of Houston and Southern Methodist University.
+
+

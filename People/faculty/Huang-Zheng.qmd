@@ -5,7 +5,7 @@ image-alt: Zheng Huang
 description: Professor
 about:
   template: solana
-  image-width: 25%
+  image-width: 350px
 ---
 
 
@@ -14,10 +14,10 @@ Differential Geometry and Geometric Analysis
 
 ## Contacts
 
-**Office**    | 1S-233     <br/>
-<i class="bi bi-telephone"></i> **Telephone** | x3625<br/>
-<i class="bi bi-mailbox"></i> **Email**     | `zheng.huang at csi.cuny.edu`    <br/>
-<i class="bi bi-x-diamond"></i>**url**  | [http://www.math.csi.cuny.edu/~huang](http://www.math.csi.cuny.edu/~huang)  <br/>
+<i class="bi bi-door-open"></i> **Office** | 1S-233 <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3625 <br/>
+<i class="bi bi-mailbox"></i> **Email** | `zheng.huang at csi.cuny.edu` <br/>
+<i class="bi bi-x-diamond"></i> **Website**  | [http://www.math.csi.cuny.edu/~huang](http://www.math.csi.cuny.edu/~huang) <br/>
 
 ## Biography
 
