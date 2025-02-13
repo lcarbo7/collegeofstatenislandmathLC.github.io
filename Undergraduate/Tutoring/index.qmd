@@ -15,7 +15,7 @@ The Mathematics Tutoring Center has tutoring on campus, as well as Distance-base
 
 > There is no tutoring on holidays and 'no class' scheduled days
 
-### Schedule in [(PDF)](tutor-grid.pdf)
+### Schedule in [(image)](tutor-grid.png)
 
 ----
 
