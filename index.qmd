@@ -1,9 +1,10 @@
 ---
+anchor-sections: false
 listing:
   contents: news
   max-items: 4
   type: table
-  fields: [image, date, title]
+  fields: [date, title, image]
   image-height: 200px
   sort-ui: false
   filter-ui: false
@@ -22,16 +23,19 @@ listing:
 
 <!-- Main content -->
 
+:::: {.grid}
+::::: {.g-col-12 .g-col-sm-8 .g-col-md-9}
 ## Recent news
 :::::: {#news .container}
 ::::::
 
-:::: {.grid}
-::::: {.g-col-12 .g-col-sm-8 .g-col-md-9}
 {{< include blurbs.qmd >}}
 :::::
 
 ::::: {.g-col-12  .g-col-sm-4 .g-col-md-3}
+
+## &nbsp;
+
 {{< include sidebar.qmd >}}
 :::::
 ::::
@@ -39,7 +43,7 @@ listing:
 <!-- News and Calendar  -->
 
 :::: {.grid}
-::::: {.g-col-12 .g-col-md-6}
+::::: {.g-col-12 .g-col-lg-9 .g-col-xl-6}
 ## Academic Calendar
 :::::: {.mh-15 .vh-15 .h-15 .overflow-scroll style="height: 500px"}
 {{< include academic-calendar.qmd >}}
