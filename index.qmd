@@ -14,7 +14,7 @@ listing:
 <!-- Title and Banner -->
 
 :::: {#banner}
-![](/images/banners/hintoncubes.jpg){width=900 fig-alt="Banner"}
+![](/images/banners/hintoncubes.jpg){width=600 fig-alt="Banner"}
 ::::
 
 # The Department of Mathematics {#main-title}
