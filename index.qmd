@@ -3,7 +3,8 @@ listing:
   contents: news
   max-items: 4
   type: table
-  fields: [date, title]
+  fields: [image, date, title]
+  image-height: 200px
   sort-ui: false
   filter-ui: false
   id: news
@@ -21,6 +22,10 @@ listing:
 
 <!-- Main content -->
 
+## Recent news
+:::::: {#news .container}
+::::::
+
 :::: {.grid}
 ::::: {.g-col-12 .g-col-sm-8 .g-col-md-9}
 {{< include blurbs.qmd >}}
@@ -35,16 +40,8 @@ listing:
 
 :::: {.grid}
 ::::: {.g-col-12 .g-col-md-6}
-## Recent news
-:::::: {#news .container}
-::::::
-:::::
-
-
-
-::::: {.g-col-12 .g-col-md-6}
 ## Academic Calendar
-:::::: {.mh-15 .vh-15 .h-15 .overflow-scroll style="height: 200px"}
+:::::: {.mh-15 .vh-15 .h-15 .overflow-scroll style="height: 500px"}
 {{< include academic-calendar.qmd >}}
 ::::::
 :::::
