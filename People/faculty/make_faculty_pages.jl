@@ -17,7 +17,7 @@ about:
 ---
 
 
-{{:INTERESTS}}
+{{{:INTERESTS}}}
 
 ## Contacts
 
