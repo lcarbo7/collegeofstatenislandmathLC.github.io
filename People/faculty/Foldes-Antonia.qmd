@@ -2,7 +2,7 @@
 title: Antonia Foldes
 image: /images/people/foldes-headshot.jpg
 image-alt: Antonia Foldes
-description: Professor
+description: Emeritus Professor
 about:
   template: solana
   image-width: 350px
@@ -39,5 +39,3 @@ occupation time of a finite set, multiplicity of the set of points
 with a given local time, and joint asymptotic behavior of local and
 occupation times of random walks in higher dimension are the object of
 my most recent work.
-
-

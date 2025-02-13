@@ -8,9 +8,8 @@ about:
   image-width: 350px
 ---
 
-
 Number Theory
-publications: [publications are on the arXiv](http:&#x2F;&#x2F;front.math.ucdavis.edu&#x2F;author&#x2F;K.OBryant) [Reviews on Math Sci-Net](http:&#x2F;&#x2F;www.ams.org&#x2F;mathscinet&#x2F;search&#x2F;publications.html?pg1=IID&amp;s1=667411)
+publications: [publications are on the arXiv](http://front.math.ucdavis.edu/author/K.OBryant) [Reviews on Math Sci-Net](http://www.ams.org/mathscinet/search/publications.html?pg1=IID&s1=667411)
 
 ## Contacts
 
@@ -40,5 +39,3 @@ frequently in the [New York Number Theory
 Seminar](http://www.math.rutgers.edu/~bumby/nyntsem/"> .  He is a
 co-organizer of the Combinatorial and Additive Number Theory
 Conference, held yearly in May in New York City.
-
-
