@@ -13,20 +13,11 @@ listing:
 
 <!-- Title and Banner -->
 
-:::: {.grid}
-::::: {.g-col-0 .g-col-sm-2}
-:::::
-::::: {.g-col-12 .g-col-sm-8}
-
-![](/images/banners/hintoncubes.jpg){
-.overflow-hidden
-text-align="center"
-width=1000
-fig-alt="Banner"}
+:::: {#banner}
+![](/images/banners/hintoncubes.jpg){width=900 fig-alt="Banner"}
+::::
 
 # The Department of Mathematics {#main-title}
-:::::
-::::
 
 <!-- Main content -->
 

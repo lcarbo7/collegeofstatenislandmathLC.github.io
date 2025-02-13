@@ -10,6 +10,14 @@ $navbar-bg: #212529;
   text-align: center;
 }
 
+#banner {
+  text-align: center;
+
+  img {
+    max-width: 75%;
+  }
+}
+
 .card {
   border-radius: 0.25rem;
   margin-bottom: 0.5rem;
