@@ -3,6 +3,7 @@ project:
 
 website:
   title: "CSI Math"
+  favicon: images/favicons/wavelet.svg
   bread-crumbs: true
   sidebar:
     - title: People
@@ -14,7 +15,7 @@ website:
     background: primary
     search: false
     collapse-below: "md"
-    logo: /images/favicons/favicon.ico
+    logo: images/favicons/wavelet.svg
     logo-alt: "CSI Math"
     left:
       - text: "About"
@@ -53,7 +54,6 @@ format:
     css: "https://cdn.jsdelivr.net/gh/ryersondmp/sa11y@4.0.5/dist/css/sa11y.min.css"
     include-in-header:
     - text: |
-       <link rel = "shortcut icon" href = "/images/favicons/favicon.ico" />
        <script src="https://cdn.jsdelivr.net/combine/gh/ryersondmp/sa11y@4.0.5/dist/js/lang/en.umd.js,gh/ryersondmp/sa11y@4.0.5/dist/js/sa11y.umd.min.js"></script>
     include-before-body:
     - text: |
