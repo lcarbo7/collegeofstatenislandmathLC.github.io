@@ -12,4 +12,4 @@
 * Courses/index needs love (just generally)
 * Advisement Documents page is kind of scary looking
 * learning goals needs attention from the department
-* Clean up Graduate and Research folders
+* Keep or delete Research folder?
