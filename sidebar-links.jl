@@ -46,11 +46,6 @@ function (@main)(args)
 	 ALT="brightspace",
 	 BI="journal"),
 
-	(NM="BlackBoard",
-	 URL="https://www.cuny.edu/about/administration/offices/cis/core-functions/cuny-blackboard/",
-	 ALT="blackboard",
-	 BI="journal"),
-
 	(NM="CUNYFirst",
 	 URL="https://www.cuny.edu/about/administration/offices/cis/cunyfirst/",
 	 ALT="cuny first",
@@ -97,7 +92,7 @@ function (@main)(args)
 	 BI="calendar-week"),
 
 	(NM="Accessibility",
-	 URL="https://mth229.github.io/CSI-Math-ADA/",
+	 URL="ADA",
 	 ALT="Accessibility",
 	 BI="pencil"),
 

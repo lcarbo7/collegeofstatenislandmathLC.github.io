@@ -10,6 +10,8 @@ website:
       contents: People
     - title: Undergraduate
       contents: Undergraduate
+    - title: ADA Compliance
+      contents: ADA
 ##
   navbar:
     background: primary

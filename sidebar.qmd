@@ -43,9 +43,6 @@ Quick links
 [<i class="bi bi-journal"></i> Brightspace](https://brightspace.cuny.edu/){.nav-link .nav-fill .table-hover .text-black}
 :::::
 ::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
-[<i class="bi bi-journal"></i> BlackBoard](https://www.cuny.edu/about/administration/offices/cis/core-functions/cuny-blackboard/){.nav-link .nav-fill .table-hover .text-black}
-:::::
-::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
 [<i class="bi bi-tools"></i> CUNYFirst](https://www.cuny.edu/about/administration/offices/cis/cunyfirst/){.nav-link .nav-fill .table-hover .text-black}
 :::::
 ::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
@@ -73,7 +70,7 @@ Quick links
 [<i class="bi bi-calendar-week"></i> Calendar](/calendar.html){.nav-link .nav-fill .table-hover .text-black}
 :::::
 ::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
-[<i class="bi bi-pencil"></i> Accessibility](https://mth229.github.io/CSI-Math-ADA/){.nav-link .nav-fill .table-hover .text-black}
+[<i class="bi bi-pencil"></i> Accessibility](ADA){.nav-link .nav-fill .table-hover .text-black}
 :::::
 ::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
 [<i class="bi bi-pencil"></i> Transition to Bright Space](/BB2BS/){.nav-link .nav-fill .table-hover .text-black}

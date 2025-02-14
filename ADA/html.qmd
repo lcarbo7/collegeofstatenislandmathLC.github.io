@@ -1,0 +1,31 @@
+# Notes on HTML/CSS
+
+Adapted from the W3C's [Easy Checks][1] and CUNY [Guidance][3].
+
+## Guidance:
+
+* Page title (`<title></title>`)
+    * should adequately and briefly describe the content of the page
+    * should be different from other pages on the same website
+* Image alternative text (alt-text) (`<img alt="..."`)
+    * Every functional image (e.g. figures) should have a descriptive alt-text
+    * Decorative image which do not need description, should have a null alt-text (`alt=""`)
+* Text
+    * Use semantic headings (`<h1>`, `<h2>`,...) rather than `<div>` or `<span>`
+    * Aim for good contrast between different colors (7:1). Larger text is allowed to have a slightly lower contrast ratio (4.5:1). Test this with tools such as [from WebAIM][5] or Mozilla Firefox's accessibility dev tools (<kbd>F12</kbd>).
+    * Text should resize well. Test zooming in to 200%.
+* Structure
+    * Use [semantic tags][4] (e.g. `<header>`, `<main>`, `<section>`) where possible, rather than `<div>`. Likewise, prefer `<em>` and `<strong>` rather than `<i>`, `<b>` or `<span>`.
+* Interactivity
+    * Tabbing order (<kbd>tab</kbd>) for links should be visible and follow a logical order through the page
+
+## Links
+
+* [CUNY guidance on web accessibility][3]
+* [W3C Web Accessibility Initiative][2]
+
+[1]: https://www.w3.org/WAI/test-evaluate/preliminary/
+[2]: https://www.w3.org/WAI/
+[3]: https://www.cuny.edu/accessibility/content/websites/
+[4]: https://developer.mozilla.org/en-US/docs/Glossary/semantics#semantic_elements
+[5]: https://webaim.org/resources/contrastchecker/

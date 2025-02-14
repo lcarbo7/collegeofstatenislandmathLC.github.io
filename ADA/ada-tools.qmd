@@ -1,0 +1,64 @@
+# Tools to check for ADA compliance
+
+
+The main tool for checking for ADA compliance provided by CUNY is Ally. This is a product of Anthology Inc which is purchased for use within the CUNY LMS (BlackBoard or Brightspace/D2L). This is available through *at least* Dec. 30, 2028.
+
+The following provides some details on it use: [All use](https://pressbooks.cuny.edu/accessibilitytoolkit/chapter/anthology-ally-accessibility-support/).
+
+
+## PDF
+
+Adobe [says](https://www.adobe.com/acrobat/hub/what-is-an-accessible-pdf.html):
+
+An accessible PDF is a document that is universally easy to use and meets established accessibility standards. It enables most people to view, read, or interact with your document. Since your audience may include people whose vision, hearing, mobility, or cognition is impaired, your document must support assistive technology like:
+
+* Screen readers
+* Text-to-speech programs
+* Braille displays
+* And more
+
+The more accessible your PDF is, for example, the easier it is to hear on a mobile device. Or view it with a screen magnifier. Or fill it out without a keyboard. Actually, this increased ease of use benefits everyone in your audience, regardless of their various abilities.
+
+Accessible PDFs, as opposed to regular PDFs, prioritize inclusivity and provide a better user experience for individuals with disabilities. Here are the key differences:
+
+* Structure. Accessible PDFs have a proper organization with headings, paragraphs, and tables, aiding screen readers in understanding the content flow. Regular PDFs lack this structure.
+
+* Textual accessibility. Accessible PDFs ensure the text is accessible using techniques like text recognition and alternative text for images. Regular PDFs may consist of static images or scanned documents.
+
+* Navigation. Accessible PDFs include bookmarks, a table of contents, and descriptive hyperlinks for easy navigation. Regular PDFs can be challenging to navigate with screen readers.
+
+* Color and contrast. Accessible PDFs prioritize color contrast and provide alternatives for color-coded information. Regular PDFs may have low contrast or rely solely on color.
+
+* Forms and interactive elements. Accessible PDFs have properly labeled and accessible form fields and interactive elements. Regular PDFs often lack proper labeling.
+
+* Metadata and language specification. Accessible PDFs include accurate metadata and specify the document’s language. Regular PDFs may lack metadata or language specification.
+
+
+### Adobe products
+
+Faculty have access to the Adobe Suite of packages called [Adobe Creative Cloud](https://www.cuny.edu/about/administration/offices/cis/technology-services/cuny-site-licenses/software-availability/). (Students in certain courses do, as well.)
+
+The Acrobat Pro program has a tool to verify accessibility
+[https://helpx.adobe.com/acrobat/using/create-verify-pdf-accessibility.html](https://helpx.adobe.com/acrobat/using/create-verify-pdf-accessibility.html).
+
+The tool creates a report on a given pdf.
+
+### verapdf
+
+At [https://openpreservation.org/tools](https://openpreservation.org/tools), one can find the verapdf program, an "an industry supported PDF/A validator."
+
+For [https://en.wikipedia.org/wiki/PDF/A](https://en.wikipedia.org/wiki/PDF/A):
+
+PDF/A is an ISO-standardized version of the Portable Document Format (PDF) specialized for use in the archiving and long-term preservation of electronic documents. PDF/A differs from PDF by prohibiting features unsuitable for long-term archiving, such as font linking (as opposed to font embedding) and encryption.[1] The ISO requirements for PDF/A file viewers include color management guidelines, support for embedded fonts, and a user interface for reading embedded annotations.
+
+
+
+## HTML
+
+* [https://www.w3.org/WAI/standards-guidelines/wcag/](https://www.w3.org/WAI/standards-guidelines/wcag/)
+
+WCAG are guidelines, internationally accepted, describing how to make web content more accessible to people with disabilities.
+
+* [https://wave.webaim.org/](https://wave.webaim.org/) WAVE provides a plugin for a browser making it easy and informative to check for Web Content Accessibility Guideline (WCAG) errors.
+
+## MS Word

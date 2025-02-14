@@ -1,0 +1,9 @@
+# Notes on WeBWork
+
+[WeBWorK](https://webwork.maa.org/moodle/) is a system, sponsored by the Mathematical Association of America, using in the department of mathematics for online homework and quizzes.
+
+
+
+----
+
+* there is a webwork frontend called "edfinity" that touts their ADA compliance: https://edfinity.com/vpat

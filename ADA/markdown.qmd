@@ -1,0 +1,103 @@
+# Notes on Markdown
+
+Markdown is a lightweight markup language for creating formatted text using a plain-text editor.  ([Wikipedia](https://en.wikipedia.org/wiki/Markdown))
+
+Markdown is standardized by [CommonMark](https://en.wikipedia.org/wiki/Markdown#Standardization) but there are many variants.
+
+
+There are several means to convert markdown to other formats. A widely used one is `pandoc`. A newer, but very common one is Quarto, a successor to R's `knitr` package for reproducible science that  mixex text and code.
+
+
+## Pandoc
+
+Pandoc can be found on [pandoc.org](https://pandoc.org/). Pandoc claims: "If you need to convert files from one markup format into another, pandoc is your swiss-army knife."
+
+Pandoc can easily convert markdown formatted files to pdf or html.
+
+For ADA compliant pdf, the [Journal of Open Source Software](https://joss.theoj.org/) uses markdown for paper submissions (with minor adjustments for references) and converts to pdf using [ConTeXt](https://wiki.contextgarden.net/Main_Page), saying
+
+> A common method for PDF generation is to go via LaTeX. However, support for tagging – a requirement for accessible PDFs – is not readily available for LaTeX. The current method used ConTeXt, to produce tagged PDF/A-3
+
+The basic command for converting `test.md` to `test.pdf` would look like:
+
+```
+pandoc test.md -o test.pdf -t context
+```
+
+
+## Quarto
+
+One variant is the Markdown supported in [Quarto](https://quarto.org), which is well described on its webpages. Quarto uses pandoc to handle conversions and can output to the three main formats discussed here: PDF, HTML, and MS Word.
+
+We copy a few pieces of the documentation below:
+
+### Figures
+
+[Figures](https://quarto.org/docs/authoring/figures.html) are created with the syntax:
+
+```verbatim
+![caption](elephant.png){fig-alt="A drawing of an elephant."}
+```
+
+Which contains the image a caption and an alt tag for screen readers. Many other options are also available for sizing and alignment.
+
+An alternate syntax that can be used to wrap, say, generated figures is to use the `div`-block constructs:
+
+```verbatim
+::: {#fig-label layout-ncol=2}
+
+... figure code, e.g. ![sub-caption](link){fig-alt="alt tab"} ...
+
+Main caption
+:::
+```
+
+## Tables
+
+[Tables](https://quarto.org/docs/authoring/tables.html) can be created in a fairly simple manner with "pipe tables". The example from the documentation:
+
+::: {layout-ncol="2"}
+
+:::: {}
+
+``` markdown
+| Default | Left | Right | Center |
+|---------|:-----|------:|:------:|
+| 12      | 12   |    12 |   12   |
+| 123     | 123  |   123 |  123   |
+| 1       | 1    |     1 |   1    |
+
+: Demonstration of pipe table syntax
+```
+
+::::
+
+:::: {}
+
+| Default | Left | Right | Center |
+|---------|:-----|------:|:------:|
+| 12      | 12   |    12 |   12   |
+| 123     | 123  |   123 |  123   |
+| 1       | 1    |     1 |   1    |
+
+: Demonstration of pipe table syntax
+
+::::
+
+:::
+
+Tables may also be generated programmatically.
+
+### Equations
+
+Quarto provides support for [Technical writing](https://quarto.org/docs/visual-editor/technical.html) including equations, citations, cross-references, footnotes, embedded code, and LateX.
+
+LaTeX equations are authored using standard Pandoc markdown syntax, which uses matching dollar signs (one or two) to indicate inline and display math.
+
+### Embedded code
+
+Quarto makes the mix of executable computer code with text quite effortless, allowing for reproducible, dynamic documents.
+
+The embedded code can have labels, captions, alt tags, etc.
+
+Embedded code can also have [annotations](https://quarto.org/docs/authoring/code-annotation.html).

@@ -1,0 +1,67 @@
+# ADA and the Math Department
+
+
+The Department of Mathematics takes seriously compliance with the requirements of the [ADA](https://www.ada.gov/).
+
+
+In spring of 2023, CUNY entered into an [voluntary agreement](https://www.justice.gov/usao-sdny/pr/us-attorney-announces-agreement-city-university-new-york-remedy-exclusion-student) with the Southern District of New York. This was in response to a student complaint in 2011 that WebAssign was not accessible given their needs. ("That digital platform was not fully capable of reading out mathematical and scientific symbols and equations.")
+
+Part of the settlement included:
+
+* The prompt availability of accessible course materials by the start of the relevant course or as soon as practicable based upon early consultations with affected students;
+
+* Information Technology accessibility consistent with the latest Web Content Accessibility Guidelines, including via verification of the accessibility of third-party learning products and of instructors’ awareness of accessibility requirements for instructor-created content;
+
+These pages attempt to make aware the  accessibility requirements for instructor-created content, as commonly done in a mathematics class.
+
+## The technology stack
+
+Math classes at CSI use several different technology stacks. For online homework we use all of WebAssign, Achieve, and WeBWorK.
+
+To generate course materials, many instructors use LaTeX to create pdf, many use a markdown variant and Quarto to generate pdf and HTML pages, others use Microsoft Word, and still others have their own solutions.
+
+These pages contain working notes on each of these.
+
+
+## The main issues with publishing accessible mathematics
+
+
+Accessible mathematics herein is concerned with the ability of assistive technologies to read aloud a document so that it can be used without sight. Common areas which needs assistance are:
+
+### Accessible PDF
+
+> Because LaTeX was designed as a typesetting program, PDF documents created using LaTeX do not include the document structure and tagging required for accessibility by default. It is possible to create accessible PDF documents using LaTeX but users will need to use additional LaTeX packages and should be aware of accessibility standards. The Accessibility package in LaTeX can be used to add the structure, tagging, and alt text that PDF's created with LaTeX lack.
+>
+> From [LaTeX Guides](https://libguides.lib.msu.edu/c.php?g=995742&p=8207771)
+
+### Equations
+
+
+> To make mathematical formulae accessible in you LaTeX document, you will need to load in the axessibility package into the preamble.
+>
+> \usepackage{axessibility}
+
+
+### Tables
+
+
+Data tables are used to organize data with a logical relationship in grids.
+
+Accessible tables need HTML markup that indicates header cells and data cells and defines their relationship. Assistive technologies use this information to provide context to users. [https://www.w3.org/WAI/tutorials/tables/](https://www.w3.org/WAI/tutorials/tables/)
+
+
+
+### Figures
+
+Images must have text alternatives that describe the information or function represented by them. This ensures that images can be used by people with various disabilities. This tutorial demonstrates how to provide appropriate text alternatives based on the purpose of the image. [https://www.w3.org/WAI/tutorials/images/](https://www.w3.org/WAI/tutorials/images/)
+s
+
+### Equations
+
+Equations may give screen readers difficulty.
+
+### Document structure
+
+All of HTML, PDF, and Word formats have the ability to structure a document.
+
+For example, HTML has header tags to provide a structure.
