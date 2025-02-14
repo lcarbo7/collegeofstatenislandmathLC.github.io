@@ -4,7 +4,7 @@ listing:
   contents: news
   max-items: 4
   type: table
-  fields: [date, title, image]
+  fields: [date, title]
   image-height: 200px
   sort-ui: false
   filter-ui: false
@@ -29,7 +29,7 @@ listing:
 
 :::: {.grid}
 ::::: {.g-col-12 .g-col-sm-8 .g-col-md-9}
-## News {.home-heading}
+## Recent news {.home-heading}
 :::::: {#news .container}
 ::::::
 
