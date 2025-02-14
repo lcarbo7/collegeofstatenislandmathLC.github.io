@@ -8,9 +8,23 @@ $navbar-bg: #212529;
 #main-title>h1 {
   font-size: 2.5rem;
   text-align: center;
+  margin: 1rem 0;
 }
 
-#banner {
+h2.home-heading {
+  border: none;
+  padding: 0;
+  margin-top: 1rem;
+  font-size: x-large;
+}
+
+#link-topspace {
+  margin: 1rem 0;
+  font-size: x-large;
+  height: 1.2em;
+}
+
+.banner {
   text-align: center;
 
   img {

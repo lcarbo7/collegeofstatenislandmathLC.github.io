@@ -4,7 +4,7 @@ listing:
   contents: news
   max-items: 4
   type: table
-  fields: [date, title, image]
+  fields: [date, title]
   image-height: 200px
   sort-ui: false
   filter-ui: false
@@ -15,17 +15,21 @@ listing:
 
 <!-- Title and Banner -->
 
-:::: {#banner}
-![](/images/banners/hintoncubes.jpg){width=600 fig-alt="Banner"}
+:::: {.banner}
+![](/images/banners/hintoncubes-1.jpg){width=600 fig-alt="Banner image: Hinton's 'Views of the Tesseract'"}
 ::::
 
 # The Department of Mathematics {#main-title}
+
+:::: {.banner}
+![](/images/banners/hintoncubes-2.jpg){width=600 fig-alt="Banner image: Hinton's 'Views of the Tesseract'"}
+::::
 
 <!-- Main content -->
 
 :::: {.grid}
 ::::: {.g-col-12 .g-col-sm-8 .g-col-md-9}
-## News
+## Recent news {.home-heading}
 :::::: {#news .container}
 ::::::
 
@@ -34,7 +38,8 @@ listing:
 
 ::::: {.g-col-12  .g-col-sm-4 .g-col-md-3}
 
-## &nbsp;
+:::::: {#link-topspace}
+::::::
 
 {{< include sidebar.qmd >}}
 :::::
@@ -43,9 +48,9 @@ listing:
 <!-- News and Calendar  -->
 
 :::: {.grid}
-::::: {.g-col-12 .g-col-lg-9 .g-col-xl-6}
-## Academic Calendar
-:::::: {.mh-15 .vh-15 .h-15 .overflow-scroll style="height: 500px"}
+::::: {.g-col-12 .g-col-lg-9}
+## Academic Calendar {.home-heading}
+:::::: {.overflow-scroll style="height: 500px"}
 {{< include academic-calendar.qmd >}}
 ::::::
 :::::
