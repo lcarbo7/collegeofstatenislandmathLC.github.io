@@ -15,7 +15,7 @@ about:
 
 <i class="bi bi-door-open"></i> **Office** | 1S-221 <br/>
 <i class="bi bi-telephone"></i> **Telephone** | x3984 <br/>
-<i class="bi bi-mailbox"></i> **Email** | `` <br/>
+<i class="bi bi-mailbox"></i> **Email** | `freda.li at csi.cuny.edu` <br/>
  <br/>
 
 
