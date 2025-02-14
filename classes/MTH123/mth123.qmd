@@ -1,5 +1,0 @@
----
-title: MTH 123
----
-
-stuff

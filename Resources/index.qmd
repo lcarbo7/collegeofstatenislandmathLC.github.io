@@ -1,8 +1,0 @@
----
-title: Resources
----
-
-Various resources available through the Mathematics Department or the College.
-
-
-* [link](url) ...
