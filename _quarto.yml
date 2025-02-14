@@ -20,6 +20,8 @@ website:
     left:
       - text: "About"
         href: about.qmd
+      - text: "Jobs"
+        href: jobs.qmd
       - text: "People"
         menu:
           - People/faculty/index.qmd
