@@ -2,11 +2,10 @@
 title: Curriculum details
 ---
 
-* [Snapshot of CSI Math offerings from CUNY First](./CUNYFirst)
+* [Curriculum description](./course_list.html)
 
 * [CUNY First listing of all active courses](https://globalsearch.cuny.edu/CFGlobalSearchTool/search.jsp)
 
-* [Curriculum description](./course_list.html)
 
 * [Advising documents](./AdvisingDocuments)
 
@@ -14,20 +13,20 @@ title: Curriculum details
 
 * [WeBWorK Instructions](./WeBWorK_Instructions/)
 
-* [Calculus book and software guide](./Calculus-Book-Software-Guidelines.pdf)
+* [Calculus book guide](calculus-book-guide.qmd)
 
-### Various Course Materials: Mth102 - Mth 125
+* [Best practices](BestPracticesTeaching.pdf)
 
-* [Mth102](./MTH102/)
+### Various Course Materials: MTH102 - MTH125
 
-* [Mth113](./MTH113/)
+* [MTH102](./MTH102/)
 
-* [Mth122](./MTH122/)
+* [MTH113](./MTH113/)
 
-* [Mth123](./MTH123/)
+* [MTH122](./MTH122/)
 
-* [Mth125](./MTH125/)
+* [MTH123](./MTH123/)
 
-* [Mth229](./MTH229/)
+* [MTH125](./MTH125/)
 
-
+* [MTH229](./MTH229/)
