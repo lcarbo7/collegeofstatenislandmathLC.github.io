@@ -1,0 +1,75 @@
+---
+title: Webassign instructions
+---
+
+Mth123 and Mth130 Student Online Homework Registration/Enrollment Process for
+the [www.webassign.net](https:/www.webassign.net) website. This is a Self-enrollment system:
+
+You need **two** things
+
+* You enroll in your section on the webassign site using a **CLASS KEY**
+* You gain access to the online course materials in that section when entering an **ACESS CODE**.
+
+
+## ClASS KEY
+
+Your instructor should have this information by the first week of class.
+Every section has its own key. It will have 3 ‘fields’ or parts:
+`csi.cuny #### ####` --  “`csi.cuny`” followed by 2 four-digit numbers.
+
+## ACCESS CODE
+
+You purchase your Access Code (consists of a bunch of numbers & letters)
+from the publisher.
+
+To obtain the Access Code, do one of the following:
+
+* For an online-only option (no paper book) you can do an online
+credit card purchase during part II of the process, below. The
+full contents of the Textbook along with many other features are
+included. Recommendation: If you plan to use a credit card, do
+not do so on campus.
+
+* Purchase the Textbook from the CSI bookstore, it is shrink-
+wrapped along with the Access Code.
+
+## Part I: Create your logon ID and register in the appropriate section
+
+1. Go to www.webassign.net
+
+2. Click on “Have a class key?”
+
+3. Enter the class key and click Submit.
+
+4. If the correct class and section is listed, click “Yes,this is my class.
+
+5. Registration:
+
+i.- First-Time Users: Select “I need to create WebAssign account”. Enter
+requested information and click “Create My Account.” Remember to write
+down the username and password you just created!
+
+ii. Returning Users: Select “I already have a Webassign account”. Enter
+your account information and click “Continue.”
+
+## Part II: Log in, provide access code and do homework
+
+1. Continuing from part I, click the login button. You will be redirected
+to the main page. Now you can log in. Please note that your “Institution
+Code” is csi.cuny
+
+2. You are then prompted to
+
+i. Purchase an Access Code
+
+ii. Enter the Code Purchased with the Text at Bookstore.
+
+iii. Continue using 5 day trial period. (You have 5 days to purchase the
+book or online credit card purchase.)
+Select one of these options, follow the prompts and you’re ready to
+start doing your homework. (Access Codes are good for one semester
+only.)
+
+----
+
+Problems with the Website? There is plenty of help available from the main site at [www.webassign.net](https://www.webassign.net), and also phone support toll free: (800) 955-8275
