@@ -8,7 +8,7 @@ the [www.webassign.net](https:/www.webassign.net) website. This is a Self-enroll
 You need **two** things
 
 * You enroll in your section on the webassign site using a **CLASS KEY**
-* You gain access to the online course materials in that section when entering an **ACESS CODE**.
+* You gain access to the online course materials in that section when entering an **ACCESS CODE**.
 
 
 ## ClASS KEY
