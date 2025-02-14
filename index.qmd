@@ -38,7 +38,8 @@ listing:
 
 ::::: {.g-col-12  .g-col-sm-4 .g-col-md-3}
 
-## &nbsp; {.home-heading}
+:::::: {#link-topspace}
+::::::
 
 {{< include sidebar.qmd >}}
 :::::
