@@ -7,32 +7,30 @@ The Mathematics Tutoring Center is located in 1S-214.
 
 ## Spring 2025
 
-The Mathematics Tutoring Center has tutoring on campus, as well as Distance-based. All hours are in-person unless otherwise indicated.
+The Mathematics Tutoring Center has tutoring on campus, as well as Distance-based. 
+The schedule posts here, and on the door of room 1S-214. Please Check back for frequent updates.
 
-#### The schedule posts here, and on the door of room 1S-214. Please Check back for frequent updates.
+* All hours are in-person unless otherwise indicated.
+* For remote sessions: email the tutor during the timeslot indicated to set up tutoring session.
+* There is no tutoring on holidays and 'no class' scheduled days
 
-> For remote sessions: email the tutor during the timeslot indicated to set up tutoring session.
+::: {.grid}
+:::: {.g-col-6}
+### Ian [ianburek.tutor@gmail.com](mailto:ianburek.tutor@gmail.com)
 
-> There is no tutoring on holidays and 'no class' scheduled days
-
-### Schedule in [(image)](/images/pdfs/tutor-grid.pdf)
-
-----
-
-###  Ian [ianburek.tutor@gmail.com](mailto:ianburek.tutor@gmail.com)
-
-> hours:\
-Monday:  9:30-2:30PM and  4:40-5:40PM\
+Monday:  9:30-2:30PM and  4:40-5:40PM <br>
 Wednesday: 12:20-5:20PM
+::::
 
+:::: {.g-col-6}
+### Stivi [stivi.tutor.csi@gmail.com](mailto:stivi.tutor.csi@gmail.com)
 
-### Stivi   [stivi.tutor.csi@gmail.com](mailto:stivi.tutor.csi@gmail.com)
-
-> hours:\
-Monday: 8:30-10AM and 2:15-3:15PM\
-Tuesday: 8:30 - 11:30 (remote) \
+Monday: 8:30-10AM and 2:15-3:15PM <br>
+Tuesday: 8:30 - 11:30 (remote)    <br>
 Monday: 8:30-10AM and 1:15-2:15PM
+::::
+:::
 
-----
+![[Tutoring Schedule](tutor-grid.pdf)](tutor-grid.pdf){width=100% height=800px}
 
 We have only limited help at this time. For more comprehensive tutoring assistance, please visit the [Office of Academic Support](https://www.csi.cuny.edu/students/academic-assistance/tutoring/casa-tutoring-schedule-stem), Room 1L-117.
