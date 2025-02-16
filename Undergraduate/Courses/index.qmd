@@ -17,7 +17,7 @@ title: Curriculum details
 
 * [Best practices](BestPracticesTeaching.pdf)
 
-### Various Course Materials: MTH102 - MTH125
+## Various Course Materials: MTH102 - MTH125
 
 * [MTH102](./MTH102/)
 

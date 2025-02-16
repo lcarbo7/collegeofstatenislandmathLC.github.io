@@ -17,7 +17,7 @@ As an aside, there are `quarto update tinytex` and `quarto uninstall tinytex` co
 
 ::: {.callout-warning}
 ## Quarto heads up
-PDFs produced by Quarto are not tagged and when last tested, no success was
+PDFs produced by Quarto are not tagged and, when last tested, no success was
 found in trying to implement the advice from the [latex page](latex.qmd).
 
 It's possible that this changes as changes are made to Pandoc, but until then,

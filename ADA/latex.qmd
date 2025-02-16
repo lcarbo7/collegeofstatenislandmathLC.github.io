@@ -41,7 +41,7 @@ Here is a sample preamble with additions for accessibility:
 Documentation for supported key/values for `\DocumentMetadata` [is given here](https://texdoc.org/serve/documentmetadata-support/0).
 :::
 
-### Additional recommendations:
+## Additional recommendations:
 
 * Use the most up-to-date version of LuaLaTeX/PDFLaTeX available.
 * LuaLaTeX or PDFLaTeX support tagging, other engines (e.g. XeTeX) are untested and may not work

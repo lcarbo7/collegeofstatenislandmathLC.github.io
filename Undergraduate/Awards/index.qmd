@@ -6,7 +6,7 @@ order: 6
 The **Graduation Awards** are given to our most outstanding graduates for that year.  The **Departmental Awards** are given to
 outstanding students in their Sophomore or Junior years.
 
-#### 2023
+## 2023
 
 - **Graduation Awards**
     * Mitchel Kharnak
@@ -20,7 +20,7 @@ outstanding students in their Sophomore or Junior years.
     * Jad Ibrahim
     * Megan Trapanese
 
-#### 2022
+## 2022
 
 - **Graduation Awards**
     * Amal Abdelaziz
@@ -34,7 +34,7 @@ outstanding students in their Sophomore or Junior years.
     * Mathew Keeler
     * Bhavya Premachandran
 
-#### 2021
+## 2021
 
 - **Graduation Awards**
     * Chukwurado Umeaka
@@ -47,7 +47,7 @@ outstanding students in their Sophomore or Junior years.
     * Jenna Calderon
     * Jesse Dimino
 
-#### 2020
+## 2020
 
 - **Graduation Awards**
     * Dajana Avxhi
@@ -59,7 +59,7 @@ outstanding students in their Sophomore or Junior years.
     * Joshua Higgins
     * Chinedu Okoye
 
-#### 2019
+## 2019
 
 - **Graduation Awards**
     * Nicholas Veneziano
@@ -72,7 +72,7 @@ outstanding students in their Sophomore or Junior years.
    * Mitchell Weitzman
    * Jinglin Ye
 
-#### 2018
+## 2018
 
 - **Graduation Awards**
     * Robert Ferrando
@@ -84,7 +84,7 @@ outstanding students in their Sophomore or Junior years.
     * Rocco Fama
     * Nicholas Veneziano
 
-#### 2017
+## 2017
 
 - **Graduation Awards**
     * Christopher Pinto
@@ -98,7 +98,7 @@ outstanding students in their Sophomore or Junior years.
     * Serena Newman
     * Concetta Perito
 
-#### 2016
+## 2016
 
 - **Graduation Awards**
     * Keith Thompson
@@ -110,7 +110,7 @@ outstanding students in their Sophomore or Junior years.
     * Robert Ferrando
     * Sarah Sietz
 
-#### 2015
+## 2015
 
 - **Graduation Awards**
     * Argenta Benis
@@ -125,7 +125,7 @@ outstanding students in their Sophomore or Junior years.
     * Michelle Vann
     * Qiuxia Yang
 
-#### 2014
+## 2014
 - **Graduation Awards**
     * Scott Edkins
     * Ying Yu
@@ -140,7 +140,7 @@ outstanding students in their Sophomore or Junior years.
     * Linani Sereviratne
 
 
-#### 2013
+## 2013
 - **Graduation Awards**
     * Anthony DeLuca
     * Andrea Cella
@@ -154,7 +154,7 @@ outstanding students in their Sophomore or Junior years.
     * William George
     * Antonio Grasso
 
-#### 2012
+## 2012
 
 - **Graduation Awards**
     * Daniel Kurzweil
@@ -167,7 +167,7 @@ outstanding students in their Sophomore or Junior years.
     * Ying Yu
     * Danielle Aruti
 
-#### 2011
+## 2011
 
 - **Graduation Awards**
     * Anna Theodoropoulos
@@ -180,7 +180,7 @@ outstanding students in their Sophomore or Junior years.
     * Anthony DeLuca
     * Andrea Cella
 
-#### 2010
+## 2010
 
 - **Graduation Awards**
     * Bernard Adamitey
@@ -194,7 +194,7 @@ outstanding students in their Sophomore or Junior years.
     * Annelise Kropp
     * Christine Rivera
 
-#### 2009
+## 2009
 
 - **Graduation Awards**
     * Ismael Yacabou Djima
@@ -207,7 +207,7 @@ outstanding students in their Sophomore or Junior years.
     * Timothy Mullen
     * Daniel Kurzweil
 
-#### 2008
+## 2008
 
 - **Graduation Awards**
     * Karamatou Yacoubou Djima
