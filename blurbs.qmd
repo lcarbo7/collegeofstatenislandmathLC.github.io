@@ -11,7 +11,7 @@ Welcome to CSI Mathematics. With approximately 25 full-time faculty members repr
 
 
 ::: {.grid}
-:::: {.g-col-12 .g-col-sm-7 .g-col-xl-9 .order-2 .order-sm-1}
+:::: {.g-col-12 .g-col-sm-7 .order-2 .order-sm-1}
 
 Many of our majors become involved in faculty-mentored undergraduate
 research projects. Our full-time
@@ -28,7 +28,7 @@ theory](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiat
 
 ::::
 
-:::: {.g-col-6 .g-col-sm-5 .g-col-xl-3 .order-1 .order-sm-2}
+:::: {.g-col-6 .g-col-sm-5 .order-1 .order-sm-2}
 ![](images/square/klein.jpg){fig-alt="Klein Bottle by Mikael Vejdemo-Johannson"}
 ::::
 
@@ -37,11 +37,11 @@ theory](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiat
 
 ::: {.grid}
 
-:::: {.g-col-6 .g-col-sm-5 .g-col-xl-3}
+:::: {.g-col-6 .g-col-sm-5}
 ![](images/square/path_to_math.jpg){fig-alt="The path to the math department"}
 ::::
 
-:::: {.g-col-12 .g-col-sm-7 .g-col-xl-9}
+:::: {.g-col-12 .g-col-sm-7}
 
 The College is conveniently located at the nexus of the vibrant New
 York City area research community. Many faculty in the Department of
