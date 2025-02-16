@@ -1,17 +1,17 @@
 ::: {.grid}
 
-:::: {.g-col-6 .g-col-sm-4 .g-col-md-3}
+:::: {.g-col-6 .g-col-sm-5 .g-col-xl-3}
 ![](images/square/Babel-escher2.jpg){fig-alt="Escher's Tower of Babel"}
 ::::
 
-:::: {.g-col-6 .g-col-sm-8 .g-col-md-9}
+:::: {.g-col-12 .g-col-sm-7 .g-col-xl-9}
 Welcome to CSI Mathematics. With approximately 25 full-time faculty members representing a number of the major fields of current research, the department offers courses for mathematics, engineering, and science students, as well as service courses for the general student body (see the full list of courses). We offer Bachelor of Science degrees with an emphasis on graduate school preparation, secondary school teaching, and a joint degree with computer science.
 ::::
 :::
 
 
 ::: {.grid}
-:::: {.g-col-7 .g-col-sm-8}
+:::: {.g-col-12 .g-col-sm-7 .g-col-xl-9 .order-2 .order-sm-1}
 
 Many of our majors become involved in faculty-mentored undergraduate
 research projects. Our full-time
@@ -28,7 +28,7 @@ theory](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiat
 
 ::::
 
-:::: {.g-col-5 .g-col-sm-4}
+:::: {.g-col-6 .g-col-sm-5 .g-col-xl-3 .order-1 .order-sm-2}
 ![](images/square/klein.jpg){fig-alt="Klein Bottle by Mikael Vejdemo-Johannson"}
 ::::
 
@@ -37,11 +37,11 @@ theory](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiat
 
 ::: {.grid}
 
-:::: {.g-col-5 .g-col-sm-4}
+:::: {.g-col-6 .g-col-sm-5 .g-col-xl-3}
 ![](images/square/path_to_math.jpg){fig-alt="The path to the math department"}
 ::::
 
-:::: {.g-col-7 .g-col-sm-8}
+:::: {.g-col-12 .g-col-sm-7 .g-col-xl-9}
 
 The College is conveniently located at the nexus of the vibrant New
 York City area research community. Many faculty in the Department of
