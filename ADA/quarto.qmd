@@ -15,21 +15,15 @@ To install `tinytex` is [easy](https://quarto.org/docs/output-formats/pdf-engine
 
 As an aside, there are `quarto update tinytex` and `quarto uninstall tinytex` commands.
 
+::: {.callout-warning}
+## Quarto heads up
+PDFs produced by Quarto are not tagged and when last tested, no success was
+found in trying to implement the advice from the [latex page](latex.qmd).
 
-
-
-----
-
-::: {.callout-note}
-## Quarto head's up
-
-TG: One issue I'm running into now is Quarto isn't able to produce tagged PDF/A documents. At least not with what I tried which is just \usepackage[tagged]{accessibility} (it doesn't understand how Quarto's tables are produced and isn't able to compile).
-
-Quarto is built on Pandoc which then uses pdflatex so the accessibility information needs to be passed through multiple levels. Pandoc has more info at [1] and [2]. The suggestion with Pandoc is to use ConTeXt instead of LaTeX since ConTeXt always produces tagged documents, although Pandoc requires an extension in order to optimize for tagging.
-
-Summary: Quarto is not suitable for producing tagged PDFs at this time; the best workaround I can find is to use html output. The main drawback is figures in tikz need to be compiled separately.
+It's possible that this changes as changes are made to Pandoc, but until then,
+when accessibility is a must, it is recommended to provide both HTML and PDF
+output.
 
 [1]: https://github.com/jgm/pandoc/issues/5409
 [2]: https://pandoc.org/MANUAL#accessible-pdfs-and-pdf-archiving-standards
-
 :::
