@@ -30,7 +30,7 @@ listing:
 :::: {.grid}
 ::::: {.g-col-12 .g-col-sm-8 .g-col-md-9}
 ## Recent news {.home-heading}
-:::::: {#news .container}
+:::::: {#news}
 ::::::
 
 {{< include blurbs.qmd >}}
@@ -50,7 +50,7 @@ listing:
 :::: {.grid}
 ::::: {.g-col-12 .g-col-lg-9}
 ## Academic Calendar {.home-heading}
-:::::: {.overflow-scroll style="height: 500px"}
+:::::: {.overflow-scroll style="height: 500px" tbl-colwidths="[0,0,100]"}
 {{< include academic-calendar.qmd >}}
 ::::::
 :::::
