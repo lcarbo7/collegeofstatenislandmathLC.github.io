@@ -20,5 +20,13 @@ function (@main)(args...)
     pandoc() do bin
         run(`$bin -f html -t markdown $g -o $h`)
     end
+    # Replace hyphens with n-dashes when they indicate a range of dates
+    # This allows browsers to properly insert newlines on small screen sizes
+    # For some reason this has to be done *after* pandoc runs or else pandoc
+    # will insert a newline in month (e.g. 04 => 0\n4)
+    md = read(h, String)
+    md = replace(md, r"(?<=\d)-(?=\d)" => "–")
+    md = replace(md, r"(?<=day)-" => "–")
+    write(h, md)
     nothing
 end

@@ -50,7 +50,7 @@ listing:
 :::: {.grid}
 ::::: {.g-col-12 .g-col-lg-9}
 ## Academic Calendar {.home-heading}
-:::::: {.overflow-scroll style="height: 500px" tbl-colwidths="[0,0,100]"}
+:::::: {.overflow-scroll style="height: 500px" tbl-colwidths="[20,20,60]"}
 {{< include academic-calendar.qmd >}}
 ::::::
 :::::
