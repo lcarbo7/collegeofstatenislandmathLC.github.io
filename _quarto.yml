@@ -37,12 +37,12 @@ website:
       - text: Syllabi
         href: Undergraduate/Courses/Syllabi/index.qmd
 ##
-  announcement:
-    icon: newspaper
-    dismissable: true
-    content: "[Tutoring schedule is up!](Undergraduate/Tutoring)" # Add content here
-    type: primary
-    position: below-navbar
+  # announcement:
+  #   icon: newspaper
+  #   dismissable: true
+  #   content: "[Tutoring schedule is up!](Undergraduate/Tutoring)" # Add content here
+  #   type: primary
+  #   position: below-navbar
   page-footer:
     left: "[CSI Math](/index.html)"
 
