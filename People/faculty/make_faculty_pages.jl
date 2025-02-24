@@ -11,6 +11,7 @@ title: {{{:NM}}}
 image: {{#:IMG}}{{{:IMG}}}{{/:IMG}}{{^:IMG}}./default.png{{/:IMG}}
 image-alt: {{{:NM}}}
 description: {{:RANK}}
+lastname: {{{:LASTNAME}}}
 about:
   template: solana
   image-width: 350px
@@ -38,10 +39,11 @@ d = CSV.read("faculty.csv", DataFrame)
 bios = include("faculty-bios.jl")
 dd = DataFrame((NM=k, bio=v) for (k, v) ∈ bios)
 d = leftjoin(d, dd, on=:NM)
-
+d.LASTNAME .= ""
 
 for r ∈ eachrow(d)
     first, last = split(r.NM, " ")
+    r.LASTNAME = last
     fname = "$last-$first.qmd"
     fname = replace(fname, "'" => "")
 

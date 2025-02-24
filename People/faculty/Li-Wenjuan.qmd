@@ -3,6 +3,7 @@ title: Wenjuan Li
 image: /images/people/wli-headshot.png
 image-alt: Wenjuan Li
 description: Doctoral Lecturer
+lastname: Li
 about:
   template: solana
   image-width: 350px

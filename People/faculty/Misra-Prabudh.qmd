@@ -3,6 +3,7 @@ title: Prabudh Misra
 image: ./default.png
 image-alt: Prabudh Misra
 description: Professor
+lastname: Misra
 about:
   template: solana
   image-width: 350px

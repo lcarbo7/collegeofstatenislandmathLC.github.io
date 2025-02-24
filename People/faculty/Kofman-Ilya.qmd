@@ -3,6 +3,7 @@ title: Ilya Kofman
 image: /images/people/ilya-headshot.jpg
 image-alt: Ilya Kofman
 description: Professor
+lastname: Kofman
 about:
   template: solana
   image-width: 350px

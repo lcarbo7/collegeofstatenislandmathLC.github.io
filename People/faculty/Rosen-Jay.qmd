@@ -3,6 +3,7 @@ title: Jay Rosen
 image: ./default.png
 image-alt: Jay Rosen
 description: Distinguished Professor
+lastname: Rosen
 about:
   template: solana
   image-width: 350px

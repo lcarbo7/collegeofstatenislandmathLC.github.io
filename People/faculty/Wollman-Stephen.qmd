@@ -3,6 +3,7 @@ title: Stephen Wollman
 image: /images/people/wollman-headshot.jpg
 image-alt: Stephen Wollman
 description: Emeritus Professor
+lastname: Wollman
 about:
   template: solana
   image-width: 350px

@@ -3,10 +3,12 @@ title: Abhijit Champanerkar
 image: https://www.csi.cuny.edu/sites/default/files/styles/faculty_img/public/faculty/img_fac_champanemekar.jpg
 image-alt: Abhijit Champanerkar
 description: Professor
+lastname: Champanerkar
 about:
   template: solana
   image-width: 350px
 ---
+
 
 
 Hyperbolic 3-manifolds and Knot Theory
@@ -45,5 +47,3 @@ on the Volume Conjecture. Dr. Champanerkar is a co-organizer of the
 Geometry and Topology seminar at the CUNY Graduate Center.  For
 details about his research, see
  [http://www.math.csi.cuny.edu/~abhijit/](http://www.math.csi.cuny.edu/~abhijit/)
- 
-

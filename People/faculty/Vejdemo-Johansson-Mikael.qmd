@@ -3,6 +3,7 @@ title: Mikael Vejdemo-Johansson
 image: /images/people/mvj-headshot.jpg
 image-alt: Mikael Vejdemo-Johansson
 description: Associate Professor
+lastname: Vejdemo-Johansson
 about:
   template: solana
   image-width: 350px

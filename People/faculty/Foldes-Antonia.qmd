@@ -3,6 +3,7 @@ title: Antonia Foldes
 image: /images/people/foldes-headshot.jpg
 image-alt: Antonia Foldes
 description: Emeritus Professor
+lastname: Foldes
 about:
   template: solana
   image-width: 350px

@@ -3,6 +3,7 @@ title: Sera Gunn
 image: /images/people/gunn-headshot.jpg
 image-alt: Sera Gunn
 description: Doctoral Lecturer
+lastname: Gunn
 about:
   template: solana
   image-width: 350px

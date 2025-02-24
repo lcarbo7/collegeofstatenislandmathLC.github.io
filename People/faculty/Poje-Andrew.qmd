@@ -3,6 +3,7 @@ title: Andrew Poje
 image: /images/people/poje-headshot.jpg
 image-alt: Andrew Poje
 description: Professor
+lastname: Poje
 about:
   template: solana
   image-width: 350px

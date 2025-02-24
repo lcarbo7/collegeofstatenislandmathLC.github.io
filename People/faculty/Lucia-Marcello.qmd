@@ -3,6 +3,7 @@ title: Marcello Lucia
 image: /images/people/lucia-headshot.jpg
 image-alt: Marcello Lucia
 description: Professor
+lastname: Lucia
 about:
   template: solana
   image-width: 350px

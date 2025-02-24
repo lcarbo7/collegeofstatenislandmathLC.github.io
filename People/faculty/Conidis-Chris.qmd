@@ -3,6 +3,7 @@ title: Chris Conidis
 image: /images/people/conidis-headshot.jpg
 image-alt: Chris Conidis
 description: Assistant Professor
+lastname: Conidis
 about:
   template: solana
   image-width: 350px

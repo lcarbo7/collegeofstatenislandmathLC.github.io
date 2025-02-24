@@ -3,6 +3,7 @@ title: Kevin O'Bryant
 image: /images/people/obryant-headshot.jpg
 image-alt: Kevin O'Bryant
 description: Professor
+lastname: O'Bryant
 about:
   template: solana
   image-width: 350px

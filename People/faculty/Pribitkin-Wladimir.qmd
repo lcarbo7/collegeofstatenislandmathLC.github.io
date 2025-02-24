@@ -3,6 +3,7 @@ title: Wladimir Pribitkin
 image: /images/people/pribitkin-headshot.jpg
 image-alt: Wladimir Pribitkin
 description: Professor
+lastname: Pribitkin
 about:
   template: solana
   image-width: 350px

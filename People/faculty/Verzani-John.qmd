@@ -3,6 +3,7 @@ title: John Verzani
 image: https://www1.cuny.edu/sites/cunyufs/wp-content/uploads/sites/48/2018/06/Verzani_2018_edit_IMG_2687_leadership_W.jpg
 image-alt: John Verzani
 description: Professor
+lastname: Verzani
 about:
   template: solana
   image-width: 350px
