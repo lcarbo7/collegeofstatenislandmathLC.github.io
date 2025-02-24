@@ -15,7 +15,7 @@ Welcome to CSI Mathematics. With approximately 25 full-time faculty members repr
 
 Many of our majors become involved in faculty-mentored undergraduate
 research projects. Our full-time
-[faculty](https://www.math.csi.cuny.edu//people.html) conduct research
+[faculty](/People/faculty/) conduct research
 in a variety of areas of pure and applied mathematics
 [(MathSciNet)](https://mathscinet.ams.org/mathscinet/search/publications.html?arg3=&co4=AND&co5=AND&co6=AND&co7=AND&dr=all&pg4=IC&pg5=TI&pg6=PC&pg7=ALLF&pg8=ET&review_format=html&s4=College%20of%20Staten%20Island&s5=&s6=&s7=&s8=All&sort=Newest&vfpref=html&yearRangeFirst=&yearRangeSecond=&yrop=eq&r=1). Research
 areas include applied mathematics, differential geometry, discrete
