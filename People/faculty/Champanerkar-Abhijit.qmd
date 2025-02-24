@@ -1,6 +1,6 @@
 ---
 title: Abhijit Champanerkar
-image: https://www.csi.cuny.edu/sites/default/files/styles/faculty_img/public/faculty/img_fac_champanemekar.jpg
+image: /images/people/champanerkar-headshot.jpg
 image-alt: Abhijit Champanerkar
 description: Professor
 lastname: Champanerkar

@@ -1,6 +1,6 @@
 ---
 title: Joseph Quinn
-image: /images/people/quinn-headshot.png
+image: /images/people/quinn-headshot.jpg
 image-alt: Joseph Quinn
 description: Doctoral Lecturer
 lastname: Quinn

@@ -1,6 +1,6 @@
 ---
 title: Mohammad Talafha
-image: /images/people/talafha-headshot.png
+image: /images/people/talafha-headshot.jpg
 image-alt: Mohammad Talafha
 description: Doctoral Lecturer
 lastname: Talafha

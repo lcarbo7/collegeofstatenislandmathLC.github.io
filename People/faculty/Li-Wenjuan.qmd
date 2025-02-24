@@ -1,6 +1,6 @@
 ---
 title: Wenjuan Li
-image: /images/people/wli-headshot.png
+image: /images/people/wli-headshot.jpg
 image-alt: Wenjuan Li
 description: Doctoral Lecturer
 lastname: Li
