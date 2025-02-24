@@ -3,6 +3,7 @@ title: Allen Tesdall
 image: /images/people/tesdall-headshot.jpg
 image-alt: Allen Tesdall
 description: Associate Professor
+lastname: Tesdall
 about:
   template: solana
   image-width: 350px

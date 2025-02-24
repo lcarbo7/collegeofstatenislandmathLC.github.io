@@ -3,6 +3,7 @@ title: Joseph Quinn
 image: /images/people/quinn-headshot.png
 image-alt: Joseph Quinn
 description: Doctoral Lecturer
+lastname: Quinn
 about:
   template: solana
   image-width: 350px

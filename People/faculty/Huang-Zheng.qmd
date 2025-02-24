@@ -3,6 +3,7 @@ title: Zheng Huang
 image: /images/people/zeno-headshot.jpg
 image-alt: Zheng Huang
 description: Professor
+lastname: Huang
 about:
   template: solana
   image-width: 350px

@@ -3,6 +3,7 @@ title: Freda Li
 image: /images/people/li-headshot.jpg
 image-alt: Freda Li
 description: Doctoral Lecturer
+lastname: Li
 about:
   template: solana
   image-width: 350px

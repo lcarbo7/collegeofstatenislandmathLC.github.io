@@ -3,6 +3,7 @@ title: Carlo Lancellotti
 image: /images/people/lancellotti-headshot.jpg
 image-alt: Carlo Lancellotti
 description: Professor
+lastname: Lancellotti
 about:
   template: solana
   image-width: 350px

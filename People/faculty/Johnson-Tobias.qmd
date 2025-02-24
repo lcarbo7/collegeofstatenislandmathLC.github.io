@@ -3,6 +3,7 @@ title: Tobias Johnson
 image: /images/people/johnson-headshot.jpg
 image-alt: Tobias Johnson
 description: Associate Professor
+lastname: Johnson
 about:
   template: solana
   image-width: 350px

@@ -3,6 +3,7 @@ title: Joseph Maher
 image: /images/people/maher-headshot.jpg
 image-alt: Joseph Maher
 description: Professor
+lastname: Maher
 about:
   template: solana
   image-width: 350px

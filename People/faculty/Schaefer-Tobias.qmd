@@ -3,6 +3,7 @@ title: Tobias Schaefer
 image: /images/people/schaefer-headshot.jpg
 image-alt: Tobias Schaefer
 description: Professor
+lastname: Schaefer
 about:
   template: solana
   image-width: 350px

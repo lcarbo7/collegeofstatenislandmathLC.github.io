@@ -3,6 +3,7 @@ title: Gunter Fuchs
 image: /images/people/gunter-headshot.jpg
 image-alt: Gunter Fuchs
 description: Professor
+lastname: Fuchs
 about:
   template: solana
   image-width: 350px

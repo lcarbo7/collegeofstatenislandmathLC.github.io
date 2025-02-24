@@ -3,6 +3,7 @@ title: Mohammad Talafha
 image: /images/people/talafha-headshot.png
 image-alt: Mohammad Talafha
 description: Doctoral Lecturer
+lastname: Talafha
 about:
   template: solana
   image-width: 350px

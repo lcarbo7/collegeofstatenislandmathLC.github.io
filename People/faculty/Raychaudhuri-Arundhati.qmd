@@ -3,6 +3,7 @@ title: Arundhati Raychaudhuri
 image: /images/people/aru-headshot.jpg
 image-alt: Arundhati Raychaudhuri
 description: Professor
+lastname: Raychaudhuri
 about:
   template: solana
   image-width: 350px
