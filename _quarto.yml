@@ -15,7 +15,6 @@ website:
 ##
   navbar:
     background: primary
-    search: false
     collapse-below: "md"
     logo: images/favicons/wavelet.svg
     logo-alt: "CSI Math"
