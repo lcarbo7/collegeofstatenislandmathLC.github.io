@@ -3,54 +3,33 @@ title: Advisement Documents
 order: 2
 ---
 
-----
+## General info
 
-> For advisement please send request to [mathadvisor@csi.cuny.edu](mailto:mathadvisor@csi.cuny.edu)
+- For advisement please send request to [mathadvisor@csi.cuny.edu](mailto:mathadvisor@csi.cuny.edu)
+- [Helpful Advising Links](Undergraduate/AdvisingDocuments/00-Advising links.pdf)
 
+## B.S. in Math
 
-----
-
-**ADVISEMENT DOCUMENTS -- UNDER CONSTRUCTION**
-
-Table of Contents:
-
-## I. FOR ALL CSI STUDENTS:
-
--   [Helpful Advising Links](./00-Advising links.pdf)
-
-## II. For Math Majors:
-
-### A. who matriculated on or after Fall 2013....
-
--   Degree Requirements for [B.S. in Mathematics](./Degree_Req_BS_in_Math_Fall2024.pdf)
-    and Gen Ed [recommended courses.](./Math_GenEd.pdf)
-
+-   Degree Requirements for
+    [B.S. in Mathematics](Undergraduate/AdvisingDocuments/Degree_Req_BS_in_Math_Fall2024.pdf)
+    and Gen Ed [recommended courses.](Undergraduate/AdvisingDocuments/Math_GenEd.pdf)
 -   Sample Schedules for Math Majors
+-   Eight semester sample schedule (Math)
+    [starting with Calculus.](Undergraduate/AdvisingDocuments/MathematicsBS_DegreeMap.pdf)
 
-1.  Eight semester sample schedule (Math) [starting with Calculus.](./MathematicsBS_DegreeMap.pdf)
+## B.S. in Math (7-12 education)
 
-## III.FOR MATH MAJORS (with concentration in Adolescence Education)
+-   Degree Requirements for B.S. in
+    [Mathematics (7-12 ed.)](Undergraduate/AdvisingDocuments/Degree_Req_BS_in_MathEd_Fall2024.pdf)
+    and Gen Ed [recommended courses](Undergraduate/AdvisingDocuments/MathEd_GenEd.pdf)
+-   Eight semester sample schedule
+    [(Math-Ed) starting with Calculus](Undergraduate/AdvisingDocuments/Mathematics7-12BS_DegreeMap.pdf).
+-   Schedule for [Undergraduate EDS sequence](Undergraduate/AdvisingDocuments/UG_Sec_Program_MthED_NOT_TEACHER_ACADEMY_EDS_sequence.pdf)
 
-### A. who matriculated on or after Fall 2013....
+## B.S. in Computer Science/Math
 
--   Degree Requirements for B.S. in [Mathematics(with concentration in Adolescence Education)](./Degree_Req_BS_in_MathEd_Fall2024.pdf)
-    and Gen Ed [recommended courses](./MathEd_GenEd.pdf)
-
--   Sample Schedules for Math Majors (with concentration in Adolescence Education)
-
-1.  Eight semester sample schedule [(Math-Ed) starting with Calculus](./Mathematics7-12BS_DegreeMap.pdf).
-
-
-Schedule for [Undergraduate EDS sequence](./UG_Sec_Program_MthED_NOT_TEACHER_ACADEMY_EDS_sequence.pdf)
-
-## IV. FOR COMPUTER SCIENCE -- MATH MAJORS:
-
-### A. who matriculated on or after Fall 2013....
-
--   Degree Requirements for B.S. in [Computer Science Math](./degree_Req_BS_in_CS_Math_Fall2024.pdf)
-    and Gen Ed
-
--   Gen Ed [Recommended Courses](./MthCSC_GenEd_Veronica.pdf)
--   Sample Schedules for Computer Science/Math Majors
-
-1.  Eight semester sample schedule (Computer Sci-Math) [starting with Calculus.](./ComputerScienceMathematicsBS_DegreeMap.pdf)
+-   Degree Requirements for B.S. in
+    [Computer Science Math](Undergraduate/AdvisingDocuments/degree_Req_BS_in_CS_Math_Fall2024.pdf)
+    and Gen Ed [Recommended Courses](Undergraduate/AdvisingDocuments/MthCSC_GenEd_Veronica.pdf)
+-   Eight semester sample schedule (Computer Sci-Math)
+    [starting with Calculus.](Undergraduate/AdvisingDocuments/ComputerScienceMathematicsBS_DegreeMap.pdf)
