@@ -1,6 +1,6 @@
 ---
-title: Math Major and Minor Courses
-order: 0
+title: Program and Course Description
+order: 1
 ---
 
 
