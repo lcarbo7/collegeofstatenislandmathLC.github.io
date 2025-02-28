@@ -10,101 +10,100 @@ function (@main)(args)
     # both course links and quick links
     course_links = [
         (NM="WeBWorK",
-         URL="/WeBWorK/courses.html",
-         ALT="webwork",
-         BI="pencil"),
-
+            URL="/WeBWorK/courses.html",
+            ALT="webwork",
+            BI="pencil"),
+        #
         (NM="WebAssign",
-         URL="https://www.webassign.net/",
-         ALT="webassign",
-         BI="pencil"),
-
+            URL="https://www.webassign.net/",
+            ALT="webassign",
+            BI="pencil"),
+        #
         (NM="MyStatLab",
-         URL="https://mlm.pearson.com/northamerica/mystatlab/",
-         ALT="mystatlab",
-         BI="pencil"),
-
+            URL="https://mlm.pearson.com/northamerica/mystatlab/",
+            ALT="mystatlab",
+            BI="pencil"),
+        #
         (NM="JuliaBox",
-         URL="/juliabox",
-         ALT="JuliaBox",
-         BI="terminal-fill"),
-
+            URL="/juliabox",
+            ALT="JuliaBox",
+            BI="terminal-fill"),
+        #
         (NM="Course Materials",
-         URL="/Undergraduate/Courses/",
-         ALT="Materials",
-         BI="pencil"),
-
+            URL="/Undergraduate/Courses/",
+            ALT="Materials",
+            BI="pencil"),
+        #
         (NM="Tutoring",
-         URL="/Undergraduate/Tutoring/",
-         ALT="Tutoring",
-         BI="person-circle")
+            URL="/Undergraduate/Tutoring/",
+            ALT="Tutoring",
+            BI="person-circle"),
+        #
     ]
 
     quick_links = [
-	(NM="Brightspace",
-	 URL="https://brightspace.cuny.edu/",
-	 ALT="brightspace",
-	 BI="journal"),
-
-	(NM="CUNYFirst",
-	 URL="https://www.cuny.edu/about/administration/offices/cis/cunyfirst/",
-	 ALT="cuny first",
-	 BI="tools"),
-
-	(NM="Navigate",
-	 URL="https://csi-cuny.campus.eab.com/",
-	 ALT="Navigate",
-	 BI="tools"),
-
-	(NM="Math major",
-	 URL="/Undergraduate/Major/",
-	 ALT="Major",
-	 BI="ui-checks-grid"),
-
-	(NM="Mathclub",
-	 URL="https://math-csi-cuny.github.io/mathclub/",
-	 ALT="Major",
-	 BI="transparency"),
-
-	(NM="Advisement",
-	 URL="/Undergraduate/AdvisingDocuments/",
-	 ALT="Advisement",
-	 BI="person-check-fill"),
-
-	(NM="Careers",
-	 URL="/Undergraduate/Career/",
-	 ALT="Careers in mathematics",
-	 BI="door-open"),
-
+        (NM="Brightspace",
+            URL="https://brightspace.cuny.edu/",
+            ALT="brightspace",
+            BI="journal"),
+        #
+        (NM="CUNYFirst",
+            URL="https://www.cuny.edu/about/administration/offices/cis/cunyfirst/",
+            ALT="cuny first",
+            BI="tools"),
+        #
+        (NM="Navigate",
+            URL="https://csi-cuny.campus.eab.com/",
+            ALT="Navigate",
+            BI="tools"),
+        #
+        (NM="Program/Course Descriptions",
+            URL="/Undergraduate/Major/",
+            ALT="Course Descriptions",
+            BI="ui-checks-grid"),
+        #
+        (NM="Program Requirements",
+            URL="/Undergraduate/AdvisingDocuments/",
+            ALT="Program Requirements",
+            BI="person-check-fill"),
+        #
+        (NM="Mathclub",
+            URL="https://math-csi-cuny.github.io/mathclub/",
+            ALT="Major",
+            BI="transparency"),
+        #
+        (NM="Careers",
+            URL="/Undergraduate/Career/",
+            ALT="Careers in mathematics",
+            BI="door-open"),
+        #
         (NM="Teacher Education Honors Academy",
-         URL="https://www.csi.cuny.edu/academics-and-research/specialized-programs/honors-programs/teacher-education-honors-academy",
-         ALT="Teacher Education Honors Academy",
-         BI="lightbulb"),
+            URL="https://www.csi.cuny.edu/academics-and-research/specialized-programs/honors-programs/teacher-education-honors-academy",
+            ALT="Teacher Education Honors Academy",
+            BI="lightbulb"),
+        #
+        (NM="Course schedule",
+            URL="/Undergraduate/Courses/CUNYFirst/",
+            ALT="Course Schedule",
+            BI="layout-wtf"),
+        #
+        (NM="Calendar",
+            URL="/calendar.html",
+            ALT="College calendar",
+            BI="calendar-week"),
+        #
+        (NM="Accessibility",
+            URL="ADA",
+            ALT="Accessibility",
+            BI="pencil"),
+        #
+        (NM="Transition to Bright Space",
+            URL="/BB2BS/",
+            ALT="Brightspace",
+            BI="pencil"),
+        #
+    ]
 
-	(NM="Course schedule",
-	 URL="/Undergraduate/Courses/CUNYFirst/",
-	 ALT="Course Schedule",
-	 BI="layout-wtf"),
-
-	(NM="Calendar",
-	 URL="/calendar.html",
-	 ALT="College calendar",
-	 BI="calendar-week"),
-
-	(NM="Accessibility",
-	 URL="ADA",
-	 ALT="Accessibility",
-	 BI="pencil"),
-
-	(NM="Transition to Bright Space",
-	 URL="/BB2BS/",
-	 ALT="Brightspace",
-	 BI="pencil"),
-
-]
-
-#
-#
 
     nav_link_tpl = mt"""
 :::: {.nav  .flex-column aria-current="page"}
@@ -116,7 +115,7 @@ function (@main)(args)
 ::::
 """
 
-#    style="cursor:pointer;"
+    #style="cursor:pointer;"
     button_tpl = mt"""
 {{#:SIDEBAR}}
 ::::: {.btn .btn-light .text-start .text-black}
@@ -126,7 +125,7 @@ function (@main)(args)
 {{/:SIDEBAR}}
 """
 
-tpl = nav_link_tpl
+    tpl = nav_link_tpl
 
     page_tpl = """
 <!-- autogenerated by julia sidebar-links.jl -->

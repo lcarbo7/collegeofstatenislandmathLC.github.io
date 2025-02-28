@@ -1,5 +1,5 @@
 ---
-title: Major/Minor requirements and sample schedules
+title: Program requirements and sample schedules
 order: 2
 ---
 
@@ -47,3 +47,32 @@ Revised requirements for Fall 2025:
 * Two other 300 or 400 level mathematics courses, at least one of which is not used to satisfy any other major or minor requirements.
 
 **For the Mathematics Minor, three 300 or 400 level mathematics courses must be taken at CSI.**
+
+## Data Science Minor (Math/CS)
+
+[Requirements:](https://csi-undergraduate.catalog.cuny.edu/programs/DATASC-MIN)
+
+**Fulfill ALL of the following requirements:**
+
+**Complete ALL of the following Courses:**
+
+* CSC 245 - Introduction to Data Science
+* MTH 311 - Probability Theory and an Introduction to Mathematical Statistics
+
+**Complete at least 1 of the following Courses:**
+
+* CSC 412 - Machine Learning and Knowledge Discovery
+* MTH 372 - Practical Machine Learning
+
+**Complete at least 1 of the following Courses:**
+
+* CSC 315 - Introduction to Database Systems
+* CSC 412 - Machine Learning and Knowledge Discovery
+OR MTH 372 - Practical Machine Learning
+* CSC 480 - Artificial Intelligence
+* MTH 410 - Mathematical Statistics I
+
+**Complete at least 1 of the following Courses:**
+
+* CSC 594 - Comp Sci Ind Study
+* MTH 594 - Math Ind Study

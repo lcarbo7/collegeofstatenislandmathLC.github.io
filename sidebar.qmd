@@ -49,13 +49,13 @@ Quick links
 [<i class="bi bi-tools"></i> Navigate](https://csi-cuny.campus.eab.com/){.nav-link .nav-fill .table-hover .text-black}
 :::::
 ::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
-[<i class="bi bi-ui-checks-grid"></i> Math major](/Undergraduate/Major/){.nav-link .nav-fill .table-hover .text-black}
+[<i class="bi bi-ui-checks-grid"></i> Program/Course Descriptions](/Undergraduate/Major/){.nav-link .nav-fill .table-hover .text-black}
+:::::
+::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
+[<i class="bi bi-person-check-fill"></i> Program Requirements](/Undergraduate/AdvisingDocuments/){.nav-link .nav-fill .table-hover .text-black}
 :::::
 ::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
 [<i class="bi bi-transparency"></i> Mathclub](https://math-csi-cuny.github.io/mathclub/){.nav-link .nav-fill .table-hover .text-black}
-:::::
-::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
-[<i class="bi bi-person-check-fill"></i> Advisement](/Undergraduate/AdvisingDocuments/){.nav-link .nav-fill .table-hover .text-black}
 :::::
 ::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
 [<i class="bi bi-door-open"></i> Careers](/Undergraduate/Career/){.nav-link .nav-fill .table-hover .text-black}
