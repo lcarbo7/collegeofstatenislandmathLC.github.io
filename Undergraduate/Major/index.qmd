@@ -234,8 +234,8 @@ located in the ambient Euclidean space. This led to his Theorema
 Egregium, a fundamental result which explains why there cannot be an
 accurate planar map of the world.
 
-![Catenoid](../../images/images/catenoid.png)
-![Soap bubble](../../images/images/soap-bubble.png)
+![Catenoid](../../images/catenoid.png)
+![Soap bubble](../../images/soap-bubble.png)
 
 
 Differential Geometry allows also to explain and describe the
