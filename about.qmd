@@ -6,23 +6,43 @@ about:
   image-alt: "Satellite view of 1S building"
 ---
 
-[Carlo Lancellotti]() Chairperson
-
 ## Contact
+::: {layout-ncol=2}
+:::: {.first-column}
+<i class="bi bi-geo-alt"></i>
+1S-215                    <br>
+2800 Victory Boulevard    <br>
+Staten Island, NY 10314
 
-College of Staten Island           <br/>
-2800 Victory Boulevard             <br/>
-Staten Island, NY 10314            <br/>
-718-982-3600                       <br/>
-[mathematics@csi.cuny.edu](mailto:mathematics@csi.cuny.edu)  <br/>
+<i class="bi bi-telephone"></i> 718-982-3600
 
+<i class="bi bi-envelope"></i> [mathematics@csi.cuny.edu](mailto:mathematics@csi.cuny.edu)
+::::
 
-## Mission
+:::: {.second-column .small-h3}
+### Carlo Lancellotti - Professor and Chair
 
-> The primary mission of the Department of Mathematics is the discovery, communication, and teaching of mathematics. As part of the City University of New York (CUNY), the department is committed to academic excellence while providing equal access and opportunity.
+<i class="bi bi-envelope"></i> [mathchair@csi.cuny.edu](mailto:mathchair@csi.cuny.edu)
+
+### Annette Coniglio - Administrative Assistant
+
+<i class="bi bi-envelope"></i> annette.coniglio at csi.cuny.edu
+
+### Colleen Biagini - College Assistant
+
+<i class="bi bi-envelope"></i> colleen.biagini at csi.cuny.edu
+::::
+:::
+
+## Mission {.mt-0}
+
+The primary mission of the Department of Mathematics is the discovery, communication, and teaching of mathematics. As part of the City University of New York (CUNY), the department is committed to academic excellence while providing equal access and opportunity.
 
 To support this broad mission, the department has the following more specific goals.
 
+::: {layout-ncol=2}
+
+:::: {.first-column}
 ## In Teaching:
 
 Provide quality instruction that gives a rigorous and comprehensive foundation for a diverse student body entering a wide variety of professions.
@@ -41,7 +61,9 @@ Create and maintain a strong graduate mathematics curriculum and program, both i
 
 Encourage well-prepared students to continue to study mathematics at all levels, and facilitate extra-curricular projects for qualified students to prepare for careers or graduate study.
 Provide leadership and supervision for meeting developmental mathematics needs of students at the College.
+::::
 
+:::: {.second-column}
 ## In Research:
 
 Foster high-quality research in pure and applied mathematics by facilitating and promoting the scholarly activities of the department's faculty members and students.
@@ -63,6 +85,5 @@ Promote rigorous academic standards in mathematics at the College, emphasizing s
 Promote activities and programs to recruit new students with strong mathematical preparation and an interest in mathematics and science.
 
 Encourage and facilitate faculty professional development and service to the mathematical community.
-
-
-> Last approved April 2009.
+::::
+:::
