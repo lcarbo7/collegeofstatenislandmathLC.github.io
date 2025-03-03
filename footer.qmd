@@ -13,7 +13,7 @@ Staten Island, NY 10314     <br/>
 <i class="bi bi-telephone"></i>
 718-802-3600                </br>
 <i class="bi bi-mailbox"></i>
-[email: math@csi.cuny.edu](mailto:math@csi.cuny.edu)
+[email: mathematics@csi.cuny.edu](mailto:mathematics@csi.cuny.edu)
 ::::
 
 :::
