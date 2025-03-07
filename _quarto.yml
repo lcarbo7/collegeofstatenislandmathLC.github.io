@@ -44,6 +44,8 @@ website:
   #   position: below-navbar
   page-footer:
     left:
+      - text: |
+          <img src="/images/square/CUNY_Logo-32-32.png" alt="">
       - text: City University of New York
         href: https://www.cuny.edu
       - text: College of Staten Island
