@@ -51,7 +51,8 @@ website:
     center: |
       <i class="bi bi-telephone"></i> 718-982-3600
       <i class="bi bi-envelope"></i> [mathematics@csi.cuny.edu](mailto:mathematics@csi.cuny.edu)
-      <i class="bi bi-geo"></i> [1S-215](https://maps.app.goo.gl/56hLqe2EDDuubxAE6)
+      <br>
+      <i class="bi bi-geo"></i> [1S-215; 2800 Victory Blvd., Staten Island, NY, 10314](https://maps.app.goo.gl/56hLqe2EDDuubxAE6)
 
 format:
   html:

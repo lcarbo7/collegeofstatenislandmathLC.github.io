@@ -56,10 +56,4 @@ listing:
 :::::
 ::::
 
-----
-
-:::
-
-::: {.container}
-{{< include footer.qmd >}}
 :::
