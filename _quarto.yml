@@ -40,7 +40,7 @@ website:
     icon: newspaper
     dismissable: true
     content: |
-      Upcoming presentation [**Effective Interventions for Students with Mathematics Learning Disabilities**](news/teha-pi-day.qmd) <br>
+      Upcoming presentation [**Effective Interventions for Students with Mathematics Learning Disabilities**](/news/teha-pi-day.qmd) <br>
       by Dr. Sridhar Nagubandi. March 13 @ 3:30 in 1S-214
     type: primary
     position: below-navbar
