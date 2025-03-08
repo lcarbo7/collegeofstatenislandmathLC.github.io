@@ -4,7 +4,7 @@ listing:
   contents: news
   max-items: 4
   type: table
-  fields: [date, title]
+  fields: [date, title, Note]
   image-height: 200px
   sort-ui: false
   filter-ui: false

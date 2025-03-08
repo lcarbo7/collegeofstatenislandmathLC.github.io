@@ -2,7 +2,7 @@
 title: The Math of Modern Romance
 date: 2/13/2025
 image: mathclub_valentinesday.jpg
-description: MathClub event
+Note: 3:00 pm in 1S-119
 about:
   template: solana
   image-width: 35%

@@ -8,7 +8,7 @@ title: TITLE
 date: DATE
 image: IMAGE
 image-alt: DESCRIBE THE IMAGE
-description: DESCRIPTION
+Note: (e.g. room number/time)
 about:
   template: solana
   image-width: 35%
