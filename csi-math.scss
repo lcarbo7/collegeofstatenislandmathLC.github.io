@@ -1,5 +1,5 @@
 /*-- scss:defaults --*/
-$navbar-bg: #212529;
+$csi-blue: #444e5a;
 
 /*-- scss:rules --*/
 // mainfont is set in _quarto.yml
@@ -32,14 +32,21 @@ h2.home-heading {
   }
 }
 
-.quarto-announcement-content a {
-  color: #255dd9;
-}
-
 .small-h3 h3 {
   font-size: 100%;
   margin: 0;
 }
+
+// A11y contrast
+.quarto-announcement-content a {
+  color: #255dd9;
+}
+
+.blockquote {
+  color: #6b7884;
+}
+
+// Quick Links
 
 .card {
   border-radius: 0.25rem;
@@ -71,6 +78,25 @@ h2.home-heading {
   }
 }
 
-.blockquote {
-  color: #6b7884;
+// Navbar
+@media screen and (min-width: 768px) {
+  .navbar .navbar-nav .nav-item {
+    position: relative;
+  }
+
+  .navbar .navbar-nav .nav-item::after {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background-color: white;
+    width: 0%;
+    content: "";
+    height: 4px;
+    transition: all 0.3s;
+  }
+
+  .navbar .navbar-nav .nav-item:hover::after {
+    width: 100%;
+  }
 }
