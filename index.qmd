@@ -39,7 +39,7 @@ listing:
 :::::::
 
 ::::::: {.g-col-12 .g-col-sm-3}
-:::::::: {#link-topspace}
+:::::::: {#link-topspace .d-none .d-sm-block}
 ::::::::
 [![](/news/pi-day-2025.png)](/news/pi-day-2025.qmd)
 :::::::
