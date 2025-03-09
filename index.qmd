@@ -29,9 +29,22 @@ listing:
 
 :::: {.grid}
 ::::: {.g-col-12 .g-col-sm-8 .g-col-md-9}
+
+<!-- News container -->
+:::::: {.grid}
+::::::: {.g-col-12 .g-col-sm-9}
 ## Recent news {.home-heading}
-:::::: {#news}
+:::::::: {#news}
+::::::::
+:::::::
+
+::::::: {.g-col-12 .g-col-sm-3}
+:::::::: {#link-topspace}
+::::::::
+[![](/news/pi-day-2025.png)](/news/pi-day-2025.qmd)
+:::::::
 ::::::
+<!-- End news container -->
 
 {{< include blurbs.qmd >}}
 :::::

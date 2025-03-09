@@ -1,0 +1,16 @@
+---
+title: Pi Day 2025
+date: March 13, 2025
+image: pi-day-2025.png
+image-alt: Pi Day promotional flier
+Note: 2:45 pm in 1S-214
+about:
+  template: solana
+  image-width: 100%
+---
+
+It’s (almost) Pi Day! A time to honor the beauty of circles, the brilliance of
+3.1415..., and the joy of discovery. Let’s celebrate with creativity,
+curiosity, and maybe even dessert!
+
+**FOOD AND REFRESHMENTS PROVIDED!**
