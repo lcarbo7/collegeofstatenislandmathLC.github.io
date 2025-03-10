@@ -41,7 +41,7 @@ listing:
 ::::::: {.g-col-12 .g-col-sm-3}
 :::::::: {#link-topspace .d-none .d-sm-block}
 ::::::::
-[![](/news/pi-day-2025.png)](/news/pi-day-2025.qmd)
+[![](/news/pi-day-2025.png){fig-alt="Pi day event"}](/news/pi-day-2025.qmd)
 :::::::
 ::::::
 <!-- End news container -->
