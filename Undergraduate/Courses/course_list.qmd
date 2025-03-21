@@ -316,6 +316,11 @@ from the following list.
     [\[Role/Learning
     Goals\]](LearningGoals/MTH370)
 
+-   MTH 372 *Practical Machine Learning*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20372)
+    [\[Syllabus\]](Syllabi/MTH372-syllabus.pdf)
+    [\[Role/Learning Goals\]](LearningGoals/MTH372)
+
 ### 400-level courses
 
 -   MTH 410 *Mathematical Statistics I*

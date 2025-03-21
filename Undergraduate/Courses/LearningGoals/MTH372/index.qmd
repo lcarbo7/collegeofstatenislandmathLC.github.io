@@ -1,0 +1,39 @@
+---
+title: Learning goals for MTH372
+order: 372
+---
+
+## Role in Curriculum
+
+Machine learning and statistical learning is spreading widely throughout society and throughout the career opportunities for
+students in both Mathematics, Computer Science and Business Analytics. Proficiency in the current toolkits develops generalized machine
+learning skills and provides access to current state of the art techniques. A project-focused learning approach is particularly well suited for
+building practical skills with applied statistics and machine learning.
+
+## Learning Goals and Assessment
+
+> Students will learn to use machine learning tools to meet modeling and prediction needs
+
+Students will examine different types of large data sets, and perform modeling and prediction based on these data sets
+
+> Students will learn to evaluate and make trade-offs to pick appropriate tools for modeling and prediction
+
+Students will perform model selection and evaluation when examining different types of large data sets
+
+> Students will learn to use machine learning tools to meet modeling and prediction needs
+
+Students will examine different types of large data sets, and perform modeling and prediction based on these data sets
+
+
+----
+
+
+When assessment activities are done, the results will be summarized in
+memorandum form and filed with the department chairperson for record
+keeping
+purposes.
+
+Information obtained from assessment will be used to assess and
+self-reflect on the success of the course and to make any necessary
+changes to
+improve teaching and learning effectiveness.
