@@ -3,9 +3,16 @@ title: Alumni
 order: 7
 ---
 
+* [Mona Kotb (2024)](https://www.linkedin.com/in/mona-kotb-2652955a/)
+    - [Susan E Wagner High School](https://www.wagnerhigh.net/apps/pages/index.jsp?uREC_ID=1520164&type=u)
+    - [PhD program Teachers College, Columbia University](https://search.tc.columbia.edu/people/mk4925)
+
 * [Rayan Ibrahim (2018)](https://raymaths.github.io/)
     - [PhD 2024 Virginia Commonwealth University](https://scholarscompass.vcu.edu/etd/7780/)
     - [Visiting Assistant Professor, Department of Mathematics, Lafayette College](https://math.lafayette.edu/faculty-staff/)
+
+* [Souad Outarid (2012)](https://www.linkedin.com/in/souad-outarid-4528b0a9/)
+    - [Assistant Principal, Lavelle Preparatory Charter School](https://integrationcharterschools.org/our-schools/lavelle-prep/our-staff/)
 
 * Ensela Mema (2011)
     - [PhD 2017 NJIT](https://digitalcommons.njit.edu/dissertations/15/)
