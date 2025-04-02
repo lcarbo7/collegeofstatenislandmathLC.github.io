@@ -7,6 +7,7 @@ order: 2
 
 - For advisement please send request to [mathadvisor@csi.cuny.edu](mailto:mathadvisor@csi.cuny.edu)
 - [Helpful Advising Links](00-Advising links.pdf)
+- [Registrar forms for students](https://www.csi.cuny.edu/students/registrar/forms-records-update) (e.g. Add/Drop request form)
 
 ## B.S. in Math
 
