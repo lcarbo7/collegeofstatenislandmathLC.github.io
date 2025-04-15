@@ -32,17 +32,20 @@ listing:
 
 <!-- News container -->
 :::::: {.grid}
-::::::: {.g-col-12 .g-col-sm-9}
+::::::: {.g-col-12 .g-col-sm-12}
 ## Recent news {.home-heading}
 :::::::: {#news}
 ::::::::
 :::::::
 
+<!--
 ::::::: {.g-col-12 .g-col-sm-3}
 :::::::: {#link-topspace .d-none .d-sm-block}
 ::::::::
 [![](/news/pi-day-2025.png){fig-alt="Pi day event"}](/news/pi-day-2025.qmd)
 :::::::
+-->
+
 ::::::
 <!-- End news container -->
 
