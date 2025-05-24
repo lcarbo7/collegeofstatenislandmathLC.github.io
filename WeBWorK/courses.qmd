@@ -22,20 +22,20 @@ password: jsmith5678 (all lower case.)
 
 special note: if you are a Jr., II, III, etc., please append to your last name without any punctuation characters.
 
-##  Summer 2025 ----------------------------------------------------------
+##  Summer 2025
 
 ## MTH 231
 
-* [Talafha] (https://www.math.csi.cuny.edu/webwork2/Math231_6344_Talafha_Su25)
+* [Talafha](https://www.math.csi.cuny.edu/webwork2/Math231_6344_Talafha_Su25)
 
 ## MTH 232
 
-* [Calderon] (https://www.math.csi.cuny.edu/webwork2/Math232_6361_Calderon_Su25)
+* [Calderon](https://www.math.csi.cuny.edu/webwork2/Math232_6361_Calderon_Su25)
 
 
 ## MTH 233
 
-* [El-Achkar] (https://www.math.csi.cuny.edu/webwork2/Math233_6341_El-Achkar_Su25)
+* [El-Achkar](https://www.math.csi.cuny.edu/webwork2/Math233_6341_El-Achkar_Su25)
 
 
 ##  Spring 2025
