@@ -1,0 +1,4 @@
+## Recent news {.home-heading}
+
+:::: {#news}
+::::

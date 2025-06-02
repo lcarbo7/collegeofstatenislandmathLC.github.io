@@ -1,14 +1,14 @@
 ---
 anchor-sections: false
-listing:
-  contents: news
-  max-items: 4
-  type: table
-  fields: [date, title, Note]
-  image-height: 200px
-  sort-ui: false
-  filter-ui: false
-  id: news
+# listing:
+#   contents: news
+#   max-items: 4
+#   type: table
+#   fields: [date, title, Note]
+#   image-height: 200px
+#   sort-ui: false
+#   filter-ui: false
+#   id: news
 ---
 
 ::: {.container}
@@ -30,39 +30,19 @@ listing:
 :::: {.grid}
 ::::: {.g-col-12 .g-col-sm-8 .g-col-md-9}
 
-<!-- News container -->
-:::::: {.grid}
-::::::: {.g-col-12 .g-col-sm-12}
-## Recent news {.home-heading}
-:::::::: {#news}
-::::::::
-:::::::
-
-<!--
-::::::: {.g-col-12 .g-col-sm-3}
-:::::::: {#link-topspace .d-none .d-sm-block}
-::::::::
-[![](/news/pi-day-2025.png){fig-alt="Pi day event"}](/news/pi-day-2025.qmd)
-:::::::
--->
-
-::::::
-<!-- End news container -->
-
+<!-- {{< include news.qmd >}} -->
 {{< include blurbs.qmd >}}
+
 :::::
 
 ::::: {.g-col-12  .g-col-sm-4 .g-col-md-3}
-
-:::::: {#link-topspace .d-none .d-sm-block}
-::::::
 
 {{< include sidebar.qmd >}}
 :::::
 ::::
 
-<!-- News and Calendar  -->
-
+<!-- Calendar -->
+<!--
 :::: {.grid}
 ::::: {.g-col-12 .g-col-lg-9}
 ## Academic Calendar {.home-heading}
@@ -71,5 +51,6 @@ listing:
 ::::::
 :::::
 ::::
+-->
 
 :::
