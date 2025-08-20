@@ -37,17 +37,16 @@ website:
       - text: Syllabi
         href: Undergraduate/Courses/Syllabi/index.qmd
 ##
-  # announcement:
-  #   icon: newspaper
-  #   dismissable: true
-  #   content: |
-  #     Upcoming Pi Day events this Thursday in 1S-214:
-  #     [Math Club social event](/news/pi-day-2025.qmd) with food and refreshments at 2:45
-  #     Followed by a presentation on [**Effective Interventions for Students with
-  #     Mathematics Learning Disabilities**](/news/teha-pi-day.qmd) by Dr.
-  #     Sridhar Nagubandi @ 3:30
-  #   type: primary
-  #   position: below-navbar
+  announcement:
+    icon: newspaper
+    dismissable: true
+    content: |
+      Welcome back for the Fall!
+      <span style="color: purple;">**Please note: default WeBWorK usernames/passwords are now your student ID numbers**</span>
+      (*just the number*)!
+      Please change your password after you first log in.
+    type: primary
+    position: below-navbar
   page-footer:
     left:
       - text: |
