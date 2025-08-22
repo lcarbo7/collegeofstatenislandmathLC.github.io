@@ -62,7 +62,6 @@ Please change your password upon first logging in, make a note and keep it in a 
 * [Maher](http://www.math.csi.cuny.edu/webwork2/Math231_28436_Maher_F25/)
 * [Pribitkin](http://www.math.csi.cuny.edu/webwork2/Math231_28434_Pribitkin_F25/)
 * [Talafha](http://www.math.csi.cuny.edu/webwork2/Math231_28435_Talafha_F25/)
-* [Venuto](http://www.math.csi.cuny.edu/webwork2/Math231_28439_Venuto_F25/)
 * [Vukadinovic](http://www.math.csi.cuny.edu/webwork2/Math231_28442_Vukadinovic_F25/)
 
 
@@ -99,6 +98,7 @@ Please change your password upon first logging in, make a note and keep it in a 
 
 * [Fuchs](http://www.math.csi.cuny.edu/webwork2/Math338_28219_Fuchs_F25/)
 * [Lucia](http://www.math.csi.cuny.edu/webwork2/Math338_28217_Lucia_F25/)
+
 
 
 
