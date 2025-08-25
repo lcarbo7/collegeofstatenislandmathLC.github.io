@@ -3,6 +3,7 @@ title: MTH122
 order: 122
 ---
 
+* [122Exam_1_Practice.pdf](./122Exam_1_Practice.pdf)
 * [122Exam_2_Practice.pdf](./122Exam_2_Practice.pdf)
 * [122_review_for_exam_3.pdf](./122_review_for_exam_3.pdf)
 * [401k_invest.xlsx](./401k_invest.xlsx)
@@ -29,5 +30,4 @@ order: 122
 * [LOGS_SUPPLEMENT.pptx](./LOGS_SUPPLEMENT.pptx)
 * [Mth122_Orientation.pdf](./Mth122_Orientation.pdf)
 * [MTH122.pdf](./MTH122.pdf)
-* [mth122_practice_exam_1.docx](./mth122_practice_exam_1.docx)
-
+* 
