@@ -40,6 +40,8 @@ Please change your password upon first logging in, make a note and keep it in a 
 * [Dimino](http://www.math.csi.cuny.edu/webwork2/Math229_28823_Dimino_F25/)
 * [Gunn](http://www.math.csi.cuny.edu/webwork2/Math229_28819_Gunn_F25/)
 * [O'Bryant](http://www.math.csi.cuny.edu/webwork2/Math229_28813_OBryant_F25/)
+* [Schaefer 28818](http://www.math.csi.cuny.edu/webwork2/Math229_28818_Schaefer_F25/)
+* [Schaefer 29682](http://www.math.csi.cuny.edu/webwork2/Math229_29682_Schaefer_F25/)
 * [Verzani](http://www.math.csi.cuny.edu/webwork2/Math229_28815_Verzani_F25/)
 
 
@@ -98,6 +100,7 @@ Please change your password upon first logging in, make a note and keep it in a 
 
 * [Fuchs](http://www.math.csi.cuny.edu/webwork2/Math338_28219_Fuchs_F25/)
 * [Lucia](http://www.math.csi.cuny.edu/webwork2/Math338_28217_Lucia_F25/)
+
 
 
 
