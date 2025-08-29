@@ -1,6 +1,6 @@
 ---
 title: Andras Balogh
-image: ./default.png
+image: /images/people/balogh-headshot.jpg
 image-alt: Andras Balogh
 description: Doctoral Lecturer
 lastname: Balogh
@@ -10,15 +10,16 @@ about:
 ---
 
 
---research interests go here---
-
+computational modeling and high-performance parallel computing in applied mathematics and stochastic processes; control theory of distributed parameter systems; innovative approaches in mathematics education.
 
 ## Contacts
 
-<i class="bi bi-door-open"></i> **Office** | 1S-215 <br/>
-<i class="bi bi-telephone"></i> **Telephone** | x3600 <br/>
+<i class="bi bi-door-open"></i> **Office** | 1S-223 <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3619 <br/>
 <i class="bi bi-mailbox"></i> **Email** | `andras.balogh at csi.cuny.edu` <br/>
 <i class="bi bi-x-diamond"></i> **Website**  | [https://www.math.csi.cuny.edu/~balogh](https://www.math.csi.cuny.edu/~balogh) <br/>
 
 ## Biography
---under construction--
+Andras Balogh holds a Ph.D. in Mathematics from Texas Tech University, an M.S. in Applied Mathematics from the University of Texas at Dallas, and a B.S. in Mathematics from the University of Szeged, Hungary. Before joining the Department of Mathematics at the College of Staten Island, CUNY, as a Doctoral Lecturer,  he has held academic positions at the University of California, San Diego; the University of Texas–Pan American, where he also served as department chair; and the University of Texas Rio Grande Valley. 
+His research interests include computational modeling and high-performance parallel computing in applied mathematics and stochastic processes, and control theory of distributed parameter systems, as well as innovative approaches in mathematics education. He has coauthored manuscripts on curriculum innovation in Calculus I and contributed to grant-funded projects supporting undergraduate and graduate mathematics education. He has also served on editorial boards for leading journals, including the *International Journal of Robust and Nonlinear Control and the Journal of Education Sciences*.
+
