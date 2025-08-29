@@ -1,0 +1,24 @@
+---
+title: Andras Balogh
+image: /images/people/balogh-headshot.jpg
+image-alt: Andras Balogh
+description: Doctoral Lecturer
+lastname: Balogh
+about:
+  template: solana
+  image-width: 350px
+---
+
+
+--research interests go here---
+
+
+## Contacts
+
+<i class="bi bi-door-open"></i> **Office** | 1S-215 <br/>
+<i class="bi bi-telephone"></i> **Telephone** | x3600 <br/>
+<i class="bi bi-mailbox"></i> **Email** | `andras.balogh at csi.cuny.edu` <br/>
+<i class="bi bi-x-diamond"></i> **Website**  | [https://www.math.csi.cuny.edu/~balogh](https://www.math.csi.cuny.edu/~balogh) <br/>
+
+## Biography
+--under construction--
