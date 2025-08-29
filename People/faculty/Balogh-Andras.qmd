@@ -1,6 +1,6 @@
 ---
 title: Andras Balogh
-image: /images/people/balogh-headshot.jpg
+image: ./default.png
 image-alt: Andras Balogh
 description: Doctoral Lecturer
 lastname: Balogh
