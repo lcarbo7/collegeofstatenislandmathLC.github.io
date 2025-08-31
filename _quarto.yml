@@ -37,16 +37,16 @@ website:
       - text: Syllabi
         href: Undergraduate/Courses/Syllabi/index.qmd
 ##
-  announcement:
-    icon: newspaper
-    dismissable: true
-    content: |
-      Welcome back for the Fall!
-      <span style="color: purple;">**Please note: default WeBWorK usernames/passwords are now your student ID numbers**</span>
-      (*just the number*)!
-      Please change your password after you first log in.
-    type: primary
-    position: below-navbar
+  # announcement:
+  #   icon: newspaper
+  #   dismissable: true
+  #   content: |
+  #     Welcome back for the Fall!
+  #     <span style="color: purple;">**Please note: default WeBWorK usernames/passwords are now your student ID numbers**</span>
+  #     (*just the number*)!
+  #     Please change your password after you first log in.
+  #   type: primary
+  #   position: below-navbar
   page-footer:
     left:
       - text: |
