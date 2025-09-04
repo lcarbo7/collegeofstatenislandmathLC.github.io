@@ -5,7 +5,7 @@ order: 0
 
 The Mathematics Tutoring Center is located in 1S-214.
 
-## Spring 2025
+## Fall 2025
 
 The Mathematics Tutoring Center has tutoring on campus, as well as Distance-based. 
 The schedule posts here, and on the door of room 1S-214. Please Check back for frequent updates.
@@ -16,18 +16,21 @@ The schedule posts here, and on the door of room 1S-214. Please Check back for f
 
 ::: {.grid}
 :::: {.g-col-6}
+
 ### Ian [ianburek.tutor@gmail.com](mailto:ianburek.tutor@gmail.com)
 
-Monday:  9:30-2:30PM and  4:40-5:40PM <br>
-Wednesday: 12:20-5:20PM
+Monday: 12:15 - 2:15PM <br>
+Tuesday: 10AM - 3PM <br>
+Thursday: 11AM - 3PM
 ::::
 
 :::: {.g-col-6}
 ### Stivi [stivi.tutor.csi@gmail.com](mailto:stivi.tutor.csi@gmail.com)
 
-Monday: 8:30-10AM and 2:15-3:15PM <br>
+tba
+<!-- Monday: 8:30-10AM and 2:15-3:15PM <br>
 Tuesday: 8:30 - 11:30 (remote)    <br>
-Monday: 8:30-10AM and 1:15-2:15PM
+Monday: 8:30-10AM and 1:15-2:15PM -->
 ::::
 :::
 
