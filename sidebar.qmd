@@ -64,7 +64,7 @@ Quick links
 [<i class="bi bi-lightbulb"></i> Teacher Education Honors Academy](https://www.csi.cuny.edu/academics-and-research/specialized-programs/honors-programs/teacher-education-honors-academy){.nav-link .nav-fill .table-hover .text-black}
 :::::
 ::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
-[<i class="bi bi-layout-wtf"></i> Course schedule](/Undergraduate/Courses/CUNYFirst/){.nav-link .nav-fill .table-hover .text-black}
+[<i class="bi bi-layout-wtf"></i> Course schedule](https://globalsearch.cuny.edu/CFGlobalSearchTool/search.jsp){.nav-link .nav-fill .table-hover .text-black}
 :::::
 ::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
 [<i class="bi bi-calendar-week"></i> Calendar](/calendar.html){.nav-link .nav-fill .table-hover .text-black}
