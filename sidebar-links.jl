@@ -83,7 +83,7 @@ function (@main)(args)
             BI="lightbulb"),
         #
         (NM="Course schedule",
-            URL="/Undergraduate/Courses/CUNYFirst/",
+            URL="https://globalsearch.cuny.edu/CFGlobalSearchTool/search.jsp",
             ALT="Course Schedule",
             BI="layout-wtf"),
         #
