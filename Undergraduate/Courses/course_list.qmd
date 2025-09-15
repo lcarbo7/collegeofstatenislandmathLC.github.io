@@ -403,5 +403,5 @@ The Department of Mathematics offers a few graduate-credit courses.
 Primarily these are designed as content courses for students pursuing a
 Masters degree in Education, although not exclusively.\
 See
-<http://csicuny.smartcatalogiq.com/Current/Graduate-Catalog/Graduate-Courses/MTH-Mathematics>
+<https://csi-graduate.catalog.cuny.edu/departments/MATH-CSI/courses>
 for an online listing.
