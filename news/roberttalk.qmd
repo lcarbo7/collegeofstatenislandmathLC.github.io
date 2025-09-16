@@ -6,7 +6,7 @@ image-alt: Advertisement poster for the event
 Note: 2:30 pm in 1S-219
 about:
   template: solana
-  image-width: 250%
+  image-width: min(500px, 75vmin)
 ---
 
 Abstract: Recent developments in generative diffusion models have contributed
