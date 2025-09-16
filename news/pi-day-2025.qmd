@@ -1,6 +1,6 @@
 ---
 title: Pi Day 2025
-date: March 13, 2025
+date: 2025-03-13
 image: pi-day-2025.png
 image-alt: Pi Day promotional flier
 Note: 2:45 pm in 1S-214

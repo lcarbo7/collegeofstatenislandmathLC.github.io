@@ -1,6 +1,6 @@
 ---
 title: Effective Interventions for Students with Mathematics Learning Disabilities
-date: March 13, 2025
+date: 2025-03-13
 Note: 3:30 pm in 1S-213
 about:
   template: solana
