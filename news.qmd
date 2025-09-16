@@ -1,4 +1,14 @@
 ## Recent news {.home-heading}
 
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-8 .order-2 .order-md-1}
 :::: {#news}
 ::::
+:::
+
+::: {.g-col-8 .g-col-md-4 .order-1 .order-md-2}
+[![](/news/RobertTalk.png){alt="Advertisement poster for Sept 18 talk at 2:30"}](/news/roberttalk.qmd)
+:::
+
+:::

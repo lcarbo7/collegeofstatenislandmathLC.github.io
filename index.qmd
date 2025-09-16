@@ -1,14 +1,15 @@
 ---
 anchor-sections: false
-# listing:
-#   contents: news
-#   max-items: 4
-#   type: table
-#   fields: [date, title, Note]
-#   image-height: 200px
-#   sort-ui: false
-#   filter-ui: false
-#   id: news
+listing:
+  contents: news
+  max-items: 4
+  type: table
+  fields: [date, title, Note]
+  image-height: 200px
+  sort: "date desc"
+  sort-ui: false
+  filter-ui: false
+  id: news
 ---
 
 ::: {.container}
@@ -30,7 +31,7 @@ anchor-sections: false
 :::: {.grid}
 ::::: {.g-col-12 .g-col-sm-8 .g-col-md-9}
 
-<!-- {{< include news.qmd >}} -->
+{{< include news.qmd >}}
 {{< include blurbs.qmd >}}
 
 :::::
