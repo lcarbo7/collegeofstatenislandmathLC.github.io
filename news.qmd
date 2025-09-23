@@ -1,5 +1,9 @@
 ## Recent news {.home-heading}
 
+:::: {#news}
+::::
+
+<!--
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-8 .order-2 .order-md-1}
@@ -12,3 +16,4 @@
 :::
 
 :::
+-->
