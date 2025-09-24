@@ -1,0 +1,21 @@
+---
+title: Principles of Generative Diffusion Models
+date: 2025-09-18
+image: RobertTalk.png
+image-alt: Advertisement poster for the event
+Note: 2:30 pm in 1S-219
+about:
+  template: solana
+  image-width: min(500px, 75vmin)
+---
+
+Abstract: Recent developments in generative diffusion models have contributed
+to a wide variety of application areas, from image generation to drug discovery
+and numerical weather prediction. In this talk, we will provide a
+self-contained introduction to the mathematical principles of diffusion models,
+driven by what we will refer to as the forward and backward stochastic
+processes. We will also look at some examples of image generation and examine
+the dynamical phase transitions evident in the backward process. Students of
+all levels of mathematical background and interest are encouraged to attend!
+
+**Pizza and snacks will be provided!**

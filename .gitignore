@@ -5,3 +5,5 @@
 *_cache/
 
 requirements.txt
+
+**/*.quarto_ipynb
