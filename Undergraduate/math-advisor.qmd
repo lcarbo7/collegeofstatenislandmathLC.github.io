@@ -2,4 +2,4 @@
 title: Math Advisor
 ---
 
-Please contact Andras Balogh at mathadvisore@csi.cuny.edu
+Please contact Andras Balogh at [mathadvisor@csi.cuny.edu](mailto:mathadvisor@csi.cuny.edu)
