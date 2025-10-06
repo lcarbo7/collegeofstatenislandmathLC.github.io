@@ -17,7 +17,7 @@ Nonlinear Analysis
 
 <i class="bi bi-door-open"></i> **Office** | 1S-226 <br/>
 <i class="bi bi-telephone"></i> **Telephone** | x3624 <br/>
-<i class="bi bi-mailbox"></i> **Email** | `mlucia at math.csi.cuny.edu` <br/>
+<i class="bi bi-mailbox"></i> **Email** | `marcello.lucia at csi.cuny.edu` <br/>
 <i class="bi bi-x-diamond"></i> **Website**  | [http://www.math.csi.cuny.edu/~mlucia](http://www.math.csi.cuny.edu/~mlucia) <br/>
 
 ## Biography
