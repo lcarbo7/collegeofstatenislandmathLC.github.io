@@ -1,5 +1,6 @@
 ---
 title: Four Subspaces, Five Factorizations
+author: Gilbert Strang
 date: 2024-02-27
 image: i/gilbert-strang.png
 image-alt: Headshot of Prof. Gilbert Strang

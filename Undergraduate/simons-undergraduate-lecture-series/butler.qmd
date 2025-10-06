@@ -1,5 +1,6 @@
 ---
 title: Mathematics of Juggling
+author: Steve Butler
 date: 2015-09-17
 image: i/steve-butler.png
 image-alt: Dr. Steve Butler's math class practicing juggling

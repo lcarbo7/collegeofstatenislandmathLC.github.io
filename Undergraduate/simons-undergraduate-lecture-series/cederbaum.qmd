@@ -1,5 +1,6 @@
 ---
 title: "From Newton to Einstein: a guided tour through space and time"
+author: Carla Cederbaum
 date: 2012-11-06
 image: i/carla-cederbaum.png
 image-alt: Photo of Prof. Carla Cederbaum lecturing

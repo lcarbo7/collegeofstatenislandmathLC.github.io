@@ -1,5 +1,6 @@
 ---
 title: On Buttons and Balls That Cannot Run Away
+author: Bernd Kawohl
 date: 2024-09-10
 image: i/bernd-kawohl.png
 image-alt: Headshot of Prof. Bernd Kawohl

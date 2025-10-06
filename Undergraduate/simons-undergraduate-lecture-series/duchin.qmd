@@ -1,5 +1,6 @@
 ---
 title: Random Everything
+author: Moon Duchin
 date: 2017-03-09
 image: i/moon-duchin.png
 image-alt: Dr. Moon Duchin sitting outside

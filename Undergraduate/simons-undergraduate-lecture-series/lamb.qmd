@@ -1,5 +1,6 @@
 ---
 title: Visualizing Hyperbolic Geometry
+author: Evelyn Lamb
 date: 2014-05-08
 image: i/evelyn-lamb.png
 image-alt: Dr. Evelyn Lamb posing in front of a blackboard
