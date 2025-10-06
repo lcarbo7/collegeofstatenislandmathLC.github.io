@@ -1,0 +1,16 @@
+---
+title: Four Subspaces, Five Factorizations
+date: 2024-02-27
+image: i/gilbert-strang.png
+image-alt: Headshot of Prof. Gilbert Strang
+about:
+  template: solana
+  image-width: 35%
+---
+
+Every m by n matrix A leads to two orthogonal subspaces of n-dimensional space
+(the row space and the nullspace of A) and two orthogonal subspaces of m-
+dimensional space (the row space and the nullspace of A). Then the five great
+factorizations of A create better and better bases for these four subspaces.
+This is pure linear algebra but it has very valuable applications. The winners
+are orthonormal bases of v's and u's such that each Avᵢ = sᵢuᵢ.

@@ -1,0 +1,19 @@
+---
+title: Visualizing Hyperbolic Geometry
+date: 2014-05-08
+image: i/evelyn-lamb.png
+image-alt: Dr. Evelyn Lamb posing in front of a blackboard
+about:
+  template: solana
+  image-width: 35%
+---
+
+For two thousand years, mathematicians tried to prove that Euclidean geometry,
+the geometry you probably learned in high school, was all there was. But it’s
+not! In the early nineteenth century, János Bolyai and Nikolai Lobachevsky
+independently discovered that by tweaking one of Euclid’s rules, geometry can
+look totally different. We will explore the rich world of hyperbolic geometry,
+one of the new and beautiful systems of geometry that results from this tweak.
+Our guides on the adventure will be mathematically inspired artists and
+artistically inspired mathematicians, including M.C. Escher, Daina Taimina, and
+Henry Segerman.

@@ -1,0 +1,11 @@
+---
+title: "Artistic Mathematics: Truth and Beauty"
+date: 2024-04-18
+image: i/henry-segerman.png
+image-alt: Headshot of Prof. Henry Segerman
+about:
+  template: solana
+  image-width: 35%
+---
+
+<br>

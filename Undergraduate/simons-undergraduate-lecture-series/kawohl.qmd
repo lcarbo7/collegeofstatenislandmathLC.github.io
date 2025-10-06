@@ -1,0 +1,14 @@
+---
+title: On Buttons and Balls That Cannot Run Away
+date: 2024-09-10
+image: i/bernd-kawohl.png
+image-alt: Headshot of Prof. Bernd Kawohl
+about:
+  template: solana
+  image-width: 35%
+---
+
+In my talk, I shall survey some surprising geometrical facts and some of the
+history of their discovery. You will understand why some British coins have
+corners and what went wrong with a booster rocket at the 1986 disaster of the
+space shuttle Challenger.

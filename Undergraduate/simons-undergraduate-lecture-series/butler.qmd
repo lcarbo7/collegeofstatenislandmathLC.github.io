@@ -1,0 +1,18 @@
+---
+title: Mathematics of Juggling
+date: 2015-09-17
+image: i/steve-butler.png
+image-alt: Dr. Steve Butler's math class practicing juggling
+about:
+  template: solana
+  image-width: 35%
+---
+
+Juggling has been performed for thousands of years, almost as long as
+mathematics has been studied. Only in the last few decades have these two
+subjects come together and this has helped to develop new patterns and ideas
+for juggling. We will cover the basics, and show how to discover new juggling
+patterns. Steve Received his Ph.D. in Mathematics at University of California,
+San Diego. His primary mathematical interests are spectral graph theory,
+enumerative combinatorics, mathematics of juggling, discrete geometry, and
+generally mathematics of fun things.
