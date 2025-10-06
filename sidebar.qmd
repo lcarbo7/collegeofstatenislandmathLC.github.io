@@ -58,6 +58,9 @@ Quick links
 [<i class="bi bi-transparency"></i> Mathclub](https://math-csi-cuny.github.io/mathclub/){.nav-link .nav-fill .table-hover .text-black}
 :::::
 ::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
+[<i class="bi bi-transparency"></i> Simons Undergraduate Lecture Series](/Undergraduate/simons-undergraduate-lecture-series){.nav-link .nav-fill .table-hover .text-black}
+:::::
+::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
 [<i class="bi bi-door-open"></i> Careers](/Undergraduate/Career/){.nav-link .nav-fill .table-hover .text-black}
 :::::
 ::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}

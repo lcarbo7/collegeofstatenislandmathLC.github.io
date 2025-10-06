@@ -69,7 +69,12 @@ function (@main)(args)
         #
         (NM="Mathclub",
             URL="https://math-csi-cuny.github.io/mathclub/",
-            ALT="Major",
+            ALT="Math Club",
+            BI="transparency"),
+        #
+        (NM="Simons Undergraduate Lecture Series",
+            URL="/Undergraduate/simons-undergraduate-lecture-series",
+            ALT="Simons Lectures",
             BI="transparency"),
         #
         (NM="Careers",
