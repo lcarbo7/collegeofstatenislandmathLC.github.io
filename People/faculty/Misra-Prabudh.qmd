@@ -33,7 +33,7 @@ algebraic properties on these rings that would characterize metric
 spaces led me to give a unified proof of some isomorphism theorems and
 also a local isomorphism theorem for metric spaces.
 
-I received a Ph.D. from Indian Insitute of Technolology, Kanpur and an
+I received a Ph.D. from Indian Institute of Technology, Kanpur and an
 M.Sc. degree from Allahabad University, India. After spending about
 two years at the Tata Institute of Fundamental Research, Mumbai, I
 spent the late 70's teaching at the Federal University of Goias and
