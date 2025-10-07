@@ -1,0 +1,10 @@
+---
+title: Math Club Fall Games
+date: 2025-10-09
+Note: 2:30 pm in 1S-214
+about:
+  template: solana
+  image-width: 100%
+---
+
+The annual Math Club social with math themed board games and fun mathematical discussions
