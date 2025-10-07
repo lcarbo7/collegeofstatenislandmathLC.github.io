@@ -70,15 +70,15 @@ format:
     grid:
       body-width: 1200px
     toc: false
-    css: "https://cdn.jsdelivr.net/gh/ryersondmp/sa11y@4.0.5/dist/css/sa11y.min.css"
-    include-in-header:
-    - text: |
-       <script src="https://cdn.jsdelivr.net/combine/gh/ryersondmp/sa11y@4.0.5/dist/js/lang/en.umd.js,gh/ryersondmp/sa11y@4.0.5/dist/js/sa11y.umd.min.js"></script>
-    include-before-body:
-    - text: |
-        <script>
-          Sa11y.Lang.addI18n(Sa11yLangEn.strings);
-          const sa11y = new Sa11y.Sa11y({
-            checkRoot: "body",
-          });
-        </script>
+    # css: "https://cdn.jsdelivr.net/gh/ryersondmp/sa11y@4.0.5/dist/css/sa11y.min.css"
+    # include-in-header:
+    # - text: |
+    #    <script src="https://cdn.jsdelivr.net/combine/gh/ryersondmp/sa11y@4.0.5/dist/js/lang/en.umd.js,gh/ryersondmp/sa11y@4.0.5/dist/js/sa11y.umd.min.js"></script>
+    # include-before-body:
+    # - text: |
+    #     <script>
+    #       Sa11y.Lang.addI18n(Sa11yLangEn.strings);
+    #       const sa11y = new Sa11y.Sa11y({
+    #         checkRoot: "body",
+    #       });
+    #     </script>
