@@ -10,7 +10,6 @@ about:
 ---
 
 
-
 Hyperbolic 3-manifolds and Knot Theory
 
 ## Contacts
@@ -47,3 +46,5 @@ on the Volume Conjecture. Dr. Champanerkar is a co-organizer of the
 Geometry and Topology seminar at the CUNY Graduate Center.  For
 details about his research, see
  [http://www.math.csi.cuny.edu/~abhijit/](http://www.math.csi.cuny.edu/~abhijit/)
+ 
+
