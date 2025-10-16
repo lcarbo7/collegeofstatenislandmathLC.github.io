@@ -1,0 +1,19 @@
+---
+title: "From Newton to Einstein: a guided tour through space and time"
+author: Carla Cederbaum
+date: 2012-11-06
+image: i/carla-cederbaum.png
+image-alt: Photo of Prof. Carla Cederbaum lecturing
+about:
+  template: solana
+  image-width: 35%
+---
+
+The cosmos and its laws have fascinated people since the ancient times. Many
+scientists and philosophers have used mathematics to formulate their ideas and
+compute predictions. Today, we have made huge progress in understanding the
+universe. In this lecture, you will hear about two of the most famous
+physicists of all time, Isaac Newton and Albert Einstein, and about their
+theories of the universe. You will learn about common features and central
+differences in their viewpoints and in the mathematics they used to formulate
+their theories.

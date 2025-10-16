@@ -20,7 +20,7 @@ Class links
 [<i class="bi bi-terminal-fill"></i> JuliaBox](/juliabox){.nav-link .nav-fill .table-hover .text-black}
 :::::
 ::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
-[<i class="bi bi-pencil"></i> Course Materials](/Undergraduate/Courses/){.nav-link .nav-fill .table-hover .text-black}
+[<i class="bi bi-journals"></i> Course Materials](/Undergraduate/Courses/){.nav-link .nav-fill .table-hover .text-black}
 :::::
 ::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
 [<i class="bi bi-person-circle"></i> Tutoring](/Undergraduate/Tutoring/){.nav-link .nav-fill .table-hover .text-black}
@@ -40,13 +40,13 @@ Quick links
 
 :::: {.nav  .flex-column aria-current="page"}
 ::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
-[<i class="bi bi-journal"></i> Brightspace](https://brightspace.cuny.edu/){.nav-link .nav-fill .table-hover .text-black}
+[<i class="bi bi-list-check"></i> Brightspace](https://brightspace.cuny.edu/){.nav-link .nav-fill .table-hover .text-black}
 :::::
 ::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
-[<i class="bi bi-tools"></i> CUNYFirst](https://www.cuny.edu/about/administration/offices/cis/cunyfirst/){.nav-link .nav-fill .table-hover .text-black}
+[<i class="bi bi-person-lines-fill"></i> CUNYFirst](https://www.cuny.edu/about/administration/offices/cis/cunyfirst/){.nav-link .nav-fill .table-hover .text-black}
 :::::
 ::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
-[<i class="bi bi-tools"></i> Navigate](https://csi-cuny.campus.eab.com/){.nav-link .nav-fill .table-hover .text-black}
+[<i class="bi bi-list-columns"></i> Navigate](https://csi-cuny.campus.eab.com/){.nav-link .nav-fill .table-hover .text-black}
 :::::
 ::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
 [<i class="bi bi-ui-checks-grid"></i> Program/Course Descriptions](/Undergraduate/Major/){.nav-link .nav-fill .table-hover .text-black}
@@ -58,6 +58,9 @@ Quick links
 [<i class="bi bi-transparency"></i> Mathclub](https://math-csi-cuny.github.io/mathclub/){.nav-link .nav-fill .table-hover .text-black}
 :::::
 ::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
+[<i class="bi bi-easel3-fill"></i> Simons Undergraduate Lecture Series](/Undergraduate/simons-undergraduate-lecture-series){.nav-link .nav-fill .table-hover .text-black}
+:::::
+::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
 [<i class="bi bi-door-open"></i> Careers](/Undergraduate/Career/){.nav-link .nav-fill .table-hover .text-black}
 :::::
 ::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
@@ -67,13 +70,7 @@ Quick links
 [<i class="bi bi-layout-wtf"></i> Course schedule](https://globalsearch.cuny.edu/CFGlobalSearchTool/search.jsp){.nav-link .nav-fill .table-hover .text-black}
 :::::
 ::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
-[<i class="bi bi-calendar-week"></i> Calendar](/calendar.html){.nav-link .nav-fill .table-hover .text-black}
-:::::
-::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
-[<i class="bi bi-pencil"></i> Accessibility](ADA){.nav-link .nav-fill .table-hover .text-black}
-:::::
-::::: {.btn .btn-light .text-start .px-0 .mx-0 .py-0 .my-0}
-[<i class="bi bi-pencil"></i> Transition to Bright Space](/BB2BS/){.nav-link .nav-fill .table-hover .text-black}
+[<i class="bi bi-universal-access"></i> Accessibility](ADA){.nav-link .nav-fill .table-hover .text-black}
 :::::
 ::::
 

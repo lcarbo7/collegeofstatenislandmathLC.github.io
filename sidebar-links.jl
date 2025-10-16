@@ -8,6 +8,7 @@ function (@main)(args)
 
     # adjust here
     # both course links and quick links
+    # https://icons.getbootstrap.com/ for icons
     course_links = [
         (NM="WeBWorK",
             URL="/WeBWorK/courses.html",
@@ -32,7 +33,7 @@ function (@main)(args)
         (NM="Course Materials",
             URL="/Undergraduate/Courses/",
             ALT="Materials",
-            BI="pencil"),
+            BI="journals"),
         #
         (NM="Tutoring",
             URL="/Undergraduate/Tutoring/",
@@ -45,17 +46,17 @@ function (@main)(args)
         (NM="Brightspace",
             URL="https://brightspace.cuny.edu/",
             ALT="brightspace",
-            BI="journal"),
+            BI="list-check"),
         #
         (NM="CUNYFirst",
             URL="https://www.cuny.edu/about/administration/offices/cis/cunyfirst/",
             ALT="cuny first",
-            BI="tools"),
+            BI="person-lines-fill"),
         #
         (NM="Navigate",
             URL="https://csi-cuny.campus.eab.com/",
             ALT="Navigate",
-            BI="tools"),
+            BI="list-columns"),
         #
         (NM="Program/Course Descriptions",
             URL="/Undergraduate/Major/",
@@ -69,8 +70,13 @@ function (@main)(args)
         #
         (NM="Mathclub",
             URL="https://math-csi-cuny.github.io/mathclub/",
-            ALT="Major",
+            ALT="Math Club",
             BI="transparency"),
+        #
+        (NM="Simons Undergraduate Lecture Series",
+            URL="/Undergraduate/simons-undergraduate-lecture-series",
+            ALT="Simons Lectures",
+            BI="easel3-fill"),
         #
         (NM="Careers",
             URL="/Undergraduate/Career/",
@@ -87,20 +93,10 @@ function (@main)(args)
             ALT="Course Schedule",
             BI="layout-wtf"),
         #
-        (NM="Calendar",
-            URL="/calendar.html",
-            ALT="College calendar",
-            BI="calendar-week"),
-        #
         (NM="Accessibility",
             URL="ADA",
             ALT="Accessibility",
-            BI="pencil"),
-        #
-        (NM="Transition to Bright Space",
-            URL="/BB2BS/",
-            ALT="Brightspace",
-            BI="pencil"),
+            BI="universal-access"),
         #
     ]
 

@@ -1,0 +1,16 @@
+---
+title: The tasty low resolution problem space of knitting and mathematics
+author: Fabienne Serriere
+date: 2019-03-28
+image: i/fabienne-serriere.png
+image-alt: Dr. Fabienne Serriere standing by the beach
+about:
+  template: solana
+  image-width: 35%
+---
+
+It's fun to think of good generative patterns and mathematical visualizations
+for low resolution spaces like knitting. Come hear about the interesting
+mathematics of what is possible on industrial knitting machines. Learn about
+skew, pixel resolution constraints, stitch direction, and types of knitting.
+Find out about some recent research and what it means to mathematical knitting.

@@ -1,0 +1,12 @@
+---
+title: Soap Bubbles and Mathematics
+author: Frank Morgan
+date: 2012-02-22
+image: i/frank-morgan.png
+image-alt: Photo of Prof. Frank Morgan lecturing
+about:
+  template: solana
+  image-width: 35%
+---
+
+<br>

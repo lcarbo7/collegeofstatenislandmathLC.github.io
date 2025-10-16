@@ -1,0 +1,13 @@
+---
+title: Random Everything
+author: Moon Duchin
+date: 2017-03-09
+image: i/moon-duchin.png
+image-alt: Dr. Moon Duchin sitting outside
+about:
+  template: solana
+  image-width: 35%
+---
+
+Random structures, random walks, random paths, and random words: Everything in
+math gets better when you learn to stop worrying and roll the dice.
