@@ -6,8 +6,7 @@ title: Curriculum details
 
 * [CUNY First listing of all active courses](https://globalsearch.cuny.edu/CFGlobalSearchTool/search.jsp)
 
-
-* [Advising documents](./AdvisingDocuments)
+* [Advising documents](../AdvisingDocuments)
 
 * [WebAssign instructions](./WebAssign_Instructions/)
 
