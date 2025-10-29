@@ -11,6 +11,7 @@ courses each semester for the students of the college.
 
 Some topics of interest for our students:
 
+- [Advising documents](AdvisingDocuments/)
 - [CSI Major Exploration Tools](https://www.csi.cuny.edu/students/academic-advisement/students/major-exploration-tools)
 - [Career opportunities](Career)
 - [Courses and accompanying materials](Courses)
@@ -21,6 +22,5 @@ Some topics of interest for our students:
   in the secondary school system of New York City.
 - [The Math Club](https://math-csi-cuny.github.io/mathclub)
 - [Math Department Awards](Awards/)
-- [Advising documents](AdvisingDocuments/)
 - [Alumni](Alumni)
 - [Honors Theses](HonorsTheses/)
