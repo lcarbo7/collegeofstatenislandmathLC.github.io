@@ -347,6 +347,12 @@ from the following list.
     [\[Role/Learning
     Goals\]](LearningGoals/MTH416)
 
+-   MTH 430 *Partial Differential Equations*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20430)
+    [\[Syllabus\]](Syllabi/MTH430-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH430)
+
 -   MTH 431 *Complex Analysis*
     [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20431)
     [\[Syllabus\]](Syllabi/MTH431-syllabus.pdf)
@@ -395,7 +401,6 @@ New courses are given a 500-level designation until they have been
 regularized. The 500 designation does not indicate that the course is
 intended solely for math majors or is harder than a 400-level course.
 
--   MTH 517 Partial Differential Equations
 
 ## Graduate courses
 
