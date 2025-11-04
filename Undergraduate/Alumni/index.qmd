@@ -7,6 +7,9 @@ order: 7
     - [Susan E Wagner High School](https://www.wagnerhigh.net/apps/pages/index.jsp?uREC_ID=1520164&type=u)
     - [PhD program Teachers College, Columbia University](https://search.tc.columbia.edu/people/mk4925)
 
+* Robert Ferrando (2018)
+    - [PhD 2025 University of Arizona](https://www.math.arizona.edu/events/phd-final-oral-dissertation-defense-robert-ferrando-program-applied-mathematics)
+
 * [Rayan Ibrahim (2018)](https://raymaths.github.io/)
     - [PhD 2024 Virginia Commonwealth University](https://scholarscompass.vcu.edu/etd/7780/)
     - [Visiting Assistant Professor, Department of Mathematics, Lafayette College](https://math.lafayette.edu/faculty-staff/)
@@ -21,6 +24,9 @@ order: 7
 * Karamatou Yacoubou Djima (2008)
     - [PhD 2015 University of Maryland-College Park](https://drum.lib.umd.edu/items/db307117-7deb-4cfd-b2f0-fe9a134910a9)
     - [Assistant Professor, Wellesley College](https://www.wellesley.edu/people/karamatou-yacoubou-djima)
+
+* [Daniel Rios Doria (2006)](https://www.linkedin.com/in/danielrd1/)
+    - [PhD 2010 Arizona State University](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=143661)
 
 * Hervé Nganguia (2003)
     - [PhD 2014 NJIT](https://digitalcommons.njit.edu/dissertations/161/)
