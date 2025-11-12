@@ -1,6 +1,6 @@
 ---
-title: Graduation and Departmental Awards
-order: 6
+title: Math Department Awards
+order: 9
 ---
 
 The **Graduation Awards** are given to our most outstanding graduates for that year.  The **Departmental Awards** are given to

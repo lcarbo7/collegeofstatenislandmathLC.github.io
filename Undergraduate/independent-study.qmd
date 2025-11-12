@@ -1,6 +1,6 @@
 ---
-title: Independent Study/MTH594
-order: 4
+title: Independent study courses (MTH594)
+order: 6
 ---
 
 [From the CSI catalog:](https://csi-undergraduate.catalog.cuny.edu/policies/independent-studies-and-internships)

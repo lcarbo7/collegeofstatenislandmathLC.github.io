@@ -1,6 +1,6 @@
 ---
 title: Program requirements and sample schedules
-order: 2
+order: 1
 ---
 
 ## General info
