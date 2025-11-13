@@ -1,5 +1,5 @@
 ---
-title: Courses and accompanying materials
+title: Course Materials
 order: 4
 ---
 

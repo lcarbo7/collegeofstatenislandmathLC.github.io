@@ -1,5 +1,5 @@
 ---
-title: Independent study courses (MTH594)
+title: Independent Study (MTH594)
 order: 6
 ---
 

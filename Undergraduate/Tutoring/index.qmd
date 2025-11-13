@@ -1,5 +1,5 @@
 ---
-title: Tutoring in Mathematics at CSI
+title: Tutoring
 order: 5
 ---
 
