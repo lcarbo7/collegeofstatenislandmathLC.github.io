@@ -1,6 +1,6 @@
 ---
 title: Tutoring
-order: 0
+order: 5
 ---
 
 The Mathematics Tutoring Center is located in 1S-214.

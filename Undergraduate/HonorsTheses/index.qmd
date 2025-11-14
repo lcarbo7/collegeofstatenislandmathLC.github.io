@@ -1,6 +1,6 @@
 ---
 title: Honors Theses
-order: 5
+order: 11
 ---
 
 ## Administrative procedures for writing an honors thesis

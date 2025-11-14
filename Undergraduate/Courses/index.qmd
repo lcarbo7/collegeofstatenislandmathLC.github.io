@@ -1,5 +1,6 @@
 ---
-title: Curriculum details
+title: Course Materials
+order: 4
 ---
 
 * [Curriculum description](./course_list.html)

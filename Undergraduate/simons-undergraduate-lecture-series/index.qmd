@@ -1,5 +1,6 @@
 ---
 title: Simons Undergraduate Lecture Series
+order: 7
 listing:
   type: default
   sort: "date desc"

@@ -2,25 +2,29 @@
 title: Undergraduate
 ---
 
-The  Department of
-Mathematics has
-around 70 declared majors at any given time and offers around 100
-courses each semester for the students of the college.
+The Department of Mathematics has around 70 declared majors at any given time and offers around 100 courses each semester for the students of the college.
 
 ----
 
-Some topics of interest for our students:
+## For Current Students
 
-- [Advising documents](AdvisingDocuments/)
-- [CSI Major Exploration Tools](https://www.csi.cuny.edu/students/academic-advisement/students/major-exploration-tools)
-- [Career opportunities](Career)
+- [Program requirements and sample schedules](AdvisingDocuments/)
+- [Program and Course Description](Major/)
 - [Courses and accompanying materials](Courses)
 - [Tutoring in Mathematics at CSI](Tutoring)
 - [Independent study courses (MTH594)](independent-study.qmd)
-- [The Teacher Academy](http://www.csi.cuny.edu/teacheracademy) A
-  program to support students interested in pursuing a teaching career
-  in the secondary school system of New York City.
-- [The Math Club](https://math-csi-cuny.github.io/mathclub)
+- [Advising documents](advising-resources.qmd)
+
+## Opportunities & Resources
+
+- [Career opportunities](Career)
+- [Simons Undergraduate Lecture Series](simons-undergraduate-lecture-series/)
 - [Math Department Awards](Awards/)
-- [Alumni](Alumni)
 - [Honors Theses](HonorsTheses/)
+- [Alumni](Alumni)
+
+## College Resources
+
+- [CSI Major Exploration Tools](https://www.csi.cuny.edu/students/academic-advisement/students/major-exploration-tools)
+- [The Teacher Academy](http://www.csi.cuny.edu/teacheracademy)   
+- [The Math Club](https://math-csi-cuny.github.io/mathclub)

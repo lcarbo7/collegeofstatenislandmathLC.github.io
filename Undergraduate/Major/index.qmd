@@ -1,6 +1,6 @@
 ---
 title: Program and Course Description
-order: 1
+order: 2
 ---
 
 

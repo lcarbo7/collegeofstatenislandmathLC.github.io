@@ -1,5 +1,0 @@
----
-title: Math Advisor
----
-
-Please contact Andras Balogh at [mathadvisor@csi.cuny.edu](mailto:mathadvisor@csi.cuny.edu)
