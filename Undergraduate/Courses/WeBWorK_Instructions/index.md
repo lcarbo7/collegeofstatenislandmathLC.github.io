@@ -1,13 +1,16 @@
 ---
-title: WeBWorK Comments
+title: WeBWorK Resources
 order: 998
 ---
 
--   There is a link to [WeBWorK](/WeBWorK/courses.html) within the links
+- Find WebWork links for specific math courses here: [WeBWorK Courses](/WeBWorK/courses.html)
 
--   PS: to gain access to lab computers on campus, see CSI's
-    [helpdesk](https://www.csi.cuny.edu/sites/default/files/pdf/studenthelpdesk/hd_authenticationlab.pdf)
-    for information.
+- Read [How to Enter Answers in WeBWorK](./HowToEnterAnswersInWeBWorK.pdf) to learn how to enter expressions, symbols, functions, etc.
 
+::: {.callout-note}
+## To gain access to lab computers on campus:
 
-- Read [how to enter answers in WeBWorK](./HowToEnterAnswersInWeBWorK.pdf).
+See [helpdesk](https://www.csi.cuny.edu/sites/default/files/pdf/studenthelpdesk/hd_authenticationlab.pdf)
+for information.
+
+:::
