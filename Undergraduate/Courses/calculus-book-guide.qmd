@@ -16,27 +16,25 @@ Loose-leaf + Achieve (1-term):  (Bookstore ISBN: 9781319411671)
 
 Loose-leaf + Achieve (4-term): (Bookstore ISBN: 9781319438357)
 
-### Student Options:
-
-* Students taking only one semester of Calculus are suggested to buy the 1- term access to Achieve.
-
-& Students planning on taking more than one semester of Calculus are sug- gested to buy the 4-term access to Achieve, irrespective of whether students will enroll in Achieve sections or Webwork section in subsequent semesters.
-
-### Note:
-
-* Access to the online book expires after Achieve subscription expires. If stu- dents want to have a hard copy of the book, students can choose the “Loose- leaf” option above.
-
-* Students planning on taking more than one semester of Calculus and en- rolled in an Achieve section can use their online book if they enroll in a Calculus Webwork section in subsequent semesters.
-
-* Students who are taking more than one semester of Calculus, and who have bought a 1-term access to Achieve, will be able to upgrade their Achieve subscriptions to 4-term access by paying the difference. Please contact Alex Markle directly at alex.markle@macmillan.com.
-
 ## Instructors using WeBWorK:
 
 Since WeBWorK is free, students do not need to buy any homework system. However students are required to obtain the text book either through Achieve (as above) or a used book or rent a book.
 
-ote: Students planning on taking more than one semester of Calculus and en- rolled in a Webwork section may be required to buy Achieve if they enroll in a Calculus Achieve section in subsequent semesters.
+## Student Options:
 
+Students taking only one semester of Calculus are suggested to buy the 1- term access to Achieve.
 
-### Note:
+- Access to the online book expires after Achieve subscription expires. If students want to have a hard copy of the book, students can choose the “Loose- leaf” option above.
 
-Students planning on taking more than one semester of Calculus and en- rolled in a Webwork section may be required to buy Achieve if they enroll in a Calculus Achieve section in subsequent semesters.
+::: {.callout-note}
+## Students planning on taking more than one semester of Calculus:
+
+Recommended to buy the 4-term access to Achieve, irrespective of whether students will enroll in Achieve sections or Webwork sections in subsequent semesters.
+
+* If enrolled in an Achieve section, they can use their online book if they enroll in a Calculus Webwork section in subsequent semesters.
+
+* If they have bought a 1-term access to Achieve, they will be able to upgrade their Achieve subscriptions to a 4-term access by paying the difference. 
+Please contact [Alex Markle](alex.markle@macmillan.com) directly.
+
+* If enrolled in a Webwork section, they may be required to buy Achieve if they enroll in a Calculus Achieve section in subsequent semesters.
+:::
