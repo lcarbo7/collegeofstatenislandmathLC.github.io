@@ -25,7 +25,7 @@ For example, if your student ID is `12345678`, you would simply enter
 
 Please change your password upon first logging in, make a note and keep it in a safe place.
 
-##  Fall 2025
+##  Spring 2026
 
 ### MTH 102
 
@@ -39,72 +39,110 @@ Please change your password upon first logging in, make a note and keep it in a 
 
 ### MTH 229 -- Julia Projects
 
-* [Burek](http://www.math.csi.cuny.edu/webwork2/Math229_28812_Burek_F25/)
-* [Calderon 28820](http://www.math.csi.cuny.edu/webwork2/Math229_28820_Calderon_F25/)
-* [Calderon 28824](http://www.math.csi.cuny.edu/webwork2/Math229_28824_Calderon_F25/)
-* [Dimino](http://www.math.csi.cuny.edu/webwork2/Math229_28823_Dimino_F25/)
-* [Gunn](http://www.math.csi.cuny.edu/webwork2/Math229_28819_Gunn_F25/)
-* [O'Bryant](http://www.math.csi.cuny.edu/webwork2/Math229_28813_OBryant_F25/)
+* [Burek](http://www.math.csi.cuny.edu/webwork2/Math229_36201_Burek_S26/)
+* [Calderon 28820](http://www.math.csi.cuny.edu/webwork2/Math229_36204_Calderon_S26/)
+* [Dimino](http://www.math.csi.cuny.edu/webwork2/Math229_34643_Dimino_S26/)
+* [Gunn](http://www.math.csi.cuny.edu/webwork2/Math229_34829_Gunn_S26/)
+* [Kurzweil](http://www.math.csi.cuny.edu/webwork2/Math229_34829_Kurzweil_S26/)
+* [Schaefer 28818](http://www.math.csi.cuny.edu/webwork2/Math229_34828_Schaefer_S26/)
+* [Verzani](http://www.math.csi.cuny.edu/webwork2/Math229_35486_Verzani_S26/)
+
+
+### MTH 230
+
+* [Calderon](http://www.math.csi.cuny.edu/webwork2/Math230_27967_Calderon_S26/)
+* [Li_Freda](http://www.math.csi.cuny.edu/webwork2/Math230_33865_Li_Freda_S26/)
+* [Pankratova](http://www.math.csi.cuny.edu/webwork2/Math230_33869_Pankratova_S26/)
+
+
+### MTH 231
+
+* [Balogh](http://www.math.csi.cuny.edu/webwork2/Math231_34644_Balogh_S26/)
+* [Lancellotti](http://www.math.csi.cuny.edu/webwork2/Math231_34827_Lancellotti_S26/)
+* [Maher](http://www.math.csi.cuny.edu/webwork2/Math231_34642_Maher_S26/)
+* [Schaefer](http://www.math.csi.cuny.edu/webwork2/Math231_34826_Schaefer_S26/)
+* [Talafha](http://www.math.csi.cuny.edu/webwork2/Math231_34825_Talafha_S26/)
+
+
+### MTH 232
+
+* [El-Achkar](http://www.math.csi.cuny.edu/webwork2/Math232_33826_El-Achkar_S26/)
+* [Gindes](http://www.math.csi.cuny.edu/webwork2/Math232_57103_Gindes_S26/)
+* [Johnson](http://www.math.csi.cuny.edu/webwork2/Math232_33833_Johnson_S26/)
+* Pribitkin 33815](http://www.math.csi.cuny.edu/webwork2/Math232_33815_Pribitkin_S26/)
+* [Pribitkin 33817](http://www.math.csi.cuny.edu/webwork2/Math232_33817_Pribitkin_S26/)
+* [Tesdall](http://www.math.csi.cuny.edu/webwork2/Math232_33835_Tesdall_S26/)
+
+
+### MTH 233
+
+* [Lucia](http://www.math.csi.cuny.edu/webwork2/Math233_33687_Lucia_S26/)
+* [Schaefer](http://www.math.csi.cuny.edu/webwork2/Math233_33688_Schaefer_S26/)
+* [Vukadinovic](http://www.math.csi.cuny.edu/webwork2/Math233_33689_Vukadinovic_S26/)
+
+
+### MTH 311
+
+* [Rosen](http://www.math.csi.cuny.edu/webwork2/Math311_33850_Rosen_S26/)
+* [Rossi](http://www.math.csi.cuny.edu/webwork2/Math311_33852_Rossi_S26/)
+
+
+### MTH 330
+
+
+MTH   330	33820	D001	Applied Math I	16 C30	TuThF 10:10-12:05 PM 1S-115 	Poje,Andrew Clement
+MTH   330	33819	E001	Applied Math I	30 C30	MW 6:30-9:10 PM 1S-112 	Huang,Zheng
+
+
+* [Huang](http://www.math.csi.cuny.edu/webwork2/Math330_33819_Huang_S26/)
+* [Poje](http://www.math.csi.cuny.edu/webwork2/Math330_33819_Poje_S26/)
+
+
+### MTH 338
+
+MTH   338	33522	D001	Linear Algebra	24 C35	MW 2:30-4:25 PM 1S-112 	Balogh,Andras
+MTH   338	33520	E001	Linear Algebra	13 C35	MW 6:30-8:10 PM 1S-219 	Lucia,Marcello
+
+
+* [Balogh](http://www.math.csi.cuny.edu/webwork2/Math338_33522_Balogh_F25/)
+* [Lucia](http://www.math.csi.cuny.edu/webwork2/Math338_33520_Lucia_F25/)
+
+
+##  Fall 2025
+
+### MTH 102
+
+* [Li_Freda](http://www.math.csi.cuny.edu/webwork2/Math102_Model_F25/)
+
+
+### MTH 229 -- Julia Projects
+
+
 * [Schaefer 28818](http://www.math.csi.cuny.edu/webwork2/Math229_28818_Schaefer_F25/)
-* [Schaefer 29682](http://www.math.csi.cuny.edu/webwork2/Math229_29682_Schaefer_F25/)
 * [Verzani](http://www.math.csi.cuny.edu/webwork2/Math229_28815_Verzani_F25/)
 
 
 ### MTH 230
 
-* [Chester](http://www.math.csi.cuny.edu/webwork2/Math230_27967_Chester_F25/)
-* [Graham](http://www.math.csi.cuny.edu/webwork2/Math230_27963_Graham_F25/)
 * [Manoku](http://www.math.csi.cuny.edu/webwork2/Math230_27964_Manoku_F25/)
 
 
 ### MTH 231
 
-* [Balogh](http://www.math.csi.cuny.edu/webwork2/Math231_28438_Balogh_F25/)
-* [Calderon](http://www.math.csi.cuny.edu/webwork2/Math231_29673_Calderon_F25/)
-* [Demartino](http://www.math.csi.cuny.edu/webwork2/Math231_28439_Demartino_F25/)
-* [Fuchs](http://www.math.csi.cuny.edu/webwork2/Math231_28441_Fuchs_F25/)
-* [Huang](http://www.math.csi.cuny.edu/webwork2/Math231_28440_Huang_F25/)
-* [Kofman](http://www.math.csi.cuny.edu/webwork2/Math231_28443_Kofman_F25/)
-* [Li_W](http://www.math.csi.cuny.edu/webwork2/Math231_28437_Li_W_F25/)
-* [Maher](http://www.math.csi.cuny.edu/webwork2/Math231_28436_Maher_F25/)
 * [Pribitkin](http://www.math.csi.cuny.edu/webwork2/Math231_28434_Pribitkin_F25/)
 * [Talafha](http://www.math.csi.cuny.edu/webwork2/Math231_28435_Talafha_F25/)
-* [Vukadinovic](http://www.math.csi.cuny.edu/webwork2/Math231_28442_Vukadinovic_F25/)
-
-
-### MTH 232
-
-* [Gindes](http://www.math.csi.cuny.edu/webwork2/Math232_28210_Gindes_F25/)
-* [Gunn](http://www.math.csi.cuny.edu/webwork2/Math232_28211_Gunn_F25/)
-* [Lucia](http://www.math.csi.cuny.edu/webwork2/Math232_28214_Lucia_F25/)
-* [Raychaudhuri](http://www.math.csi.cuny.edu/webwork2/Math232_28212_Raychaudhuri_F25/)
-* [Tesdall](http://www.math.csi.cuny.edu/webwork2/Math232_28213_Tesdall_F25/)
 
 
 ### MTH 233
 
-* [Champanerkar](http://www.math.csi.cuny.edu/webwork2/Math233_28695_Champanerkar_F25/)
 * [Pribitkin](http://www.math.csi.cuny.edu/webwork2/Math233_28694_Pribitkin_F25/)
-* [Tesdall](http://www.math.csi.cuny.edu/webwork2/Math233_28691_Tesdall_F25/)
-* [Vukadinovic](http://www.math.csi.cuny.edu/webwork2/Math233_29492_Vukadinovic_F25/)
-
-
-### MTH 311
-
-* [Johnson](http://www.math.csi.cuny.edu/webwork2/Math311_28104_Johnson_F25/)
-* [Rossi](http://www.math.csi.cuny.edu/webwork2/Math311_28103_Rossi_F25/)
-
-
-### MTH 330
-
-* [Huang](http://www.math.csi.cuny.edu/webwork2/Math330_28523_Huang_F25/)
-* [Schaefer](http://www.math.csi.cuny.edu/webwork2/Math330_53298_Schaefer_F25/)
 
 
 ### MTH 338
 
 * [Fuchs](http://www.math.csi.cuny.edu/webwork2/Math338_28219_Fuchs_F25/)
-* [Lucia](http://www.math.csi.cuny.edu/webwork2/Math338_28217_Lucia_F25/)
+
+
 
 
 
