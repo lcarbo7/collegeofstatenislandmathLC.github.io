@@ -27,16 +27,6 @@ Please change your password upon first logging in, make a note and keep it in a 
 
 ##  Spring 2026
 
-### MTH 102
-
-* [Li_Freda](http://www.math.csi.cuny.edu/webwork2/Math102_Model_F25/)
-
-
-### MTH 221
-
-* [Kofman](http://www.math.csi.cuny.edu/webwork2/Math221_28851_Kofman_F25/)
-
-
 ### MTH 229 -- Julia Projects
 
 * [Burek](http://www.math.csi.cuny.edu/webwork2/Math229_36201_Burek_S26/)
@@ -44,7 +34,7 @@ Please change your password upon first logging in, make a note and keep it in a 
 * [Dimino](http://www.math.csi.cuny.edu/webwork2/Math229_34643_Dimino_S26/)
 * [Gunn](http://www.math.csi.cuny.edu/webwork2/Math229_34829_Gunn_S26/)
 * [Kurzweil](http://www.math.csi.cuny.edu/webwork2/Math229_34829_Kurzweil_S26/)
-* [Schaefer 28818](http://www.math.csi.cuny.edu/webwork2/Math229_34828_Schaefer_S26/)
+* [Schaefer](http://www.math.csi.cuny.edu/webwork2/Math229_34828_Schaefer_S26/)
 * [Verzani](http://www.math.csi.cuny.edu/webwork2/Math229_35486_Verzani_S26/)
 
 
@@ -89,20 +79,11 @@ Please change your password upon first logging in, make a note and keep it in a 
 
 ### MTH 330
 
-
-MTH   330	33820	D001	Applied Math I	16 C30	TuThF 10:10-12:05 PM 1S-115 	Poje,Andrew Clement
-MTH   330	33819	E001	Applied Math I	30 C30	MW 6:30-9:10 PM 1S-112 	Huang,Zheng
-
-
 * [Huang](http://www.math.csi.cuny.edu/webwork2/Math330_33819_Huang_S26/)
 * [Poje](http://www.math.csi.cuny.edu/webwork2/Math330_33819_Poje_S26/)
 
 
 ### MTH 338
-
-MTH   338	33522	D001	Linear Algebra	24 C35	MW 2:30-4:25 PM 1S-112 	Balogh,Andras
-MTH   338	33520	E001	Linear Algebra	13 C35	MW 6:30-8:10 PM 1S-219 	Lucia,Marcello
-
 
 * [Balogh](http://www.math.csi.cuny.edu/webwork2/Math338_33522_Balogh_F25/)
 * [Lucia](http://www.math.csi.cuny.edu/webwork2/Math338_33520_Lucia_F25/)
@@ -141,6 +122,7 @@ MTH   338	33520	E001	Linear Algebra	13 C35	MW 6:30-8:10 PM 1S-219 	Lucia,Marcell
 ### MTH 338
 
 * [Fuchs](http://www.math.csi.cuny.edu/webwork2/Math338_28219_Fuchs_F25/)
+
 
 
 
