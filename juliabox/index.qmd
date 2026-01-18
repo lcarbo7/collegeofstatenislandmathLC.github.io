@@ -4,21 +4,21 @@ title: Juliabox links for MTH 229 sections.
 
 Fall 2025
 
-* [Section 28812   Mo 10:10AM - 12:05PM   Burek](https://www.math.csi.cuny.edu/juliabox-burek/)
+* [Section 36201   Mo 12:20PM - 2:15PM   Burek](https://www.math.csi.cuny.edu/juliabox-burek/)
 
-* [Section 28820   Tu 4:40PM - 6:20PM   Calderon](https://www.math.csi.cuny.edu/juliabox-calderon/)
+* [Section 36204   Fr 2:30PM - 4:25PM   Calderon](https://www.math.csi.cuny.edu/juliabox-calderon/)
 
-* [Section 28823   We 8:00AM - 9:55AM   Dimino](https://www.math.csi.cuny.edu/juliabox-dimino/)
+* [Section 34643   Mo 2:30PM - 4:25PM   Dimino](https://www.math.csi.cuny.edu/juliabox-dimino/)
 
-* [Section 28819   Th 12:20PM - 2:15PM   Gunn](https://www.math.csi.cuny.edu/juliabox-gunn/)
+* [Section 34829   We 10:10AM - 12:05PM   Gunn](https://www.math.csi.cuny.edu/juliabox-gunn/)
 
-* [Section 28813   We 10:10AM - 12:05PM   Obryant](https://www.math.csi.cuny.edu/juliabox-obryant/)
+* [Section 36199   MoWe 2:30PM - 3:20PM   Ibrahim](https://www.math.csi.cuny.edu/juliabox-ibrahim/)
 
-* [Section 29682   We 2:30PM - 4:25PM   Schaefer](https://www.math.csi.cuny.edu/juliabox-schaefer/)
+* [Section 37427   MoWe 8:20PM - 9:10PM   Kurzweil](https://www.math.csi.cuny.edu/juliabox-kurzweil/)
 
-* [Section 28818   MoWe 12:20PM - 1:10PM   Schaefer](https://www.math.csi.cuny.edu/juliabox-schaefer/)
+* [Section 34828   Tu 4:40PM - 6:20PM   Schaefer](https://www.math.csi.cuny.edu/juliabox-schaefer/)
 
-* [Section 28815   Th 10:10AM - 12:05PM   Verzani](https://www.math.csi.cuny.edu/juliabox-verzani/)
+* [Section 35486   Th 10:10AM - 12:05PM   Verzani](https://www.math.csi.cuny.edu/juliabox-verzani/)
 
 
 
