@@ -2,8 +2,6 @@
 title: Juliabox links for MTH 229 sections.
 ---
 
-Fall 2025
-
 * [Section 36201   Mo 12:20PM - 2:15PM   Burek](https://www.math.csi.cuny.edu/juliabox-burek/)
 
 * [Section 36204   Fr 2:30PM - 4:25PM   Calderon](https://www.math.csi.cuny.edu/juliabox-calderon/)
