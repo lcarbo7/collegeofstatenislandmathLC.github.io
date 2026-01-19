@@ -96,35 +96,6 @@ Please change your password upon first logging in, make a note and keep it in a 
 * [Li_Freda](http://www.math.csi.cuny.edu/webwork2/Math102_Model_F25/)
 
 
-### MTH 229 -- Julia Projects
-
-
-* [Schaefer 28818](http://www.math.csi.cuny.edu/webwork2/Math229_28818_Schaefer_F25/)
-* [Verzani](http://www.math.csi.cuny.edu/webwork2/Math229_28815_Verzani_F25/)
-
-
-### MTH 230
-
-* [Manoku](http://www.math.csi.cuny.edu/webwork2/Math230_27964_Manoku_F25/)
-
-
-### MTH 231
-
-* [Pribitkin](http://www.math.csi.cuny.edu/webwork2/Math231_28434_Pribitkin_F25/)
-* [Talafha](http://www.math.csi.cuny.edu/webwork2/Math231_28435_Talafha_F25/)
-
-
-### MTH 233
-
-* [Pribitkin](http://www.math.csi.cuny.edu/webwork2/Math233_28694_Pribitkin_F25/)
-
-
-### MTH 338
-
-* [Fuchs](http://www.math.csi.cuny.edu/webwork2/Math338_28219_Fuchs_F25/)
-
-
-
 
 
 
