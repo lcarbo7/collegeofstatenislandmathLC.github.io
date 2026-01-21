@@ -53,7 +53,9 @@ Please change your password upon first logging in, make a note and keep it in a 
 
 * [Balogh](http://www.math.csi.cuny.edu/webwork2/Math231_34644_Balogh_S26/)
 * [Lancellotti](http://www.math.csi.cuny.edu/webwork2/Math231_34827_Lancellotti_S26/)
+* [Lang](http://www.math.csi.cuny.edu/webwork2/Math231_34824_Lang_S26/)
 * [Maher](http://www.math.csi.cuny.edu/webwork2/Math231_34642_Maher_S26/)
+* [Rossi](http://www.math.csi.cuny.edu/webwork2/Math231_34640_Rossi_S26/)
 * [Schaefer](http://www.math.csi.cuny.edu/webwork2/Math231_34826_Schaefer_S26/)
 * [Talafha](http://www.math.csi.cuny.edu/webwork2/Math231_34825_Talafha_S26/)
 
@@ -98,6 +100,7 @@ Please change your password upon first logging in, make a note and keep it in a 
 ### MTH 102
 
 * [Li_Freda](http://www.math.csi.cuny.edu/webwork2/Math102_Model_F25/)
+
 
 
 
