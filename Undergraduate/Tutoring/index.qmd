@@ -16,7 +16,6 @@ The schedule posts here, and on the door of room 1S-214. Please Check back for f
 
 ::: {.grid}
 :::: {.g-col-6}
-
 ### Ian [ianburek.tutor@gmail.com](mailto:ianburek.tutor@gmail.com)
 
 Monday 10AM - 11AM  <br>
@@ -35,7 +34,7 @@ Friday: 11AM - 2:30PM
 :::: {.g-col-6}
 ### Stivi [stivi.tutor.csi@gmail.com](mailto:stivi.tutor.csi@gmail.com)
 
-TBA <br>
+TBA
 ::::
 
 :::
