@@ -33,7 +33,6 @@ Tuesday 12:10 - 2:40PM <br>
 Wednesday 1:00 - 5:00PM (remote) <br>
 Thursday 2:00 - 6:30PM
 
-
 ![[Tutoring Schedule](tutor-grid.pdf)](tutor-grid.pdf){width=100% height=800px}
 
 For further assistance, the [Office of Academic Support](https://www.csi.cuny.edu/students/academic-assistance/tutoring/casa-tutoring-schedule-stem) provides tutoring in the library (Room 1L-117).
