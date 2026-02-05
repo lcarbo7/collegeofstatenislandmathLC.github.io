@@ -1,0 +1,19 @@
+---
+title: \"Counted Out\" Film Screening
+date: 2026-02-24
+image: CountedOut_Flyer.png
+image-alt: Advertisement poster for the event
+Note: 2:30 pm in 1P-223
+about:
+  template: solana
+  image-width: min(500px, 75vmin)
+---
+
+For more info and to RSVP: [https://tinyurl.com/countedoutcsi](https://tinyurl.com/countedoutcsi)
+
+Join us to see a new doc shining light on math as the foundation of democracy and opportunity & help us find the next generation of teachers
+
+In our current information economy, math is everywhere. The people we date, the news we see, the influence of our votes, the education we have access to, the jobs we get—all of it is underwritten by an invisible layer of math that few of us understand, or even notice.
+
+<iframe width="700" height="394" src="https://www.youtube.com/embed/M5a2la9WTtY" title="Counted Out Film Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
