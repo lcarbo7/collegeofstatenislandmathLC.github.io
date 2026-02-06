@@ -107,12 +107,16 @@ Please change your password upon first logging in, make a note and keep it in a 
 * [Balogh](http://www.math.csi.cuny.edu/webwork2/Math338_33522_Balogh_S26/)
 * [Lucia](http://www.math.csi.cuny.edu/webwork2/Math338_33520_Lucia_S26/)
 
+### MTH 621
+
+* [Talafha](http://www.math.csi.cuny.edu/webwork2/Math621_34823_Talafha_S26/)
 
 ##  Fall 2025
 
 ### MTH 102
 
 * [Li_Freda](http://www.math.csi.cuny.edu/webwork2/Math102_Model_F25/)
+
 
 
 
