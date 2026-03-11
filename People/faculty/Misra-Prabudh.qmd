@@ -2,7 +2,7 @@
 title: Prabudh Misra
 image: ./default.png
 image-alt: Prabudh Misra
-description: Professor
+description: Emeritus Professor
 lastname: Misra
 about:
   template: solana
