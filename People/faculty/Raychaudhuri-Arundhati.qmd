@@ -2,7 +2,7 @@
 title: Arundhati Raychaudhuri
 image: /images/people/aru-headshot.jpg
 image-alt: Arundhati Raychaudhuri
-description: Professor
+description: Emeritus Professor
 lastname: Raychaudhuri
 about:
   template: solana
