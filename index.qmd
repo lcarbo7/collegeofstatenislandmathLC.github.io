@@ -2,7 +2,7 @@
 anchor-sections: false
 listing:
   contents: news
-  max-items: 1
+  max-items: 2
   type: table
   fields: [date, title, Note]
   image-height: 200px
