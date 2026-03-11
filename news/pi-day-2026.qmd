@@ -1,5 +1,5 @@
 ---
-title: Pi Day 2027
+title: Pi Day 2026
 date: 2026-03-17
 image: pi-day-2026.png
 image-alt: Pi Day promotional flier
