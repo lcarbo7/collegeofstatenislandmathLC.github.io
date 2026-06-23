@@ -29,7 +29,7 @@ Please change your password upon first logging in, make a note and keep it in a 
 
 ### MTH 102
 
-* [Mormino](http://www.math.csi.cuny.edu/webwork2/Math102_6047_Pearson_Su26/)
+* [Pearson](http://www.math.csi.cuny.edu/webwork2/Math102_6047_Pearson_Su26/)
 
 
 ### MTH 231
