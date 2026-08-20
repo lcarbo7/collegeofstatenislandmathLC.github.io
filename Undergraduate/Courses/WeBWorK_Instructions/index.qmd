@@ -17,7 +17,4 @@ for information.
 
 - For instructors: [how to link WeBWorK to Brightspace](https://www.maher.org.uk/~math/webworks/)
     - This will automatically create accounts for students when they click the
-    Brightspace link. Their username will be their CUNY login
-    (firstname.lastname##) and they can set a password to enable them to login
-    without having to first go through Brightspace.
-    - Note: in the third step, if no Context ID is shown, wait a bit and try again. I ran into this issue and it resolved on its own the next time I logged into Brightspace.
+    Brightspace link.
