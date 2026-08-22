@@ -17,7 +17,7 @@ Student login id's will be available by first day of class.
 
 **Students:** You will access WeBWorK through your class's Brightspace page. Contact your instructor for support.
 
-**Instructors:** please follow the [instructions here](https://www.maher.org.uk/~math/webworks/) to link WeBWorK and Brightspace.
+**Instructors:** please follow the [instructions here](https://www.math.csi.cuny.edu/WeBWorK/instructors.html) to link WeBWorK and Brightspace.
 :::
 
 Please change your password upon first logging in, make a note and keep it in a safe place.
