@@ -1,33 +1,19 @@
 # Notes on LaTeX
 
-::: {.callout-note}
-The support of tagged PDF within \LaTeX is ongoing. The most up-to-date report
-is [available here][1] (direct link to [2024 PDF][2]).
+**Updated April, 2026**
 
-The Overleaf team also has an [extensive document][3] on this topic; while they
-don't give many concrete suggestions for authors, they do provide a lot of info
-about the challenges and explanations of the internals and PDF standards.
-
-We value any testing for the advice on this page. Please open a [Github
-issue](https://github.com/collegeofstatenislandmath/collegeofstatenislandmath.github.io/issues)
-if you have suggestions.
-:::
-
-> Because LaTeX was designed as a typesetting program, PDF documents created using LaTeX do not include the document structure and tagging required for accessibility by default. It is possible to create accessible PDF documents using LaTeX but users will need to use additional LaTeX packages and should be aware of accessibility standards. The Accessibility package in LaTeX can be used to add the structure, tagging, and alt text that PDF's created with LaTeX lack.
->
-> From [LaTeX Guides](https://libguides.lib.msu.edu/c.php?g=995742&p=8207771)
-
-
-Here is a sample preamble with additions for accessibility:
+## Basic setup
 ```tex
 \DocumentMetadata{
-    testphase=phase-III, % enables tagging
-    pdfstandard=A-2b     % declares that the pdf supports the A-2b standard
-                         % note: this is only metadata, it does not enforce
-                         % nor test anything
+  lang        = en-US,
+  pdfstandard = ua-2,
+  pdfstandard = a-4f, %or a-4
+  tagging=on,
+  tagging-setup={math/setup=mathml-SE}
 }
-\documentclass{article}     % unclear if amsart is supported, needs more testing
-\usepackage[utf8]{inputenc} % unrelated to accessibility
+
+\documentclass{article}
+\usepackage[utf8]{inputenc}
 \usepackage{hyperref}
 
 \hypersetup{
@@ -37,32 +23,18 @@ Here is a sample preamble with additions for accessibility:
 }
 ```
 
-::: {.callout-note}
-Documentation for supported key/values for `\DocumentMetadata` [is given here](https://texdoc.org/serve/documentmetadata-support/0).
-:::
+### Notes
 
-## Additional recommendations:
-
-* Use the most up-to-date version of LuaLaTeX/PDFLaTeX available.
-* LuaLaTeX or PDFLaTeX support tagging, other engines (e.g. XeTeX) are untested and may not work
-* As with HTML, you should write your document using structured tags (`\section`, `\subsection`) so that these can be communicated to e-readers.
-* Likewise, pictures should include alt-text, e.g. `\includegraphic[alt={Rubber Duck}]{ducky.jpg}`
-* There is also an early prototype for tagging formulas. Use `\DocumentMetadata{testphase={phase-III,math}}` to load.
-* See the [LaTeX project's report][1] for full details
-
+* The `hypersetup` part sets a title in the PDF's metadata which Brightspace's checker flags if this isn't present.
+* Compile with LuaLaTeX
+* Use the most up-to-date version of LuaLaTeX available.
 
 ## Further reading
 
-Some links of interest (re: accessible LaTeX):
+* [Overleaf documentation](https://docs.overleaf.com/writing-and-editing/creating-accessible-pdfs)
+* based on the [LaTeX Project's documentation](https://latex3.github.io/tagging-project/documentation/usage-instructions)
+* [Overleaf's article digging deeper](https://www.overleaf.com/learn/latex/An_introduction_to_tagged_PDF_files%3A_internals_and_the_challenges_of_accessibility)
 
-* [https://www.ams.org/journals/notices/202301/rnoti-p68.pdf](https://www.ams.org/journals/notices/202301/rnoti-p68.pdf)
-
-* [https://libguides.lib.msu.edu/c.php?g=995742&p=8207771](https://libguides.lib.msu.edu/c.php?g=995742&p=8207771)
-
-* [https://tex.stackexchange.com/questions/261537/a-guide-on-how-to-produce-accessible-pdf-files](https://tex.stackexchange.com/questions/261537/a-guide-on-how-to-produce-accessible-pdf-files)
-
-* [PDF-A Compliant LaTeX](https://shen.hong.io/reproducible-pdfa-compliant-latex/)
-
-[1]: https://www.latex-project.org/publications/indexbytopic/pdf/
-[2]: https://www.latex-project.org/publications/2024-FMi-DPC-UFi-JAW-doceng24.pdf
-[3]: https://www.overleaf.com/learn/latex/An_introduction_to_tagged_PDF_files%3A_internals_and_the_challenges_of_accessibility#Introducing_tagged_PDF
+::: {.callout-note}
+Read the Overleaf or LaTeX project for more info on tables, images, document structure, etc.
+:::

@@ -14,3 +14,7 @@ See [helpdesk](https://www.csi.cuny.edu/sites/default/files/pdf/studenthelpdesk/
 for information.
 
 :::
+
+- For instructors: [how to link WeBWorK to Brightspace](https://www.maher.org.uk/~math/webworks/)
+    - This will automatically create accounts for students when they click the
+    Brightspace link.
