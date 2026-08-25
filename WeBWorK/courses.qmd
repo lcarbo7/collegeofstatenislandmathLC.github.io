@@ -39,9 +39,11 @@ Please change your password upon first logging in, make a note and keep it in a 
 ### MTH 119
 
 * [Fortunato](http://www.math.csi.cuny.edu/webwork2/Math119_26722_Fortunato_F26/)
-* [Kurzweil](http://www.math.csi.cuny.edu/webwork2/Math119_26724_Kurzweil_F26/)
+* [Kurzweil 2672](http://www.math.csi.cuny.edu/webwork2/Math119_26724_Kurzweil_F26/)
+* [Kurzweil 57607](http://www.math.csi.cuny.edu/webwork2/Math119_57607_Kurzweil_F26/)
 * [Lancellotti](http://www.math.csi.cuny.edu/webwork2/Math119_26721_Lancellotti_F26/)
 * [Pham](http://www.math.csi.cuny.edu/webwork2/Math119_26720_Pham_F26/)
+* [Traore](http://www.math.csi.cuny.edu/webwork2/Math119_58195_Traore_F26/)
 
 
 ### MTH 121
