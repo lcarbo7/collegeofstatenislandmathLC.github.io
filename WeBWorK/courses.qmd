@@ -6,11 +6,9 @@ We offer several different online homework solutions at CSI in the math
 curriculum. For several courses, the MAA sponsored WebWork
 program. Among others, this has the big advantage of being free to use.
 
-The courses that are WebWork enabled are listed below. Follow the link to your professor's class.
+The courses that are WebWork enabled are listed below.
 
 ## Login instructions
-
-Student login id's will be available by first day of class.
 
 ::: {.callout-important}
 ### Please note the new login instructions, starting in Fall 2026 semester:
@@ -19,8 +17,6 @@ Student login id's will be available by first day of class.
 
 **Instructors:** please follow the [instructions here](https://www.math.csi.cuny.edu/WeBWorK/instructors.html) to link WeBWorK and Brightspace.
 :::
-
-Please change your password upon first logging in, make a note and keep it in a safe place.
 
 
 ##  Fall 2026
