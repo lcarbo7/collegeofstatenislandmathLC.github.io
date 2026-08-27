@@ -70,9 +70,10 @@ The courses that are WebWork enabled are listed below.
 
 ### MTH 230
 
+* [Demartino](http://www.math.csi.cuny.edu/webwork2/Math230_21495_Demartino_F26/)
 * [Gunn](http://www.math.csi.cuny.edu/webwork2/Math230_21492_Gunn_F26/)
 * [Li_Freda](http://www.math.csi.cuny.edu/webwork2/Math230_21494_Li_Freda_F26/)
-* [Pankratova](http://www.math.csi.cuny.edu/webwork2/Math230_21495_Pankratova_F26/)
+
 
 
 ### MTH 231
